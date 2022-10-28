@@ -1,0 +1,223 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-30 21:18+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\adapter.py:17
+#, fuzzy
+#| msgid ""
+#| "A verification e-mail has been sent to you. Follow the link provided to  "
+#| "finalize the signup process.  \n"
+#| " Please contact us if you donot receive it within a few minutes."
+msgid ""
+"A verification e-mail has been sent to you. Follow the link provided to "
+"finalize the \n"
+"signup process. Please contact us if you donot receive it within a few "
+"minutes."
+msgstr ""
+"Un correo electrónico de verificación le ha sido enviado. Siga el enlace "
+"provisto para finalizar el proceso de inscripción.  Contacte con nosotros, "
+"por favor, si no lo recibe en pocos minutos"
+
+#: .\adapter.py:19
+#, fuzzy
+#| msgid "Account is inactive"
+msgid "This account is not active"
+msgstr "La cuenta está inactiva"
+
+#: .\adapter.py:133
+msgid "Something went wrong, please contact admin."
+msgstr ""
+
+#: .\api\serializers.py:52 .\api\serializers.py:134 .\api\serializers.py:226
+msgid "A user is already registered with this e-mail address."
+msgstr ""
+"Un usuario ya está registrado con esta dirección de correo electrónico."
+
+#: .\api\serializers.py:60 .\api\serializers.py:142 .\api\serializers.py:234
+#, fuzzy
+#| msgid "The two password fields didn't match."
+msgid "The two password fields didn't match. Try again"
+msgstr "Las dos contraseñas no se  corresponden. Inténtelo de nuevo"
+
+#: .\api\serializers.py:89 .\api\serializers.py:179 .\api\serializers.py:272
+msgid "Verify your phone number to continue registration"
+msgstr "Verifique su número de teléfono para continuar el registro"
+
+#: .\api\serializers.py:182
+#, fuzzy
+#| msgid "Verify your phone number to continue registration"
+msgid "Verify your email to continue registration"
+msgstr "Verifique su número de teléfono para continuar el registro"
+
+#: .\api\serializers.py:373
+msgid "Email and password are required to login"
+msgstr "Su correo electrónico y contraseña son necesarios para conectarse"
+
+#: .\api\serializers.py:389
+#, fuzzy
+#| msgid "User account is disabled."
+msgid "Your account is disabled."
+msgstr "Su cuenta no está activada."
+
+#: .\api\serializers.py:393
+#, fuzzy
+#| msgid "Your verification email has been resent"
+msgid "Your email or password is not correct."
+msgstr "Su email y contraseña no son correctos"
+
+#: .\api\serializers.py:403
+#, fuzzy
+#| msgid "E-mail is not verified."
+msgid "Your email is not verified."
+msgstr "Su correo electrónico no está verificado."
+
+#: .\api\views.py:77
+msgid ""
+"We sent you an SMS verification code, use the code to continue registration."
+msgstr ""
+"Le hemos enviado un código de verificación por SMS, utilice el código para "
+"continuar con el registro."
+
+#: .\api\views.py:85
+msgid "Unable to send SMS Verification Code, please try again later"
+msgstr ""
+"Imposible enviar el código de verificación SMS, por favor, intente más tarde"
+
+#: .\api\views.py:99
+msgid "We have successfully verified your mobile number"
+msgstr "Se ha verificado satisfactoriamente su número de teléfono"
+
+#: .\api\views.py:108
+msgid "Unable to verify your mobile number"
+msgstr "Imposible verificar su número de teléfono"
+
+#: .\api\views.py:125 .\api\views.py:590
+#, fuzzy
+#| msgid ""
+#| "We sent you an SMS verification code, use the code to continue "
+#| "registration."
+msgid ""
+"We sent you an email verification code, use the code to continue "
+"registration."
+msgstr ""
+"Le hemos enviado un código de verificación por SMS, utilice el código para "
+"continuar con el registro."
+
+#: .\api\views.py:134 .\api\views.py:599
+#, fuzzy
+#| msgid "Unable to send SMS Verification Code, please try again later"
+msgid "Unable to send email Verification Code, please try again later"
+msgstr ""
+"Imposible enviar el código de verificación SMS, por favor, intente más tarde"
+
+#: .\api\views.py:166 .\api\views.py:170 .\api\views.py:174
+msgid "Email verification failed. Please contact admin."
+msgstr ""
+
+#: .\api\views.py:187
+#, fuzzy
+#| msgid "Unable to verify your mobile number"
+msgid "Unable to verify your email."
+msgstr "Imposible verificar su número de teléfono"
+
+#: .\api\views.py:260
+#, fuzzy
+#| msgid "A user is already registered with this e-mail address."
+msgid "User does not exist with this email address"
+msgstr ""
+"Un usuario ya está registrado con esta dirección de correo electrónico."
+
+#: .\api\views.py:305
+msgid "Your verification email has been resent"
+msgstr "Su email de verificación ha sido reenviado"
+
+#: .\api\views.py:425 .\api\views.py:443
+#, fuzzy
+#| msgid "Failed to upload profile image, please try again"
+msgid "Your profile image failed to upload, please try again"
+msgstr ""
+"Su imagen de perfil no se ha cargado correctamente, por favor, vuelva a "
+"intentarlo"
+
+#: .\api\views.py:474 .\api\views.py:508 .\api\views.py:545
+#, fuzzy
+#| msgid "Your verification email has been resent"
+msgid "A verification email has been sent consult your email account."
+msgstr "Su email de verificación ha sido reenviado"
+
+#: .\api\views.py:476 .\api\views.py:510 .\api\views.py:552
+msgid "Congratulations! Your registration was completed successfully"
+msgstr "¡Felicidades! Su registro fue completado satisfactoriamente"
+
+#: .\api\views.py:650
+msgid "Your password has been reset."
+msgstr "Su contraseña ha sido restablecida."
+
+#: .\api\views.py:675
+msgid "Password reset e-mail has been sent."
+msgstr "Su email de verificación ha sido reenviado"
+
+#: .\api\views.py:679
+msgid ""
+"We could not find this email on the portal. Please check that you entered "
+"your email correctly."
+msgstr ""
+"No hemos encontrado este correo electrónico en el portal. Por favor, "
+"compruebe que ha introducido su correo electrónico correctamente."
+
+#: .\app_settings.py:3
+msgid "Account successfully created."
+msgstr "la cuenta secreó correctamente."
+
+#: .\app_settings.py:4
+msgid "Please confirm that {to_email} is your email with this code: ICF_OTP"
+msgstr ""
+"Confirme que {to_email} es su correo electrónico coneste código: ICF_OTP"
+
+#: .\models.py:65
+msgid "email address"
+msgstr ""
+
+#: .\models.py:78
+msgid "Male"
+msgstr "Masculino"
+
+#: .\models.py:79
+msgid "Female"
+msgstr "Femenino"
+
+#: .\models.py:88
+msgid "biography"
+msgstr "Biografía"
+
+#~ msgid "Verification e-mail sent."
+#~ msgstr "Su correo electrónico de verificación ha sido reenviado"
+
+#~ msgid "Failed to upload profile image, please try again"
+#~ msgstr "Error al cargar la imagen del perfil, por favor intente de nuevo"
+
+#~ msgid "Unable to log in with provided credentials."
+#~ msgstr "No se puede iniciar sesión con las credenciales proporcionadas."
+
+#~ msgid "Failed to update profile image, please try again"
+#~ msgstr ""
+#~ "Error al actualizar la imagen del perfil, por favor intente de nuevo"
+
+#~ msgid "Must include \"email\" and \"password\"."
+#~ msgstr "Se requiere correo electrónico y contraseña para iniciar sesión"

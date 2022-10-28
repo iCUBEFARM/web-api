@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-16 17:33+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\mobile.py:52
+msgid "Please provide a valid phone number."
+msgstr "Veuillez fournir un numéro de téléphone valide."
+
+#: .\payments.py:93 .\payments.py:974
+msgid "Invalid action, please check and try again."
+msgstr ""
+
+#: .\payments.py:149 .\payments.py:589 .\payments.py:1019 .\payments.py:1104
+msgid "Transaction is successful."
+msgstr "La transaction a réussi."
+
+#: .\payments.py:159 .\payments.py:161 .\payments.py:212 .\payments.py:259
+#: .\payments.py:306 .\payments.py:354 .\payments.py:400 .\payments.py:448
+#: .\payments.py:495 .\payments.py:595 .\payments.py:597 .\payments.py:646
+#: .\payments.py:692 .\payments.py:739 .\payments.py:786 .\payments.py:831
+#: .\payments.py:878 .\payments.py:924 .\payments.py:1028 .\payments.py:1032
+#: .\payments.py:1111 .\sample_pay.py:240 .\sample_pay.py:244
+#: .\sample_pay.py:277 .\sample_pay.py:281
+msgid "Transaction failed."
+msgstr "La transaction a échoué."
+
+#: .\payments.py:1198 .\payments.py:1268
+msgid "Could not create payment bill, please try again"
+msgstr "Impossible de créer la facture de paiement, veuillez réessayer."
+
+#: .\sample_pay.py:774 .\sample_pay.py:837 .\sample_pay.py:900
+#: .\sample_pay.py:1067
+#, fuzzy
+#| msgid "Could not create payment bill, please try again"
+msgid "Could not create payment bill, please try again."
+msgstr "Impossible de créer la facture de paiement, veuillez réessayer."

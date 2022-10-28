@@ -1,0 +1,2 @@
+apogsmith@hotmail.com 'NoneType' object has no attribute 'split'
+--------------------------------------------

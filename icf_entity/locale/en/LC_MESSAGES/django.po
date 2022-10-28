@@ -1,0 +1,242 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-19 14:56+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\api\mixins.py:20
+msgid "Unable to find entity"
+msgstr ""
+
+#: .\api\serializers.py:81 .\api\serializers.py:126
+msgid "Please login and try again."
+msgstr ""
+
+#: .\api\serializers.py:172
+msgid "Unknown user, cannot create job"
+msgstr ""
+
+#: .\api\serializers.py:192
+msgid ""
+"The minimum duration for sponsoring an entity is X days and the maximum "
+"duration of sponsoring an entity is Y days. Please check and try again."
+msgstr ""
+
+#: .\api\serializers.py:208
+msgid ""
+"You cannot change the start date of an ongoing sponsored entity campaign."
+msgstr ""
+
+#: .\api\serializers.py:213
+msgid ""
+"The start date of your sponsored entity campaign can only be between X and Y."
+msgstr ""
+
+#: .\api\serializers.py:218
+msgid ""
+"The end date of your sponsored entity campaign can only be between X and Y"
+msgstr ""
+
+#: .\api\serializers.py:246
+msgid ""
+"Please review your start date and end date and try again. You can contact "
+"Customer Support to get help."
+msgstr ""
+
+#: .\api\serializers.py:388
+msgid "{} is already a user with {}"
+msgstr ""
+
+#: .\api\serializers.py:394 .\api\serializers.py:425
+msgid ""
+"The user was not added because we could not find any user with the email {}"
+msgstr ""
+
+#: .\api\serializers.py:406 .\api\views.py:175 .\api\views.py:178
+msgid "We could not find any user with the email {}"
+msgstr ""
+
+#: .\api\serializers.py:409
+msgid "This user is not part of {}"
+msgstr ""
+
+#: .\api\views.py:166
+msgid "user found"
+msgstr ""
+
+#: .\api\views.py:201
+msgid "user not found"
+msgstr ""
+
+#: .\api\views.py:206
+msgid "User already exits"
+msgstr ""
+
+#: .\api\views.py:226
+msgid "An Email has been sent to the user for confirmation"
+msgstr ""
+
+#: .\api\views.py:240
+msgid "We could not find any {} in {}"
+msgstr ""
+
+#: .\api\views.py:254
+msgid "Invalid request, cannot remove self"
+msgstr ""
+
+#: .\api\views.py:260
+msgid "You do not have permission to remove an admin"
+msgstr ""
+
+#: .\api\views.py:269
+msgid "{} has been successfully deleted from {}"
+msgstr ""
+
+#: .\api\views.py:271
+msgid "The delete action failed because the user was not found in {}"
+msgstr ""
+
+#: .\api\views.py:293
+msgid "user not found, cannot get permissions"
+msgstr ""
+
+#: .\api\views.py:302
+msgid "We could not retrieve the permissions for {}"
+msgstr ""
+
+#: .\api\views.py:323
+msgid "You have successfully added new permissions to {}"
+msgstr ""
+
+#: .\api\views.py:327
+msgid ""
+"You cannot assign permissions to an invalid user. Recheck the user and try "
+"again."
+msgstr ""
+
+#: .\api\views.py:350
+msgid ""
+"You cannot remove your own admin permissions. Please contact another entity "
+"admin"
+msgstr ""
+
+#: .\api\views.py:354
+msgid "You have successfully removed permissions from {}"
+msgstr ""
+
+#: .\api\views.py:359
+msgid ""
+"You cannot remove permissions from an invalid user. Please recheck the user "
+"and try again."
+msgstr ""
+
+#: .\api\views.py:373
+msgid "Invalid user"
+msgstr ""
+
+#: .\api\views.py:396
+msgid "User not found, cannot update"
+msgstr ""
+
+#: .\api\views.py:594
+msgid "Already part of entity"
+msgstr ""
+
+#: .\api\views.py:616 .\api\views.py:655
+msgid "Invalid request"
+msgstr ""
+
+#: .\api\views.py:706
+msgid "Entity marked as inactive successfully."
+msgstr ""
+
+#: .\api\views.py:708
+msgid "Entity is already marked inactive."
+msgstr ""
+
+#: .\api\views.py:712
+msgid "Entity object not found."
+msgstr ""
+
+#: .\api\views.py:715
+msgid "Could not mark entity inactive. Please contact admin."
+msgstr ""
+
+#: .\entity_credit_helper.py:17
+msgid "Invalid action, please check and try again."
+msgstr ""
+
+#: .\models.py:65
+msgid "Small"
+msgstr ""
+
+#: .\models.py:66
+msgid "Medium"
+msgstr ""
+
+#: .\models.py:67
+msgid "Large"
+msgstr ""
+
+#: .\models.py:126 .\models.py:229
+msgid "Active"
+msgstr ""
+
+#: .\models.py:127 .\models.py:230
+msgid "Inactive"
+msgstr ""
+
+#: .\models.py:134 .\models.py:249
+msgid "name"
+msgstr ""
+
+#: .\models.py:146 .\models.py:238
+msgid "description"
+msgstr ""
+
+#: .\models.py:237
+msgid "title"
+msgstr ""
+
+#: .\models.py:250
+msgid "position"
+msgstr ""
+
+#: .\models.py:272
+msgid "ministry_type"
+msgstr ""
+
+#: .\models.py:274
+msgid "industries"
+msgstr ""
+
+#: .\models.py:275
+msgid "sectors"
+msgstr ""
+
+#: .\permissions.py:27
+msgid "You do not have the permissions of an entity admin"
+msgstr ""
+
+#: .\permissions.py:33
+msgid "You do not have the permissions to edit this entity"
+msgstr ""
+
+#: .\permissions.py:39 .\permissions.py:45 .\permissions.py:51
+#: .\permissions.py:87
+msgid "You do not have the permissions to view users of this entity"
+msgstr ""

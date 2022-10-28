@@ -1,0 +1,139 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-30 17:28+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\api\serializers.py:153 .\api\serializers.py:351
+#, fuzzy
+#| msgid "Do not have permissions to view entity messages"
+msgid "You do not have the permissions to compose messages for this entity"
+msgstr ""
+"Vous n'avez pas d'autorisation  pour composer des messages pour cette entité"
+
+#: .\app_settings.py:3
+msgid "Invitation to apply"
+msgstr ""
+
+#: .\app_settings.py:5
+msgid ""
+"Dear {job_seeker_user_name},<br><p>\n"
+"{entity_name} is inviting you to apply their following open roles.</p>\n"
+"<p> If you are interested in this opportunity, reply to this message here "
+"and we will get in touch.</p><br>\n"
+"Job links:\n"
+msgstr ""
+
+#: .\models.py:223 .\models.py:224
+msgid "Messaging Permissions"
+msgstr "Autorisations de messagerie"
+
+#: .\models.py:231
+msgid "subject"
+msgstr "Sujet"
+
+#: .\models.py:233
+msgid "body"
+msgstr "Corps"
+
+#: .\models.py:249
+msgid "parent message"
+msgstr "Message parent"
+
+#: .\models.py:250
+msgid "root message"
+msgstr "Message racine"
+
+#: .\models.py:251 .\models.py:319
+msgid "sent at"
+msgstr "Envoyé à"
+
+#: .\models.py:252 .\models.py:320
+msgid "read at"
+msgstr "Lu à"
+
+#: .\models.py:253
+msgid "replied at"
+msgstr "Répondu à"
+
+#: .\models.py:254
+msgid "archived by sender"
+msgstr "Archivé par l'expéditeur"
+
+#: .\models.py:255
+msgid "archived by recipient"
+msgstr "Archivé par le destinataire"
+
+#: .\models.py:257
+msgid "deleted by sender at"
+msgstr "Supprimé par l'expéditeur à"
+
+#: .\models.py:258
+msgid "deleted by recipient at"
+msgstr "Supprimé par le destinataire à"
+
+#: .\models.py:264 .\models.py:317
+msgid "message"
+msgstr "Message"
+
+#: .\models.py:265
+msgid "messages"
+msgstr "Messages"
+
+#: .\models.py:288
+msgid "sender"
+msgstr "Expéditeur"
+
+#: .\models.py:304
+msgid "recipient"
+msgstr "Destinataire"
+
+#: .\models.py:321
+#, fuzzy
+#| msgid "replied at"
+msgid "deleted_at"
+msgstr "Répondu à"
+
+#: .\models.py:322
+msgid "details"
+msgstr ""
+
+#: .\models.py:325
+msgid "notification"
+msgstr ""
+
+#: .\models.py:326
+msgid "notifications"
+msgstr ""
+
+#: .\permissions.py:19
+#, fuzzy
+#| msgid "Do not have permissions to view entity messages"
+msgid "You do not have the permissions to compose a message"
+msgstr "Vous n'avez pas d'autorisation pour composer un message"
+
+#: .\permissions.py:49 .\permissions.py:71 .\permissions.py:92
+#, fuzzy
+#| msgid "Do not have permissions to view entity messages"
+msgid "You do not have the permissions to reply to this message"
+msgstr "Vous n'avez pas la permission de répondre à ce message"
+
+#: .\permissions.py:114
+#, fuzzy
+#| msgid "Do not have permissions to view entity messages"
+msgid "You do not have the permissions to read entity messages"
+msgstr "Vous n'êtes pas autorisé à lire les messages d'entité"

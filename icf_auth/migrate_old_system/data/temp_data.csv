@@ -1,0 +1,4 @@
+uid,user_type_id,email,password,first_name,middle_name,last_name,registration_date,profile_image_url,last_login_date,active_until_date,primary_telephone_number,secondary_telephone_number,status,phone_type_id,alt_phone_type_id,telephone_no_code,alternate_tele_no_code,telephone_code,prefered_lang,document_type,document_url
+503,1,dhioco@chibakenma.ml,a329b69166cc9fd808ee2082a227f88e,Maria,Rosario,Sima Oyana,10/26/15 11:02,503_photo.jpg,222709888,555534764,2,2,2,66,240,66,,,en,1,503_curriculumderosario.docx
+
+

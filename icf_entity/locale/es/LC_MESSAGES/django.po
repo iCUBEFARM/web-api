@@ -1,0 +1,351 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-19 14:56+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\api\mixins.py:20
+msgid "Unable to find entity"
+msgstr "Entidad no encontrada"
+
+#: .\api\serializers.py:81 .\api\serializers.py:126
+msgid "Please login and try again."
+msgstr "Por favor ingrese y vuelva a intentarlo"
+
+#: .\api\serializers.py:172
+#, fuzzy
+#| msgid "not an authenticated user, cannot create entity"
+msgid "Unknown user, cannot create job"
+msgstr "No es un usuario autentificado, no puede crear entidad"
+
+#: .\api\serializers.py:192
+msgid ""
+"The minimum duration for sponsoring an entity is X days and the maximum "
+"duration of sponsoring an entity is Y days. Please check and try again."
+msgstr ""
+"Duración inválida para patrocinar la entidad, verifique e intentelo de nuevo"
+
+#: .\api\serializers.py:208
+#, fuzzy
+#| msgid ""
+#| "Cannot change start date of an already sponsored entity, please check."
+msgid ""
+"You cannot change the start date of an ongoing sponsored entity campaign."
+msgstr ""
+"No puede cambiar la fecha de inicio de una campaña de entidad patrocinada en "
+"curso."
+
+#: .\api\serializers.py:213
+msgid ""
+"The start date of your sponsored entity campaign can only be between X and Y."
+msgstr ""
+"La fecha de inicio de su campaña de entidad patrocinada solo puede ser entre "
+"X e Y."
+
+#: .\api\serializers.py:218
+msgid ""
+"The end date of your sponsored entity campaign can only be between X and Y"
+msgstr ""
+"La fecha de finalización de su campaña de entidad patrocinada solo puede ser "
+"entre X e Y"
+
+#: .\api\serializers.py:246
+msgid ""
+"Please review your start date and end date and try again. You can contact "
+"Customer Support to get help."
+msgstr ""
+"Revise la fecha de inicio y la fecha de finalización y vuelva a intentarlo. "
+"Puede ponerse en contacto con Atención al cliente para obtener ayuda."
+
+#: .\api\serializers.py:388
+msgid "{} is already a user with {}"
+msgstr "{} Un usuario ya existe con {}."
+
+#: .\api\serializers.py:394 .\api\serializers.py:425
+msgid ""
+"The user was not added because we could not find any user with the email {}"
+msgstr ""
+"El usuario no fue añadido porque no pudimos encontrar ningún usuario con el "
+"correo electrónico {}"
+
+#: .\api\serializers.py:406 .\api\views.py:175 .\api\views.py:178
+#, fuzzy
+#| msgid "cannot find user in the entity"
+msgid "We could not find any user with the email {}"
+msgstr "No se encuentra ningún usuario con el email {}"
+
+#: .\api\serializers.py:409
+#, fuzzy
+#| msgid "user not part of entity"
+msgid "This user is not part of {}"
+msgstr "El usuario no es parte de {}"
+
+#: .\api\views.py:166
+msgid "user found"
+msgstr "Usuario encontrado"
+
+#: .\api\views.py:201
+msgid "user not found"
+msgstr "Usuario no encontrado"
+
+#: .\api\views.py:206
+#, fuzzy
+#| msgid "user already exists with this entity"
+msgid "User already exits"
+msgstr "El usuario ya existe con esta entidad."
+
+#: .\api\views.py:226
+msgid "An Email has been sent to the user for confirmation"
+msgstr ""
+
+#: .\api\views.py:240
+msgid "We could not find any {} in {}"
+msgstr "No encontrado ningún {} en {}"
+
+#: .\api\views.py:254
+#, fuzzy
+#| msgid "Invalid request, cannot remove own admin permission"
+msgid "Invalid request, cannot remove self"
+msgstr "Solicitud inválida, no puede eliminar el permiso de administrador"
+
+#: .\api\views.py:260
+#, fuzzy
+#| msgid "Do not have permissions to edit the entity"
+msgid "You do not have permission to remove an admin"
+msgstr "No tiene permisos para editar la entidad"
+
+#: .\api\views.py:269
+msgid "{} has been successfully deleted from {}"
+msgstr "{} ha sido eliminado de {}"
+
+#: .\api\views.py:271
+msgid "The delete action failed because the user was not found in {}"
+msgstr "La acción de eliminación falló porque el usuario no se encontró en {}"
+
+#: .\api\views.py:293
+#, fuzzy
+#| msgid "user not found, cannot add to entity"
+msgid "user not found, cannot get permissions"
+msgstr "Usuario no encontrado, no puede agregar a la entidad"
+
+#: .\api\views.py:302
+#, fuzzy
+#| msgid "Could not get permissions for user"
+msgid "We could not retrieve the permissions for {}"
+msgstr "No se pueden recuperar los permisos para {}"
+
+#: .\api\views.py:323
+msgid "You have successfully added new permissions to {}"
+msgstr "Usted a añadido satisfactoriamente nuevos permisos a {}"
+
+#: .\api\views.py:327
+msgid ""
+"You cannot assign permissions to an invalid user. Recheck the user and try "
+"again."
+msgstr ""
+"Usted no puede eliminar sus propios permisos de administrador. Por favor "
+"contacte a otro administrador de la entidad "
+
+#: .\api\views.py:350
+msgid ""
+"You cannot remove your own admin permissions. Please contact another entity "
+"admin"
+msgstr ""
+"Usted no puede eliminar sus propios permisos de administrador. Por favor "
+"contacte a otro administrador de la entidad "
+
+#: .\api\views.py:354
+msgid "You have successfully removed permissions from {}"
+msgstr "Ha eliminado con éxito los permisos de {}"
+
+#: .\api\views.py:359
+msgid ""
+"You cannot remove permissions from an invalid user. Please recheck the user "
+"and try again."
+msgstr ""
+"Usted no puede eliminar permisos de un usuario no válido. Por favor "
+"verifique el usuario e inténtelo de nuevo"
+
+#: .\api\views.py:373
+msgid "Invalid user"
+msgstr "Usuario no válido"
+
+#: .\api\views.py:396
+#, fuzzy
+#| msgid "user not found, cannot add to entity"
+msgid "User not found, cannot update"
+msgstr "Usuario no encontrado, no puede agregar a la entidad"
+
+#: .\api\views.py:594
+#, fuzzy
+#| msgid "user not part of entity"
+msgid "Already part of entity"
+msgstr "El usuario no es parte de la entidad"
+
+#: .\api\views.py:616 .\api\views.py:655
+#, fuzzy
+#| msgid "Invalid user"
+msgid "Invalid request"
+msgstr "Usuario invalido"
+
+#: .\api\views.py:706
+msgid "Entity marked as inactive successfully."
+msgstr ""
+
+#: .\api\views.py:708
+msgid "Entity is already marked inactive."
+msgstr ""
+
+#: .\api\views.py:712
+#, fuzzy
+#| msgid "user not found"
+msgid "Entity object not found."
+msgstr "Usuario no encontrado"
+
+#: .\api\views.py:715
+msgid "Could not mark entity inactive. Please contact admin."
+msgstr ""
+
+#: .\entity_credit_helper.py:17
+#, fuzzy
+#| msgid "Invalid end date for sponsoring, please check and try again."
+msgid "Invalid action, please check and try again."
+msgstr ""
+"Fecha de finalización inválida para el patrocinio, verifique e intentelo de "
+"nuevo."
+
+#: .\models.py:65
+msgid "Small"
+msgstr "Pequeño"
+
+#: .\models.py:66
+msgid "Medium"
+msgstr "Medio"
+
+#: .\models.py:67
+msgid "Large"
+msgstr "Grande"
+
+#: .\models.py:126 .\models.py:229
+msgid "Active"
+msgstr "Activo"
+
+#: .\models.py:127 .\models.py:230
+msgid "Inactive"
+msgstr "Inactivo"
+
+#: .\models.py:134 .\models.py:249
+msgid "name"
+msgstr "Nombre"
+
+#: .\models.py:146 .\models.py:238
+msgid "description"
+msgstr "Descripción"
+
+#: .\models.py:237
+msgid "title"
+msgstr "Título"
+
+#: .\models.py:250
+msgid "position"
+msgstr "Posición"
+
+#: .\models.py:272
+msgid "ministry_type"
+msgstr ""
+
+#: .\models.py:274
+msgid "industries"
+msgstr ""
+
+#: .\models.py:275
+msgid "sectors"
+msgstr ""
+
+#: .\permissions.py:27
+#, fuzzy
+#| msgid "Do not have permissions to edit the entity"
+msgid "You do not have the permissions of an entity admin"
+msgstr "No tiene permisos para editar la entidad"
+
+#: .\permissions.py:33
+#, fuzzy
+#| msgid "Do not have permissions to edit the entity"
+msgid "You do not have the permissions to edit this entity"
+msgstr "No tiene permisos para editar la entidad"
+
+#: .\permissions.py:39 .\permissions.py:45 .\permissions.py:51
+#: .\permissions.py:87
+#, fuzzy
+#| msgid "Do not have permissions to view users of entity"
+msgid "You do not have the permissions to view users of this entity"
+msgstr "No tiene permisos para ver a los usuarios de la entidad"
+
+#~ msgid ""
+#~ "Invalid duration for sponsoring the entity, please check and try again"
+#~ msgstr ""
+#~ "Duración inválida para patrocinar la entidad, verifique e intentelo de "
+#~ "nuevo"
+
+#~ msgid ""
+#~ "Invalid start date for sponsoring the entity, please check and try again."
+#~ msgstr ""
+#~ "Fecha de inicio inválida para patrocinar la entidad, verifique e "
+#~ "intentelo de nuevo."
+
+#~ msgid "Invalid duration for posting the job, please check and try again"
+#~ msgstr ""
+#~ "Duración inválida para publicar el trabajo, verifique e intentelo de nuevo"
+
+#~ msgid "user already exists with this entity"
+#~ msgstr "El usuario ya existe con esta entidad."
+
+#~ msgid "Do not have entity admin permission"
+#~ msgstr "No tiene permiso de administrador de la entidad"
+
+#~ msgid "Do not have permissions to view users of entity"
+#~ msgstr "No tiene permisos para ver a los usuarios de la entidad"
+
+#~ msgid "not an authenticated user, cannot create entity"
+#~ msgstr "No es un usuario autentificado, no se puede crear entidad"
+
+#~ msgid "user not found, cannot add to entity"
+#~ msgstr "Usuario no encontrado, no puede agregar a la entidad"
+
+#~ msgid "user deleted from entity"
+#~ msgstr "Usuario eliminado de la entidad"
+
+#~ msgid "User not found in the entity, cannot delete"
+#~ msgstr "Usuario no encontrado en la entidad, no puede eliminar"
+
+#~ msgid "Added permission for user"
+#~ msgstr "Permiso agregado para el usuario"
+
+#~ msgid "Invalid user, cannot assign permission"
+#~ msgstr "Usuario inválido, no puede asignar el permiso"
+
+#~ msgid "Invalid request, cannot remove own admin permission"
+#~ msgstr "Solicitud inválida, no puede eliminar el permiso de administrador"
+
+#~ msgid "Removed permission for user"
+#~ msgstr "Se eliminó el permiso para el usuario"
+
+#~ msgid "Invalid user, cannot remove permission"
+#~ msgstr "Usuario inválido, no puede eliminar el permiso"
+
+#~ msgid "Added user to the entity"
+#~ msgstr "Usuario agregado a la entidad"

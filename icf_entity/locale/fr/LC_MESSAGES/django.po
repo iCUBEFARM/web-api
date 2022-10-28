@@ -1,0 +1,333 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-19 14:56+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\api\mixins.py:20
+msgid "Unable to find entity"
+msgstr "Impossible de trouver  l'entité"
+
+#: .\api\serializers.py:81 .\api\serializers.py:126
+msgid "Please login and try again."
+msgstr "Veuillez vous connecter et réessayer."
+
+#: .\api\serializers.py:172
+#, fuzzy
+#| msgid "not an authenticated user, cannot create entity"
+msgid "Unknown user, cannot create job"
+msgstr "Utilisateur non authentifié, impossible de créer une entité"
+
+#: .\api\serializers.py:192
+msgid ""
+"The minimum duration for sponsoring an entity is X days and the maximum "
+"duration of sponsoring an entity is Y days. Please check and try again."
+msgstr ""
+"La durée minimale pour parrainer une entité est  X jours et la durée "
+"maximale pour parrainer une entité est  Y jours. S'il vous plaît, vérifiez "
+"et essayez à nouveau."
+
+#: .\api\serializers.py:208
+msgid ""
+"You cannot change the start date of an ongoing sponsored entity campaign."
+msgstr ""
+"Vous ne pouvez pas modifier la date de début d'une campagne d'entité "
+"parraineée en cours."
+
+#: .\api\serializers.py:213
+msgid ""
+"The start date of your sponsored entity campaign can only be between X and Y."
+msgstr ""
+"La date de début de votre campagne d’entités parrainée ne peut être qu'entre "
+"X et Y."
+
+#: .\api\serializers.py:218
+msgid ""
+"The end date of your sponsored entity campaign can only be between X and Y"
+msgstr ""
+"La date de fin de votre campagne d’entités parrainées ne peut être qu'entre "
+"X et Y"
+
+#: .\api\serializers.py:246
+msgid ""
+"Please review your start date and end date and try again. You can contact "
+"Customer Support to get help."
+msgstr ""
+"Vérifiez votre date de début et de fin et réessayez. Vous pouvez contacter "
+"le service client pour obtenir de l'aide."
+
+#: .\api\serializers.py:388
+msgid "{} is already a user with {}"
+msgstr "{} est déjà un utilisateur avec {}"
+
+#: .\api\serializers.py:394 .\api\serializers.py:425
+msgid ""
+"The user was not added because we could not find any user with the email {}"
+msgstr ""
+"L'utilisateur n'a pas été ajouté car nous n'avons trouvé aucun utilisateur "
+"avec l'adresse email {}."
+
+#: .\api\serializers.py:406 .\api\views.py:175 .\api\views.py:178
+#, fuzzy
+#| msgid "cannot find user in the entity"
+msgid "We could not find any user with the email {}"
+msgstr "Nous n'avons trouvé aucun utilisateur avec l'email {}"
+
+#: .\api\serializers.py:409
+#, fuzzy
+#| msgid "user not part of entity"
+msgid "This user is not part of {}"
+msgstr "Cet utilisateur ne fait pas partie de {}"
+
+#: .\api\views.py:166
+msgid "user found"
+msgstr "Utilisateur trouvé"
+
+#: .\api\views.py:201
+msgid "user not found"
+msgstr "Utilisateur inconnu"
+
+#: .\api\views.py:206
+msgid "User already exits"
+msgstr ""
+
+#: .\api\views.py:226
+msgid "An Email has been sent to the user for confirmation"
+msgstr ""
+
+#: .\api\views.py:240
+msgid "We could not find any {} in {}"
+msgstr "Nous n'avons trouvé aucun {} dans {}"
+
+#: .\api\views.py:254
+#, fuzzy
+#| msgid "Invalid request, cannot remove own admin permission"
+msgid "Invalid request, cannot remove self"
+msgstr ""
+"Demande invalide, impossible de supprimer les autorisations de "
+"l'administrateur"
+
+#: .\api\views.py:260
+#, fuzzy
+#| msgid "Do not have permissions to edit the entity"
+msgid "You do not have permission to remove an admin"
+msgstr "Vous n'êtes pas autorisé à modifier l'entité"
+
+#: .\api\views.py:269
+msgid "{} has been successfully deleted from {}"
+msgstr "{} a été supprimé de {}"
+
+#: .\api\views.py:271
+msgid "The delete action failed because the user was not found in {}"
+msgstr ""
+"L'action de suppression a échoué car l'utilisateur n'a pas été trouvé dans {}"
+
+#: .\api\views.py:293
+#, fuzzy
+#| msgid "user not found, cannot add to entity"
+msgid "user not found, cannot get permissions"
+msgstr "utilisateur inconnu, impossible d'ajouter à l'entité"
+
+#: .\api\views.py:302
+#, fuzzy
+#| msgid "Could not get permissions for user"
+msgid "We could not retrieve the permissions for {}"
+msgstr "Nous n'avons pas pu récupérer les autorisations pour {}"
+
+#: .\api\views.py:323
+msgid "You have successfully added new permissions to {}"
+msgstr "Vous avez ajouté de nouvelles autorisations à {}."
+
+#: .\api\views.py:327
+msgid ""
+"You cannot assign permissions to an invalid user. Recheck the user and try "
+"again."
+msgstr ""
+"Vous ne pouvez pas attribuer d'autorisations à un utilisateur invalide. "
+"Revérifiez l'utilisateur et réessayez."
+
+#: .\api\views.py:350
+msgid ""
+"You cannot remove your own admin permissions. Please contact another entity "
+"admin"
+msgstr ""
+"Vous ne pouvez pas supprimer vos propres autorisations d'admin. Veuillez "
+"contacter un autre admin de l'entité."
+
+#: .\api\views.py:354
+msgid "You have successfully removed permissions from {}"
+msgstr "Vous avez supprimé avec succès les autorisations de {}."
+
+#: .\api\views.py:359
+msgid ""
+"You cannot remove permissions from an invalid user. Please recheck the user "
+"and try again."
+msgstr ""
+"Vous ne pouvez pas supprimer les autorisations d'un utilisateur invalide. "
+"Veuillez revérifier l'utilisateur et réessayer."
+
+#: .\api\views.py:373
+msgid "Invalid user"
+msgstr "Utilisateur invalide"
+
+#: .\api\views.py:396
+#, fuzzy
+#| msgid "user not found, cannot add to entity"
+msgid "User not found, cannot update"
+msgstr "utilisateur inconnu, impossible d'ajouter à l'entité"
+
+#: .\api\views.py:594
+#, fuzzy
+#| msgid "user not part of entity"
+msgid "Already part of entity"
+msgstr "utilisateur ne fait pas partie de l'entité"
+
+#: .\api\views.py:616 .\api\views.py:655
+#, fuzzy
+#| msgid "Invalid user"
+msgid "Invalid request"
+msgstr "Utilisateur non valable"
+
+#: .\api\views.py:706
+msgid "Entity marked as inactive successfully."
+msgstr ""
+
+#: .\api\views.py:708
+msgid "Entity is already marked inactive."
+msgstr ""
+
+#: .\api\views.py:712
+#, fuzzy
+#| msgid "user not found"
+msgid "Entity object not found."
+msgstr "Utilisateur inconnu"
+
+#: .\api\views.py:715
+msgid "Could not mark entity inactive. Please contact admin."
+msgstr ""
+
+#: .\entity_credit_helper.py:17
+#, fuzzy
+#| msgid "Please login and try again."
+msgid "Invalid action, please check and try again."
+msgstr "Veuillez vous connecter et réessayer."
+
+#: .\models.py:65
+msgid "Small"
+msgstr "Petit"
+
+#: .\models.py:66
+msgid "Medium"
+msgstr "Moyen"
+
+#: .\models.py:67
+msgid "Large"
+msgstr "Grand"
+
+#: .\models.py:126 .\models.py:229
+msgid "Active"
+msgstr "Actif"
+
+#: .\models.py:127 .\models.py:230
+msgid "Inactive"
+msgstr "Inactif"
+
+#: .\models.py:134 .\models.py:249
+msgid "name"
+msgstr "Nom"
+
+#: .\models.py:146 .\models.py:238
+msgid "description"
+msgstr "Description"
+
+#: .\models.py:237
+msgid "title"
+msgstr "Titre"
+
+#: .\models.py:250
+msgid "position"
+msgstr "Position"
+
+#: .\models.py:272
+msgid "ministry_type"
+msgstr ""
+
+#: .\models.py:274
+msgid "industries"
+msgstr ""
+
+#: .\models.py:275
+msgid "sectors"
+msgstr ""
+
+#: .\permissions.py:27
+#, fuzzy
+#| msgid "Do not have permissions to edit the entity"
+msgid "You do not have the permissions of an entity admin"
+msgstr "Vous n'avez pas les permissions d'un admin d'entité"
+
+#: .\permissions.py:33
+#, fuzzy
+#| msgid "Do not have permissions to edit the entity"
+msgid "You do not have the permissions to edit this entity"
+msgstr "Vous n'avez pas les autorisations pour modifier cette entité"
+
+#: .\permissions.py:39 .\permissions.py:45 .\permissions.py:51
+#: .\permissions.py:87
+#, fuzzy
+#| msgid "Do not have permissions to view users of entity"
+msgid "You do not have the permissions to view users of this entity"
+msgstr ""
+"Vous n'avez pas les autorisations pour voir les utilisateurs de cette entité"
+
+#~ msgid "Do not have entity admin permission"
+#~ msgstr "Vous n'avez pas les permissions d'un admin d'entité"
+
+#~ msgid "Do not have permissions to view users of entity"
+#~ msgstr "Vous n'êtes pas autorisé à voir les utilisateurs de l'entité"
+
+#~ msgid "not an authenticated user, cannot create entity"
+#~ msgstr "pas un utilisateur authentifié, impossible de créer une entité"
+
+#~ msgid "user not found, cannot add to entity"
+#~ msgstr "utilisateur inconnu, impossible d'ajouter à l'entité"
+
+#~ msgid "user deleted from entity"
+#~ msgstr "utilisateur supprimé de l'entité"
+
+#~ msgid "User not found in the entity, cannot delete"
+#~ msgstr "Utilisateur inconnu dans l'entité, impossible de supprimer"
+
+#~ msgid "Added permission for user"
+#~ msgstr "Autorisation ajoutée pour l'utilisateur"
+
+#~ msgid "Invalid user, cannot assign permission"
+#~ msgstr "Utilisateur non valable, impossible d'attribuer une autorisation"
+
+#~ msgid "Invalid request, cannot remove own admin permission"
+#~ msgstr ""
+#~ "Demande non valable, impossible de supprimer les autorisations de "
+#~ "l'administrateur"
+
+#~ msgid "Removed permission for user"
+#~ msgstr "Autorisation supprimée pour l'utilisateur"
+
+#~ msgid "Invalid user, cannot remove permission"
+#~ msgstr "Utilisateur non valable, impossible de supprimer l'autorisation"
+
+#~ msgid "Added user to the entity"
+#~ msgstr "Utilisateur ajouté à l'entité"

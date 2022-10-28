@@ -1,0 +1,156 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-06 17:54+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\api\mixins.py:20
+msgid "Unable to find entity"
+msgstr ""
+
+#: .\api\mixins.py:31
+msgid "Unable to find event."
+msgstr ""
+
+#: .\api\mixins.py:43
+msgid "Unable to find event draft."
+msgstr ""
+
+#: .\api\serializers.py:74
+msgid "You do not have the permissions to create events for {}"
+msgstr ""
+
+#: .\api\serializers.py:81
+msgid "could not create event. for {}"
+msgstr ""
+
+#: .\api\serializers.py:92 .\api\serializers.py:96 .\api\serializers.py:627
+#: .\api\serializers.py:631 .\api\serializers.py:700 .\api\serializers.py:704
+msgid "Invalid category type for event, please check and try again."
+msgstr ""
+
+#: .\api\serializers.py:103 .\api\serializers.py:345
+msgid "The event's start date should be between {X} and {Y}."
+msgstr ""
+
+#: .\api\serializers.py:360
+msgid "Please provide the event's sponsored start date and sponsored end date."
+msgstr ""
+
+#: .\api\serializers.py:375
+msgid ""
+"Event can be sponsored from {X} till {Y}. Choose valid sponsored start date "
+"and end date."
+msgstr ""
+
+#: .\api\serializers.py:389
+msgid "You cannot change the start date for an active and published event."
+msgstr ""
+
+#: .\api\serializers.py:394
+msgid "The start date cannot be before {X}."
+msgstr ""
+
+#: .\api\serializers.py:400
+msgid "The end date cannot be before {X}."
+msgstr ""
+
+#: .\api\serializers.py:419
+msgid "Please provide event's sponsored start date and sponsored end date."
+msgstr ""
+
+#: .\api\serializers.py:435
+msgid ""
+"You cannot change the start date of an ongoing sponsored event campaign."
+msgstr ""
+
+#: .\api\serializers.py:442
+msgid "The Sponsored event start date should be between {X} and {Y}"
+msgstr ""
+
+#: .\api\serializers.py:451
+msgid "The Sponsored event end date should be between {X} and {Y}"
+msgstr ""
+
+#: .\api\serializers.py:491
+msgid ""
+"The start date of your sponsored event campaign cannot be before {X} and the "
+"end date cannot be after {Y}."
+msgstr ""
+
+#: .\api\serializers.py:615 .\api\serializers.py:691
+msgid "Unknown user, cannot create event."
+msgstr ""
+
+#: .\api\serializers.py:670 .\api\serializers.py:676
+msgid "Cannot clone event, please check and try again."
+msgstr ""
+
+#: .\api\serializers.py:765
+msgid "Unknown user, cannot create draft event."
+msgstr ""
+
+#: .\api\views.py:186
+msgid "Something went wrong. "
+msgstr ""
+
+#: .\models.py:119 .\models.py:195
+msgid "Hero"
+msgstr ""
+
+#: .\models.py:119 .\models.py:195
+msgid "Gallery"
+msgstr ""
+
+#: .\models.py:152
+msgid "New"
+msgstr ""
+
+#: .\models.py:152
+msgid "Deleted"
+msgstr ""
+
+#: .\models.py:152
+msgid "Rejected"
+msgstr ""
+
+#: .\permissions.py:14
+msgid "You do not have the permissions to create a Event for entity"
+msgstr ""
+
+#: .\permissions.py:35
+msgid "You do not have the permissions to create a event for entity"
+msgstr ""
+
+#: .\permissions.py:51
+msgid "You do not have the permissions to publish a event for entity."
+msgstr ""
+
+#: .\permissions.py:62
+msgid "You do not have the permissions to mark a event as Delete for entity."
+msgstr ""
+
+#: .\permissions.py:80
+msgid "You do not have permissions to see the events marked for Delete."
+msgstr ""
+
+#: .\permissions.py:95
+msgid ""
+"You do not have the permissions to reject a event delete request for entity"
+msgstr ""
+
+#: .\permissions.py:111
+msgid "You do not have the permissions to delete events for entity"
+msgstr ""

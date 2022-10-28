@@ -1,0 +1,382 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-17 14:44+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: api/mixins.py:22
+msgid "Unable to find entity"
+msgstr ""
+
+#: api/mixins.py:33
+msgid "Unable to find career fair."
+msgstr ""
+
+#: api/mixins.py:45
+msgid "Unable to find career fair draft."
+msgstr ""
+
+#: api/mixins.py:56
+msgid "Unable to find Speaker"
+msgstr ""
+
+#: api/mixins.py:67
+msgid "Unable to find SpeakerOptional"
+msgstr ""
+
+#: api/mixins.py:78
+msgid "Unable to find Support"
+msgstr ""
+
+#: api/mixins.py:89
+msgid "Unable to find SupportOptional"
+msgstr ""
+
+#: api/serializers.py:641
+msgid "You do not have the permissions to create fairs for {}"
+msgstr ""
+
+#: api/serializers.py:651
+msgid "could not create career fair. for {}"
+msgstr ""
+
+#: api/serializers.py:664 api/serializers.py:668 api/serializers.py:1972
+#: api/serializers.py:1976
+msgid "Invalid category type for career fair, please check and try again."
+msgstr ""
+
+#: api/serializers.py:676 api/serializers.py:1066
+#, python-brace-format
+msgid "The career fair's start date should be between {X} and {Y}."
+msgstr ""
+
+#: api/serializers.py:756 api/serializers.py:1340 api/serializers.py:1653
+#: api/serializers.py:2056
+msgid "Could not create career fair, please check and try again."
+msgstr ""
+
+#: api/serializers.py:805 api/serializers.py:1081 api/serializers.py:1143
+msgid ""
+"Please provide career fair's sponsored start date and sponsored end date."
+msgstr ""
+
+#: api/serializers.py:825
+#, python-brace-format
+msgid ""
+"A career fair can be sponsored from {X} till {Y}. Choose valid sponsored "
+"start date and end date."
+msgstr ""
+
+#: api/serializers.py:1099 api/serializers.py:1221
+#, python-brace-format
+msgid ""
+"The start date of your sponsored career fair campaign cannot be before {X} "
+"and the end date cannot be after {Y}."
+msgstr ""
+
+#: api/serializers.py:1113
+msgid ""
+"You cannot change the start date for an active and published career fair."
+msgstr ""
+
+#: api/serializers.py:1119
+#, python-brace-format
+msgid "The start date cannot be before {X}."
+msgstr ""
+
+#: api/serializers.py:1124
+#, python-brace-format
+msgid "The end date cannot be before {X}."
+msgstr ""
+
+#: api/serializers.py:1159
+msgid ""
+"You cannot change the start date of an ongoing sponsored career fair "
+"campaign."
+msgstr ""
+
+#: api/serializers.py:1167
+#, python-brace-format
+msgid "The Sponsored career fair start date should be between {X} and {Y}."
+msgstr ""
+
+#: api/serializers.py:1178
+#, python-brace-format
+msgid "The Sponsored career fair end date should be between {X} and {Y}."
+msgstr ""
+
+#: api/serializers.py:1956
+msgid "Unknown user, cannot create career fair."
+msgstr ""
+
+#: api/serializers.py:2076
+msgid "Invalid currency code, please check and try again."
+msgstr ""
+
+#: api/serializers.py:2138 api/serializers.py:2180
+msgid "You have reached the max number of images"
+msgstr ""
+
+#: api/serializers.py:2376 api/serializers.py:2395
+msgid "Something went wrong, please contact admin."
+msgstr ""
+
+#: api/views.py:91
+msgid "Something went wrong, Please contact admin "
+msgstr ""
+
+#: api/views.py:236
+msgid "Something went wrong. "
+msgstr ""
+
+#: api/views.py:1095 api/views.py:1112 api/views.py:1129
+msgid "Invalid entity slug, please check and try again."
+msgstr ""
+
+#: api/views.py:1148
+msgid "Invalid career fair slug, please check and try again."
+msgstr ""
+
+#: api/views.py:1304 api/views.py:1315 api/views.py:1327
+msgid "Invalid  request"
+msgstr ""
+
+#: api/views.py:1641 api/views.py:1645
+msgid "Something went wrong, Please contact admin."
+msgstr ""
+
+#: app_settings.py:3
+#, python-brace-format
+msgid "Career Fair : {0} : Administrator Review"
+msgstr ""
+
+#: app_settings.py:8
+#, python-brace-format
+msgid ""
+"Dear {0},<br> You have successfully created a career fair. \n"
+"It has been sent to the administrator for approval. You will receive an "
+"email notification with the approval status.\n"
+" For any questions about career fairs, please contact admin@icubefarm.com"
+msgstr ""
+
+#: app_settings.py:12
+#, python-brace-format
+msgid ""
+"Dear {0},<br> Your career fair has been approved by the Administrator. \n"
+"  For any questions about career fairs, please contact admin@icubefarm.com"
+msgstr ""
+
+#: app_settings.py:15
+#, python-brace-format
+msgid ""
+"Dear {0},<br> We regret to inform that your career fair cannot be approved "
+"at this time.\n"
+" For any questions about career fairs, please contact admin@icubefarm.com"
+msgstr ""
+
+#: app_settings.py:21
+#, python-brace-format
+msgid "A new career fair has been created. It is available at {0}."
+msgstr ""
+
+#: app_settings.py:25
+msgid "Free 90 days subscription activated"
+msgstr ""
+
+#: app_settings.py:27
+#, python-brace-format
+msgid ""
+"Dear {0},<br>  90 Days  Subscription for your company {1} Is Active from "
+"today {2} till {3}"
+msgstr ""
+
+#: app_settings.py:29
+msgid "Recently added advertisement on iCUBEFARM"
+msgstr ""
+
+#: app_settings.py:31
+#, python-brace-format
+msgid ""
+"Dear {0},<br>  Your company {1} has successfully added an advertisement "
+"product for the new career fair. <br>     Please click on the link to visit "
+"the entity dashboard. Click on advertisements tab and upload "
+"advertisement     images. {2}"
+msgstr ""
+
+#: app_settings.py:35
+msgid "Recently purchased advertisement on iCUBEFARM"
+msgstr ""
+
+#: app_settings.py:37
+#, python-brace-format
+msgid ""
+"Dear {0},<br>Your company {1}, has successfully purchased an advertisement "
+"for a career fair.      Please click on the link to visit the entity "
+"dashboard. Click on advertisements tab and upload advertisement     images. "
+"{2}"
+msgstr ""
+
+#: app_settings.py:42
+#, python-brace-format
+msgid "{0} Ad image approved for career fair {1}"
+msgstr ""
+
+#: app_settings.py:44
+#, python-brace-format
+msgid ""
+"Dear {0},<br>The {2} image uploaded for career fair {3} by your company {1} "
+"has been approved.<br>      "
+msgstr ""
+
+#: app_settings.py:47
+#, python-brace-format
+msgid "{0} Ad image rejected for career fair {1}"
+msgstr ""
+
+#: app_settings.py:49
+#, python-brace-format
+msgid ""
+"Dear {0},<br>The {2} image uploaded for career fair {3} by your company {1} "
+"has been approved.<br>      Please click on the link to manage advertisement "
+"{4}"
+msgstr ""
+
+#: models.py:233 models.py:329
+msgid "Hero"
+msgstr ""
+
+#: models.py:233 models.py:329
+msgid "Gallery"
+msgstr ""
+
+#: models.py:257 models.py:741
+msgid "New"
+msgstr ""
+
+#: models.py:257
+msgid "Deleted"
+msgstr ""
+
+#: models.py:257 models.py:741
+msgid "Rejected"
+msgstr ""
+
+#: models.py:350 models.py:488
+msgid "title"
+msgstr ""
+
+#: models.py:351 models.py:489
+msgid "description"
+msgstr ""
+
+#: models.py:382 models.py:520
+msgid "brand_name"
+msgstr ""
+
+#: models.py:384 models.py:522
+msgid "support_type"
+msgstr ""
+
+#: models.py:385 models.py:431 models.py:524 models.py:571
+msgid "image"
+msgstr ""
+
+#: models.py:425 models.py:565
+msgid "name"
+msgstr ""
+
+#: models.py:426 models.py:566
+msgid "entity_name"
+msgstr ""
+
+#: models.py:427 models.py:567
+msgid "position"
+msgstr ""
+
+#: models.py:648
+msgid "Individual"
+msgstr ""
+
+#: models.py:648
+msgid "Entity"
+msgstr ""
+
+#: models.py:648
+msgid "Sponsor"
+msgstr ""
+
+#: models.py:654
+msgid "name_of_representative"
+msgstr ""
+
+#: models.py:659
+msgid "address"
+msgstr ""
+
+#: models.py:729
+msgid "Mobile Image"
+msgstr ""
+
+#: models.py:729
+msgid "Desktop Image"
+msgstr ""
+
+#: models.py:741
+msgid "Approved"
+msgstr ""
+
+#: models.py:741
+msgid "Pending"
+msgstr ""
+
+#: models.py:748
+msgid "ad_image"
+msgstr ""
+
+#: models.py:750
+msgid "ad_redirect"
+msgstr ""
+
+#: models.py:752
+msgid "admin comments"
+msgstr ""
+
+#: permissions.py:14 permissions.py:35
+msgid "You do not have the permissions to create a career fair for entity"
+msgstr ""
+
+#: permissions.py:51
+msgid "You do not have the permissions to publish a career fair for entity."
+msgstr ""
+
+#: permissions.py:62
+msgid ""
+"You do not have the permissions to mark a career fair as delete for entity."
+msgstr ""
+
+#: permissions.py:80
+msgid "You do not have permissions to see the career fairs marked for delete."
+msgstr ""
+
+#: permissions.py:95
+msgid ""
+"You do not have the permissions to reject a career fair delete request for "
+"entity"
+msgstr ""
+
+#: permissions.py:111
+msgid "You do not have the permissions to delete career fair's for entity"
+msgstr ""

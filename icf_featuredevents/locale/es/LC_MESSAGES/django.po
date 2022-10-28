@@ -1,0 +1,182 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-18 13:09+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\api\views.py:180 .\api\views.py:279
+msgid "You can't purchase this package because expiry date."
+msgstr "No puede comprar este producto porque ha expirado."
+
+#: .\api\views.py:212 .\api\views.py:215 .\api\views.py:218 .\api\views.py:309
+#: .\api\views.py:312 .\api\views.py:315 .\api\views.py:361
+msgid "Could not create participant."
+msgstr "No se puede añadir a un participante."
+
+#: .\api\views.py:354
+msgid "Transaction is successful."
+msgstr "La transacción fue exitosa."
+
+#: .\app_settings.py:5
+msgid "event_name"
+msgstr "Nombre de la entidad"
+
+#: .\app_settings.py:6
+msgid "entity_name"
+msgstr "Nombre de la entidad"
+
+#: .\app_settings.py:7
+msgid "email"
+msgstr "CORREO ELECTRÓNICO DE LA ENTIDAD"
+
+#: .\app_settings.py:8
+msgid "contact_no"
+msgstr "No contacto"
+
+#: .\app_settings.py:9 .\models.py:131
+msgid "name_of_representative"
+msgstr "Nombre del representante"
+
+#: .\app_settings.py:10 .\models.py:132
+msgid "address"
+msgstr "DIRECCIÓN"
+
+#: .\app_settings.py:16
+msgid "bank_name_info"
+msgstr "Nombre del Banco"
+
+#: .\app_settings.py:17
+msgid "bank_address_info"
+msgstr "Bank Address"
+
+#: .\app_settings.py:18
+msgid "beneficiary_info"
+msgstr "Beneficiario"
+
+#: .\app_settings.py:19
+msgid "office_code"
+msgstr "Código de la oficina"
+
+#: .\app_settings.py:20
+msgid "agency_code"
+msgstr "Código de agencia"
+
+#: .\app_settings.py:21
+msgid "account_number"
+msgstr "Número de cuenta"
+
+#: .\app_settings.py:22
+msgid "swift_code"
+msgstr "Código Swift"
+
+#: .\app_settings.py:23
+msgid "iban"
+msgstr "Código IBAN"
+
+#: .\app_settings.py:27
+msgid "CCEIBANK"
+msgstr "CCEIBANK"
+
+#: .\app_settings.py:28
+msgid "Malabo II, Malabo, Equatorial Guinea"
+msgstr "Malabo II, Malabo, Guinea Ecuatorial"
+
+#: .\app_settings.py:29
+msgid "ICUBEFARM EG SL"
+msgstr "ICUBEFARM EG SL"
+
+#: .\app_settings.py:40
+msgid "product_name"
+msgstr "Nombre del Producto"
+
+#: .\app_settings.py:45
+msgid "Payment receipt for Featured event participation"
+msgstr "Recibo de pago por participación en el evento."
+
+#: .\app_settings.py:47
+msgid ""
+"Dear {0},\n"
+" Find attached payment receipt for your purchase order for iCUBEFARM {1} "
+"participation. For \n"
+"questions about this payment, please contact billing@icubefarm.com"
+msgstr ""
+"Estimado {0},\n"
+" Encuentre el recibo de pago adjunto a su orden de compra para participar en "
+"el {1} de iCUBEFARM. Si tiene alguna pregunta sobre este pago, por \n"
+" favor contacte a billing@icubefarm.com"
+
+#: .\models.py:22 .\models.py:30 .\models.py:41
+msgid "name"
+msgstr "nombre"
+
+#: .\models.py:23 .\models.py:31 .\models.py:43 .\models.py:90
+msgid "description"
+msgstr "descripción"
+
+#: .\models.py:44
+msgid "expiry date"
+msgstr "fecha de expiración"
+
+#: .\models.py:48
+msgid "currency"
+msgstr "moneda"
+
+#: .\models.py:56 .\models.py:87
+msgid "title"
+msgstr "título"
+
+#: .\models.py:69
+msgid "participation type"
+msgstr ""
+
+#: .\models.py:83
+msgid "Active"
+msgstr "Activo"
+
+#: .\models.py:84
+msgid "Inactive"
+msgstr "Inactivo"
+
+#: .\models.py:88
+msgid "sub_title"
+msgstr "subtitular"
+
+#: .\models.py:92
+msgid "location"
+msgstr "ubicación"
+
+#: .\models.py:93
+msgid "start date"
+msgstr "fecha de inicio"
+
+#: .\models.py:94
+msgid "end date"
+msgstr "fecha final"
+
+#: .\models.py:95
+msgid "start date timing"
+msgstr "fecha de inicio"
+
+#: .\models.py:96
+msgid "end date timing"
+msgstr "fecha de finalización"
+
+#: .\models.py:128
+msgid "entity name"
+msgstr "Nombre de la entidad"
+
+#: .\models.py:133
+msgid "participants"
+msgstr "PARTICIPANTES"

@@ -1,0 +1,27 @@
+ndinoe@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+ndjohalfred@yahoo.fr,UNIQUE constraint failed: account_emailaddress.email
+jossebolo3@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+belineepie@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+dvaldonie@yahoo.fr,UNIQUE constraint failed: account_emailaddress.email
+nicol.sumira@gmail.com
+wilfried210@gmail.com
+john.telwa@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+fermin127@hotmail.com,UNIQUE constraint failed: account_emailaddress.email
+mngale22@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+eliasbenitez@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+kingprincemartins@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+nanamike97@yahoo.fr,UNIQUE constraint failed: account_emailaddress.email
+lopezsanchezeliecer@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+ngwene81@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+doctorjaimepadron@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+mikonzangd@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+dmarc2008@hotmail.com,UNIQUE constraint failed: account_emailaddress.email
+ezehugochukwu2@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+jjrguzman@hotmail.com,UNIQUE constraint failed: account_emailaddress.email
+aca71993@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+joseangelor@yahoo.com,UNIQUE constraint failed: account_emailaddress.email
+mayongegbe@yahoo.fr,UNIQUE constraint failed: account_emailaddress.email
+bernabebombaovono@hotmail.com,UNIQUE constraint failed: account_emailaddress.email
+tovignon2012@gmail.com,UNIQUE constraint failed: account_emailaddress.email
+--------------------------------------------------------------------------------
+

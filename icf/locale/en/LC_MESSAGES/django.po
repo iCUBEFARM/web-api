@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-08 18:24+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\settings.py:164
+msgid "English"
+msgstr ""
+
+#: .\settings.py:165
+msgid "French"
+msgstr ""
+
+#: .\settings.py:166
+msgid "Spanish"
+msgstr ""
+
+#: .\settings.py:330
+msgid "An invoice notification has been sent to your email"
+msgstr ""
+
+#: .\settings.py:331
+msgid "{}, {} by entity {}"
+msgstr ""
+
+#: .\settings.py:332
+msgid "You have been requested to accept an invitation"
+msgstr ""
+
+#: .\settings.py:333
+msgid "Your invitation has been accepted by user"
+msgstr ""
+
+#: .\settings.py:334
+msgid "Your invitation has been rejected by user"
+msgstr ""
+
+#: .\settings.py:335
+msgid "You are invited to join this entity"
+msgstr ""
+
+#: .\settings.py:336
+msgid "A candidate applied for this job"
+msgstr ""
+
+#: .\settings.py:337
+msgid "{}, has applied for this job {} "
+msgstr ""
+
+#: .\settings.py:338
+msgid "Your profile has been seen by the recruiter"
+msgstr ""
+
+#: .\settings.py:339
+msgid " of an entity - {}"
+msgstr ""
+
+#: .\settings.py:340
+msgid "your job profile status has been changed"
+msgstr ""
+
+#: .\settings.py:341
+msgid "A  payment  notification has been sent to your email"
+msgstr ""

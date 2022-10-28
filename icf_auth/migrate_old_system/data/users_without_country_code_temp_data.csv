@@ -1,0 +1,3 @@
+uid,user_type_id,email,password,first_name,middle_name,last_name,registration_date,profile_image_url,last_login_date,active_until_date,primary_telephone_number,secondary_telephone_number,status,phone_type_id,alt_phone_type_id,telephone_code,alternate_tele_no_code,prefered_lang,document_type,document_url
+236,1,nicol.sumira@gmail.com,7a7e0d7d8fdd7fbbf8a3ecff0c6777cf,Nelly,Sanaba,Collins,2/9/15 12:40,236_photo.jpg,,,2.41E+11,2.40E+11,2,1,1,,,en,1,C.V Collins00011423489049295.pdf
+387,1,wilfried210@gmail.com,25d13446ed94405a6d664e76efe6303e,CHRISTIAN,,MOUAFO YUNDZO,4/28/15 13:06,,,,2.40E+11,2.40E+11,2,1,1,,,en,1,387_CV.pdf
