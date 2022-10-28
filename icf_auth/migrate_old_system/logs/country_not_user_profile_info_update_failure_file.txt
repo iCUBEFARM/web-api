@@ -1,0 +1,1 @@
+{'email': 'romerojoseignacio75@gmail.com', 'address2': '', 'address1': 'Calle Paraguay con avenida Benito Juares, 4829, Rosario; Provincia de Santa Fe, Argentina', 'gender': 'm', 'date_of_birth': '1/22/1975', 'nationality': 'country.vanuatu', 'city': 'Rosario'},Country matching query does not exist.

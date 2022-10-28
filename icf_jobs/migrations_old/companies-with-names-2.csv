@@ -1,0 +1,902 @@
+company_id,name,registered_address_1,registered_address_2,registered_address_suite,registered_address_city,registered_address_country_id,country_registered,registered_address_zipcode,telephone_no,alternate_tele_no,fax_no,billing_address_1,billing_address_2,billing_address_suite,billing_address_city,billing_address_country_id,billing_address_zipcode,billing_telephone_number,billing_alt_telephone_no,logo_url,web_adr,overview,registration_date,active_untill_date,company_state,subscription_package,remaining_job_credit,total_user_subscription,registered_address_state,billing_address_state,contact_person_id,billing_phone_type_id,billing_alt_phone_type_id,phone_type_id,company_admin,alt_phone_type_id,email_id,sector_id,sectorname,industry_id,industryname,company_size_id,companysize,telephone_no_code,telephone_code,alternate_tele_no_code,billing_telephone_number_code,billing_alt_telephone_no_code,doc_url,is_public
+501,Douala Design Hotel,"Douala, Cameroon",,,Douala,38,nationality.cameroon,,679713690,679713690,,"Douala, Cameroon",,,Douala,38,,679713690,679713690,501_photo.jpg,,,7/13/17 16:19,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3430,3,1,3,eduardo.matheus@foreskin.tk,1,gm@doualadesignhotel.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+515, Sogea-Satom Cameroon,Douala Cameroon,,,Douala,38,nationality.cameroon,,697214412,697214412,,Douala Cameroon,,,Douala,38,,697214412,697214412,515_photo.jpg,,,7/15/17 8:51,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3445,3,1,3,dhioco@chibakenma.ml,1,info@sogeasatom-cameroon.com,6,Industrials,40,Construction & Engineering,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+735,BEBOTRA SL,B/Banapa,,,Malabo,66,nationality.equatorial.guinea,,222533934,555533934,,B/Banapa,,,Malabo,66,,222533934,555533934,735_photo.jpg,,,8/9/17 15:04,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3974,1,1,1,bbohopo@bebotra.com,1,info@bebotra.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+428,CODEV,"B.P.: 16082 Yaoundé,Cameroun entrée en face du Lio",,,Yaounde,38,nationality.cameroon,,242 097 206,242 097 206,,"B.P.: 16082 Yaoundé,Cameroun entrée en face du Lio",,,Yaounde,38,,242 097 206,242 097 206,428_photo.jpg,www.codevconsulting.com,,7/7/17 10:23,11/30/18 0:00,1,,,,Center Region,Center Region,3338,3,1,3,info@codevconsulting.com,1,info@codevconsulting.com,1,Consumer Discretionary,4,Diversified Consumer Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+532,CWCS Cameroon Wildlife Conservation Society,"Yaounde, Cameroon",,,Yaounde,38,nationality.cameroon,,6787 31 08,6787 31 08,,"Yaounde, Cameroon",,,Yaounde,38,,6787 31 08,6787 31 08,532_photo.jpg,http://www.cwcs-cameroon.org/,,7/18/17 9:45,11/30/18 0:00,1,,,,Central Region,Central Region,3467,3,1,3,reda_hel@2.justemail.ml,1,wcscameroon@wcs.org,11,NonProfit ,68,NonProfit,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+743,GRUPO PESAEN SARL,"Km5, Carretera del aeropuerto 
+Malabo",,,Malabo,66,nationality.equatorial.guinea,,222268724,555268724,,"Km5, Carretera del aeropuerto 
+Malabo",,,Malabo,66,,222268724,555268724,743_photo.jpg,,,8/11/17 14:00,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,4008,1,1,1,pedrosanga3@gmail.com,1,pedrosanga3@gmail.com,6,Industrials,38,Building Products,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+1007,GESAFRIK SERVICIOS SL,"Calle Semu.
+Edificio de BANGE",,,Malabo,66,nationality.equatorial.guinea,,222252660,555607055,,Calle Semu,,,Malabo,66,,222252660,555607055,1007_photo.jpg,,,4/13/18 11:03,4/13/19 0:00,1,,,,Bioko Norte,Bioko Norte,8183,1,1,1,daniel.obama.bacale.ayetebe@gmail.com,1,gesafrikservicios@gmail.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+361,APAVE INTERNATIONAL,Zone Industrielle - Avenue Gay Lussac,,,Bordeaux,74,nationality.haiti,33370,556772864,601074507,,Zone Industrielle - Avenue Gay Lussac,,,Bordeaux,74,33370,556772864,601074507,361_photo.jpg,www.apave.com,,6/20/17 8:38,11/30/18 0:00,1,,,,FRANCE,FRANCE,3237,3,1,3,international.consulting@apave.com,1,international.consulting@apave.com,6,Industrials,45,Professional Services,4,"Large >1,000 employees
+",94,33,94,94,94,Plaquette Institutionnelle Apave International20170620122427.pdf,t
+535,Mansfield Plaza Hotel Bamenda Cameroon ,"Old Town Rd Vertinary Junction, Bamenda, Cameroon",,,Bamenda,38,nationality.cameroon,,670787149,670787149,,"Old Town Rd Vertinary Junction, Bamenda, Cameroon",,,Bamenda,38,,670787149,670787149,535_photo.jpg,,,7/18/17 10:45,11/30/18 0:00,1,,,,North West Region,North West Region,3471,3,1,3,patron.amin.999@kadokawa.ml,1,patron.amin.999@kadokawa.ml,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+267,MAJONI EXPRESS SL,B/Semu Cerca del mercado ,,,Malabo,66,nationality.equatorial.guinea,,222237045,222273367,,B/Semu Cerca del mercado ,,,Malabo,66,,222237045,222273367,267_photo.jpg,,,12/15/16 10:36,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2096,1,1,1,manjoniexpressssl@gmail.com,1,manjoniexpressssl@gmail.com,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+340,VIAJA Y PUNTO,C/HIPOLITO MICHA 105,,,MALABO,66,nationality.grenada,,555982589,666696940,,C/HIPOLITO MICHA 105,,,MALABO,66,,555982589,666696940,340_photo.jpg,www.viajaypuntotravel.com,,5/9/17 15:28,11/30/18 0:00,1,,,,BIOKO NORTE,BIOKO NORTE,3153,1,1,1,direccion@viajaypuntotravel.com,1,info@viajaypuntotravel.com,1,Consumer Discretionary,8,Leisure Products,2,"Small 11 - 100 employees
+",86,240-1,86,86,86,,t
+476,Global Bush travel and tourism agency,"
+Carrefour samuel etoo fils Bonamoussadi, Douala,",,,Douala,38,nationality.cameroon,,670497663,233477000,,"
+Carrefour samuel etoo fils Bonamoussadi, Douala,",,,Douala,38,,670497663,233477000,476_photo.jpg,,,7/12/17 12:33,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3402,1,3,1,info@globalbushtratour.com,3, info@globalbushtratour.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+557,Clinical Research Educationand Networking,"Douala, Cameroon",,,Douala,38,nationality.cameroon,,679 61 79 81,674 62 53 84,,"Douala, Cameroon",,,Douala,38,,679 61 79 81,674 62 53 84,557_photo.jpg,,,7/20/17 7:01,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3511,1,3,1,karayasine@ujijima1129.gq,3,contact@crenc.org,5,Health Care,31,Health Care Providers  & Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+712,EBEYE SL,Barrio Santa Maria 2,,,Malabo,66,nationality.equatorial.guinea,,222274276,2222223806,,Caracolas parques de África,,,Malabo,66,,222274276,222223806,712_photo.jpg,ebeyegs.com,,8/8/17 9:46,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3932,1,1,1,clemente.ebuera@ebeyegs.com,1,clemente.ebuera@ebeyegs.com,3,Energy,20,"Oil, Gas & Consumable Fuels",1,"Micro < 10 employees
+",66,240,66,66,66,,t
+718,INBUS GROUP Ltd,4215Boulevard de la republique axelourd bonateki ,,,Douala,38,nationality.cameroon,,243043384,650366853,,4215Boulevard de la republique axelourd bonateki ,,,Douala,38,,243043384,650366853,718_photo.jpg,www.inbusgroup.com,,8/8/17 12:31,11/30/18 0:00,1,,,,littoral ,littoral ,3943,3,1,3,wanko.manuella2012@yahoo.fr,1,info@inbusgroup.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+1008,Montrose-ProEmpresa,"Edificio Candy Vistamar, 2do. piso, oficina 204",,,Bata,66,nationality.equatorial.guinea,,333 088 839,222 028 195,,"Edificio Candy Vistamar, 2do. piso, oficina 204",,,Bata,66,,333 088 839,222 028 195,1008_photo.jpg,,,4/20/18 12:42,4/20/19 12:42,1,,,,Litoral,Litoral,8245,3,2,3,elviranguema@montroseafrica.com,2,hruk@montroseint.com,11,NonProfit ,68,NonProfit,2,"Small 11 - 100 employees
+",66,240,66,66,66,ProEmpresa Deputy Programme Director ToR revised 11 April 201820180420123424.pdf,f
+526,ActivSpaces,"Buea, Cameroon",,,Buea,38,nationality.cameroon,,677243603,677243603,,"Buea, Cameroon",,,Buea,38,,677243603,677243603,526_photo.jpg,,,7/17/17 10:52,11/30/18 0:00,1,,,,South West Region,South West Region,3459,3,1,3,dz05king@sonshi.cf,1,info@activspaces.com,7,Information Technology,51,IT Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+772,koera University Admission Center,Cameroon ,,,BUEA,38,nationality.cameroon,237,677836591,662960437,,Cameroon ,,,BUEA,38,237,677836591,662960437,772_photo.jpg,www.ku-ac.com,,8/23/17 10:20,11/30/18 0:00,1,,,,SOUTH WEST REGION ,SOUTH WEST REGION ,4134,1,1,1,pacobates@gmail.com,1,cameroon@ku-ac.com,2,Consumer Staples,17,Personal Products,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+760,Easy Ride,Bonapriso carrefour champion,,,douala,38,nationality.cameroon,,669231598,669231598,,Bonapriso carrefour champion,,,douala,38,,669231598,669231598,760_photo.jpg,www.easyride.cm,,8/18/17 12:42,11/30/18 0:00,1,,,,littoral,littoral,4096,3,1,3,nyembguillaume@yahoo.fr,1,command@easyride.cm,1,Consumer Discretionary,2,Automobiles,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+761,EDUCATION CAMEROON,P. O BOX 530,,,BUEA,38,nationality.cameroon,237,677032630,691553404,,P. O BOX 530,,,BUEA,38,237,677032630,691553404,761_photo.jpg,www.educationcameroon.org,,8/18/17 17:08,11/30/18 0:00,1,,,,SOUTH WEST REGION ,SOUTH WEST REGION ,4099,1,3,1,takang.kelly@gmail.com,3,info@educationcameroon.org,11,NonProfit ,68,NonProfit,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+762,NATURAL FASHION,BP DOUALA ,,,DOUALA,38,nationality.cameroon,,696179718,696179718,,BP DOUALA ,,,DOUALA,38,,696179718,696179718,762_photo.jpg,,,8/19/17 14:11,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,4103,1,1,1,bububu63@yahoo.fr,1,bububu63@yahoo.fr,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+883,Abn consulting,"Japoma, derrière aéroport sans visa. ",,,Douala ,38,nationality.cameroon,2607,699178312,243859868,,"Japoma, derrière aéroport sans visa. ",,,Douala ,38,2607,699178312,243859868,883_photo.jpg,,,9/12/17 21:49,11/30/18 0:00,1,,,,Littoral ,Littoral ,4822,1,3,1,julesbinene@yahoo.fr,3,letreflegroupe@yahoo.fr,8,Materials,56,Chemicals,1,"Micro < 10 employees
+",38,237,38,38,38,,f
+595,ACIRY CONSULTING,aciryconsulting@gmail.com,,,Yaounde,38,nationality.cameroon,12981,699071914,675887790,,aciryconsulting@gmail.com,,,Yaounde,38,12981,699071914,675887790,595_photo.jpg,,,7/24/17 14:56,11/30/18 0:00,1,,,,Centre,Centre,3620,1,1,1,bdongmo@gmail.com,1,aciryconsulting@gmail.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",38,237,38,38,38,Offre de service standard (26 05 2017)20170724145542.pdf,t
+982,SPHIT Tourism Industry Employers Federation,"Boulevard La Republique
+Rue 2966
+Lewat Hotel
+",,,Douala,38,nationality.cameroon,CMR,233400024,233402181,,"Boulevard La Republique
+Rue 2966
+Lewat Hotel
+",,,Douala,38,CMR,233400024,233402181,982_photo.jpg,,,11/14/17 12:54,11/30/18 0:00,1,,,,Littoral,Littoral,6459,3,3,3,binbertcam@yahoo.fr,3,lesphit@yahoo.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",3,"Medium 101 - 999 employees
+",38,237,38,38,38,,t
+977,SOACAM SA ,17 355 Douala ,,,Douala ,38,nationality.cameroon,,233429420,233429420,,17 355 Douala ,,,Douala ,38,,233429420,233429420,977_photo.jpg,www.soacam.cm ,,10/30/17 11:28,11/30/18 0:00,1,,,,Littoral ,Littoral ,6167,3,3,3,abdoulhalim@soacam.cm,3,abdoulhalim@soacam.cm ,2,Consumer Staples,15,Food Products,3,"Medium 101 - 999 employees
+",38,237,38,38,38,,t
+338,Hotel SOFITEL MALABO SIPOPO LE GOLF,"Sipopo
+Malabo",,,Malabo,66,nationality.grenada,,555400214,551959147,,"Sipopo
+Malabo",,,Malabo,66,,555400214,551959147,338_photo.jpg,www.accordhotels.com,,5/8/17 12:17,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3146,1,1,1,h8212-hr2@sofitel.com,1,h8212-hr2@sofitel.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",3,"Medium 101 - 999 employees
+",86,240-1,86,86,86,,t
+144,FARMACIA LA BEGONA,"CENTRO COMERCIAL BANAPÁ
+BARRIO BANAPÁ
+",,,MALABO,66,nationality.equatorial.guinea,,666709200,222510714,,"CENTRO COMERCIAL BANAPÁ
+BARRIO BANAPÁ
+",,,MALABO,66,,666709200,222510714,144_photo.jpg,www.farmalabego.webs.com,,10/14/16 16:40,11/30/18 0:00,0,,,,BIOKO NORTE,BIOKO NORTE,1606,3,1,3,farmalabego1@gmail.com,1,farmalabego1@gmail.com,5,Health Care,34,Pharmaceuticals,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+351,SOCIAL,Situé à la 76 rue 1.111 des écoles à Akwa-Douala.,,Apt,Douala,38,nationality.cameroon,237,+237 697 341 71,+237 674 810 29,,Situé à la 76 rue 1.111 des écoles à Akwa-Douala.,,Apt,Douala,38,237,+237 697 341 71,+237 674 810 29,351_photo.jpg,,,6/2/17 8:55,11/30/18 0:00,1,,,,Littoral,Littoral,3209,1,3,1,pdglebimensuelsocial@gmail.com,3,pdglebimensuelsocial@gmail.com,1,Consumer Discretionary,9,Media,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+975,Gepsing,autovia Malabo2,,Edificio Ascoma,Malabo,66,nationality.equatorial.guinea,,222230057,222230279,,autovia Malabo2,,Edificio Ascoma,Malabo,66,,222230057,222230279,975_photo.jpg,,,10/25/17 9:40,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,5991,1,3,1,esther.nlong@sbmoffshore.com,3,Pedro.Mifumu@Gepsing.com,3,Energy,20,"Oil, Gas & Consumable Fuels",3,"Medium 101 - 999 employees
+",66,240,66,66,66,,t
+353,MML Consulting ,"5b Leon Osapa 
+Lagos, Nigeria",,,Lagos,160,nationality.slovakia,,8029998203,8164978629,,"5b Leon Osapa 
+Lagos, Nigeria",,,Lagos,160,,8029998203,8164978629,353_photo.jpg,www.mml.com.ng,,6/12/17 11:32,11/30/18 0:00,1,,,,Lagos ,Lagos ,3221,1,1,1,ebikikoro@gmail.com,1,recruitment@mml.com.ng,6,Industrials,44,Marine,1,"Micro < 10 employees
+",199,262,199,199,199,,t
+600,MSS,C-Avd Naciones Unidas ,,,Malabo,66,nationality.equatorial.guinea,,333090968,222273476,,C-Avd Naciones Unidas ,,,Malabo,66,,333090968,222273476,600_photo.jpg,,,7/25/17 11:12,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3634,3,1,3,info@mssgroupglobal.com,1,info@mssgroupglobal.com,1,Consumer Discretionary,4,Diversified Consumer Services,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+187,FENIX SL,"Carracolas
+Parques de Africa
+S/N",,,Malabo,66,nationality.equatorial.guinea,,555970676,555556425,,"Carracolas
+Parques de Africa
+S/N",,,Malabo,66,,555970676,555556425,187_photo.jpg,www.fenige.com,,12/2/16 10:33,11/30/18 0:00,0,,,,Bioco Norte,Bioco Norte,1987,1,1,1,contact@fenixge.com,1,contact@fenixge.com,9,Telecommunication Services,62,Wireless Telecommunication Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+59,OFFIC TECH SL,"Avenida Hassan II, Malabo - EQuatorial Guinea",,,Malabo,66,nationality.equatorial.guinea,,2.40551E+11,2.40551E+11,,"Avenida Hassan II, Malabo - EQuatorial Guinea",,,Malabo,66,,2.40551E+11,2.40551E+11,59_photo.jpg,www.officetecheg.com,,10/5/15 15:12,11/30/18 0:00,2,,,,Bioko North,Bioko North,484,3,3,3,gagu@officepointeg.com,3,jobs@officepointeg.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",66,240,66,66,66,,f
+226,FMA SL,B/ Ela Nguema,,,Malabo,66,nationality.equatorial.guinea,,222273319,555273319,,B/ Ela Nguema,,,Malabo,66,,222273319,555273319,226_photo.jpg,,,12/7/16 13:51,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2040,1,1,1,fumagesl@gmail.com,1,fumagesl@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+354,Makonjo Media,Bonamoussadi,,Bonamoussadi,Douala,38,nationality.cameroon,237,677243603,695319952,,Bonamoussadi,,Bonamoussadi,Douala,38,237,677243603,695319952,354_photo.jpg,www.makonjo.com,,6/14/17 17:24,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3228,1,3,1,careers@makonjo.com,3,hello@makonjo.com,1,Consumer Discretionary,9,Media,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+230,SERVICIOS GLOBALES DE GUIENEA ECUATORIAL,BUENA ESPERANZA,,,MALABO,66,nationality.equatorial.guinea,,222195797,222031461,,BUENA ESPERANZA,,,MALABO,66,,222195797,222031461,230_photo.jpg,,,12/7/16 15:47,11/30/18 0:00,0,,,,BIOKO NORTE,BIOKO NORTE,2044,1,1,1,sgge.sl@hotmail.com,1,sgge.sl@hotmail.com,7,Information Technology,52,Internet Software & Services,1,"Micro < 10 employees
+",66,240,91,66,91,,t
+1017,ROM-SERVICES,YOPOUGON,,Zone Industrielle,Abidjan,54,nationality.Dte.d.Ivoire,,58902512,78010630,,YOPOUGON,,Zone Industrielle,Abidjan,54,,58902512,78010630,1017_photo.jpg,www.rom-services.info.cm,,7/18/18 12:51,7/18/19 12:51,1,,,,Abidjan,Abidjan,5199,1,2,1,romualdkouassi93@gmail.com,2,rom_services@aol.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",54,225,54,54,54,,t
+937,Mama berth mode,Cité des palmiers ,,,Douala ,38,nationality.cameroon,None,675931390,675931390,233376602,Cité des palmiers ,,,Douala ,38,None,675931390,675931390,937_photo.jpg,None,,9/26/17 11:54,11/30/18 0:00,1,,,,Littoral ,Littoral ,5223,1,1,1,moutsirose@yahoo.fr,1,faikangounou@gmail.com,2,Consumer Staples,17,Personal Products,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+688,iCUBEFARM SL,Paraiso S/N,,,Malabo,66,nationality.cameroon,,683064880,655307305,,Paraiso S/N,,,Malabo,66,,683064880,655307305,688_photo.jpg,www.icubefarm.com,,8/2/17 11:01,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3833,1,1,1,recruitment@icubefarm.com,1,contact-us@icubefarm.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+984,Tester Accel Company Admin,"Filmnagar 
+Hyderabad",,#601,Hydreabad,100,nationality.united.states.of.america,500003,1234567898,1231231234,,"Filmnagar 
+Hyderabad",,#601,Hydreabad,100,500003,1234567898,1231231234,984_photo.jpg,www.test.com,,11/15/17 6:06,11/30/18 0:00,1,,,,Telangana,Telangana,6503,3,3,3,accelqtest21@gmail.com,3,test@accelq.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",233,1,233,233,233,,f
+372,Easy Rent,"Top Floor, Express Exchange Building, Paramount",,,Buea,38,nationality.cameroon,,671904083,654 275 5 76,,"Top Floor, Express Exchange Building, Paramount",,,Buea,38,,671904083,654 275 5 76,372_photo.jpg,www.easyrent.cm,,7/4/17 8:22,11/30/18 0:00,1,,,,South West Region,South West Region,3264,1,3,1,asabafualefac@yahoo.com,3,hello@easyrent.cm,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+495,Webmaster Freelance,"Raoul CHEUDJIO
+Yaoundé, Obili",,,Yaounde,38,nationality.cameroon,,696986083,696986083,,"Raoul CHEUDJIO
+Yaoundé, Obili",,,Yaounde,38,,696986083,696986083,495_photo.jpg,webmaster-freelance.cm,,7/13/17 15:44,11/30/18 0:00,1,,,,Center Region,Center Region,3424,3,1,3,raoulcheudjio@webmaster-freelance.cm,1,raoulcheudjio@webmaster-freelance.cm,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+382,Zinger Systems,"
+p.o box 144, Molyko, Buea, Buea, Cameroon",,,Buea,38,nationality.cameroon,,33323554,675264729,,"
+p.o box 144, Molyko, Buea, Buea, Cameroon",,,Buea,38,,33323554,675264729,382_photo.jpg,,,7/4/17 13:19,11/30/18 0:00,1,,,,South West Region,South West Region,3277,3,1,3,Fua.tse@zingersystems.com,1,info@zingersystems.com,7,Information Technology,52,Internet Software & Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+950,CAMPUS CONSULTING SARL,"BP : 10066 DOUALA 
+FACE MAISON DU CYCLE ",,DU CARREFOUR AGYP,DOUALA,38,nationality.cameroon,,656299898,233418623,,"BP : 10066 DOUALA 
+FACE MAISON DU CYCLE ",,DU CARREFOUR AGYP,DOUALA,38,,656299898,233418623,950_photo.jpg,www.c-csarl.cm,,9/28/17 8:04,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,5317,1,3,1,angompai@yahoo.fr,3,keune.jislain@yahoo.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+864,AQFrenchCompany,98465,,,amsterdam,100,nationality.india,,9502208390,78965214786,,98465,,,amsterdam,100,,9502208390,78965214786,864_photo.jpg,,,9/5/17 13:07,11/30/18 0:00,1,,,,newyork,newyork,4655,1,3,1,aqprodfrenchcompany@mailinator.com,3,aqtestfrenchcomp@mailinator.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",100,91,1,100,1,,t
+368,Small Business Support Centre,"Top Floor 1st Trust Building, Great Soppo",,,Buea,38,nationality.cameroon,,680513060,665000655,,"Top Floor 1st Trust Building, Great Soppo",,,Buea,38,,680513060,665000655,368_photo.jpg,www.sbsc.cm,,7/3/17 15:11,11/30/18 0:00,1,,,,South West Region,South West Region,3259,3,1,3,layembunkur@gmail.com,1,sbsc.cameroon@gmail.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+369,Camer Human Capital ltd,"Molyko  Buea, Cameroon, P.O BOX 525, Buea",,,Buea,38,nationality.cameroon,,676677116,694 85 80 51,,"Molyko  Buea, Cameroon, P.O BOX 525, Buea",,,Buea,38,,676677116,694 85 80 51,369_photo.jpg,,,7/3/17 16:07,11/30/18 0:00,1,,,,South West Region,South West Region,3260,1,3,1,camerhumancapital@gmail.com,3,camerhumancapital@gmail.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+866,LPBPAA SERVICES,BP. 25292 Yaounde- CAMEROUN,,,Yaounde,38,nationality.cameroon,25292,242890809,656377748,,BP. 25292 Yaounde- CAMEROUN,,,Yaounde,38,25292,242890809,656377748,866_photo.jpg,,,9/5/17 16:23,11/30/18 0:00,1,,,,Centre,Centre,4663,3,1,3,angoango@yahoo.fr,1,lpbpaa_services2015@yahoo.com,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",38,237,37,38,37,,t
+380,CCNTECHNOLOGIES,"1525 Face Arno walking Central, Yaounde , Cameroon",,,Yaounde,38,nationality.cameroon,,650446114,673954 410,,"1525 Face Arno walking Central, Yaounde , Cameroon",,,Yaounde,38,,650446114,673954 410,380_photo.jpg,www.ccntechnologies.com,,7/4/17 13:07,11/30/18 0:00,1,,,,Center Region,Center Region,3275,3,1,3,joelminka@ccntechnologies.com,1,joelminka@ccntechnologies.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+702, Academic Excellence,"BP 17164 Douala Cameroun, Douala, Cameroon",,,Douala,38,nationality.cameroon,,690827474,672816060,,"BP 17164 Douala Cameroun, Douala, Cameroon",,,Douala,38,,690827474,672816060,702_photo.jpg,,,8/4/17 10:40,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3884,3,1,3,contact.acadexe@yahoo.com,1,contact.acadexe@yahoo.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+409,HILOTECHCM,"BAMENDA, CAMEROON",,,BAMENDA,38,nationality.cameroon,237,672259505,693113068,660,"BAMENDA, CAMEROON",,,BAMENDA,38,237,672259505,693113068,409_photo.jpg,www.hilotechcm.com,,7/6/17 8:46,11/30/18 0:00,1,,,,NORTHWEST,NORTHWEST,3312,1,3,1,hilosco94@yahoo.com,3,hilosco94@yahoo.com,6,Industrials,40,Construction & Engineering,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+865,AQSpanishCompany,1516,,,amsterdam,100,nationality.india,,9502208390,5356656556,,1516,,,amsterdam,100,,9502208390,5356656556,865_photo.jpg,,,9/5/17 13:11,11/30/18 0:00,1,,,,newyork,newyork,4656,1,3,1,aqprodspanishcompany@mailinator.com,3,aqtestspanishcompany@mailinator.com,7,Information Technology,51,IT Services,4,"Large >1,000 employees
+",100,91,1,100,1,,t
+472,APAVE CAMEROUN,"AKWA  Ahmadou Ahidjo
+BP : 438 Douala",,,Douala,38,nationality.cameroon,,679713690,679713690,,"AKWA  Ahmadou Ahidjo
+BP : 438 Douala",,,Douala,38,,679713690,679713690,472_photo.jpg,,,7/12/17 10:52,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3397,3,1,3,kellycuty97@gmail.com,1,kellycuty97@gmail.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+434,CamertechTrends,"Melen, Yaounde, Cameroon",,,Yaounde,38,nationality.cameroon,,655915901,670239733,,"Melen, Yaounde, Cameroon",,,Yaounde,38,,655915901,670239733,434_photo.jpg,camertechtrends.com,,7/10/17 10:46,11/30/18 0:00,1,,,,Center Region,Center Region,3351,3,1,3,bamboriz1@gmail.com,1,bamboriz1@gmail.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+423,REPMA Cameroon,"Bastos, Yaounde, Cameroon",,,Yaounde,38,nationality.cameroon,,674731728,674731728,,"Bastos, Yaounde, Cameroon",,,Yaounde,38,,674731728,674731728,423_photo.jpg,www.repma.webs.com,,7/7/17 8:25,11/30/18 0:00,1,,,,Center Region,Center Region,3332,3,1,3,moforgoddy@yahoo.com,1,moforgoddy@yahoo.com,4,Financials,27,Real Estate Management & Development,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+1001,Ocean shipping and logistics ,Kribi,,,Kribi,38,nationality.cameroon,,679538263,679538263,,Kribi,,,Kribi,38,,679538263,679538263,1001_photo.jpg,,,2/2/18 10:31,11/30/18 0:00,1,,,,South,South,7781,3,1,3,oceanshipping05@gmail.com,1,oceanshipping05@gmail.com ,6,Industrials,48,Transportation Infrastructure,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+479,Sabtelcom sarl,"
+Rue Dubois de Saligny Akwa, Douala, Camer",,,Douala,38,nationality.cameroon,,243635345,694796870,,"
+Rue Dubois de Saligny Akwa, Douala, Camer",,,Douala,38,,243635345,694796870,479_photo.jpg,,,7/12/17 13:17,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3406,3,1,3,info@sabtelcom.com,1,info@sabtelcom.com,10,Utilities,63,Electrical Utilities,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+323,DATA EG ,Caracolas,,,Malabo,66,nationality.equatorial.guinea,,555626697,555626697,,Caracolas,,,Malabo,66,,555626697,555626697,323_photo.jpg,www.dataeg.com,,3/24/17 14:25,11/30/18 0:00,1,,,,Bioko norte,Bioko norte,2906,1,1,1,soporte@dataeg.com,1,soporte@dataeg.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+503,Damco Cameroun,Douala Cameroon,,,Douala,38,nationality.cameroon,, 233 50 05 , 233 50 05 ,,Douala Cameroon,,,Douala,38,, 233 50 05 , 233 50 05 ,503_photo.jpg,,,7/14/17 6:32,11/30/18 0:00,1,,,,Littoral,Littoral,3432,1,3,1,jeffry@4.emailfake.ml,3, Cameroon.sales@damco.com,6,Industrials,45,Professional Services,3,"Medium 101 - 999 employees
+",38,237,38,38,38,,t
+488,LE GENIE EDUCATIONAL CONSULTING,"Cite-Cicam, Douala, Cameroon",,,Douala,38,nationality.cameroon,,671313533,656321133,,"Cite-Cicam, Douala, Cameroon",,,Douala,38,,671313533,656321133,488_photo.jpg,,,7/13/17 12:39,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3416,3,1,3,contact@legenieconsulting.org,1, contact@legeniconsulting.org,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+512,Kamer Training Consulting ,Biyem-Assi Yaoundé Cameroun,,,Yaounde,38,nationality.cameroon,,222 313 342,676 544 214,,Biyem-Assi Yaoundé Cameroun,,,Yaounde,38,,222 313 342,676 544 214,512_photo.jpg,,,7/14/17 15:25,11/30/18 0:00,1,,,,Central Region,Central Region,3442,3,1,3,brock@2.fackme.gq,1,info@kamer-center.net,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+729,GLOBAL SOLUTIONS,"Km,5 Carretera del Aeropuerto",,,Malabo,66,nationality.equatorial.guinea,,555501144,555919672,,"Km,5 Carretera del Aeropuerto",,,Malabo,66,,555501144,555919672,729_photo.jpg,,,8/9/17 9:26,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3964,1,1,1,pedro.juan@globsols.com,1,info@globsols.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+284,EJMA SL,Banapa,,,Malabo,66,nationality.equatorial.guinea,,222212548,555927070,,Banapa,,,Malabo,66,,222212548,555927070,284_photo.jpg,,,12/19/16 8:30,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2127,1,1,1,contact@ejmasl.com,1,contact@ejmasl.com,9,Telecommunication Services,61,Diversified Telecommunication Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+305,ABISE ,"C/ Abilio Balboha 
+",,,Malabo ,66,nationality.equatorial.guinea,,222 29 40 44,222 20 60 70,,"C/ Abilio Balboha 
+",,,Malabo ,66,,222 29 40 44,222 20 60 70,305_photo.jpg,,,2/9/17 14:09,11/30/18 0:00,2,,,,Bioko Norte ,Bioko Norte ,2629,1,3,1,anastaciobiaho@hotmail.com,3,abiseservicios@gmaill.com,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+289,MINDTECH,"Commune d'Akanda,
+Agondjé 1ère cité",,,Libreville,78,nationality.gabon,2998,6398953,4145648,,"Commune d'Akanda,
+Agondjé 1ère cité",,,Libreville,78,2998,6398953,4145648,289_photo.jpg,,,1/4/17 13:23,11/30/18 0:00,2,,,,Estuaire,Estuaire,2226,1,1,1,yoangeorges2@gmail.com,1,mindtech241@gmail.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",78,241,78,78,78,,t
+290,AWEL SL,Avda Hassan Segundo,,,Malabo y Bata,66,nationality.equatorial.guinea,,222 676 068,555 876 983,,Avda Hassan Segundo,,,Malabo y Bata,66,,222 676 068,555 876 983,290_photo.jpg,,,1/13/17 9:20,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2307,1,1,1,miguelb60@hotmail.com,1,awel.grupo@gmail.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+311,Illusafrica RDC,"37, rue Mangay, C/ Kasa-Vubu, Kinshasa, RDC",,37,Kinshasa,51,nationality.congo.kinshasa,243,811911202,844807576,,"37, rue Mangay, C/ Kasa-Vubu, Kinshasa, RDC",,37,Kinshasa,51,243,811911202,844807576,311_photo.jpg,,,3/4/17 7:45,11/30/18 0:00,2,,,,Kinshasa ,Kinshasa ,2763,1,1,1,gmavitidi@gmail.com,1,gmavitidi@gmail.com,1,Consumer Discretionary,9,Media,1,"Micro < 10 employees
+",51,243,51,51,51,,t
+341,WEST AFRICA GOLF TOUR,"41 Udi Hills, Aso Drive
+Maitama, Abuja",,,Abuja,161,nationality.nigeria,,7035999462,8177126138,,"41 Udi Hills, Aso Drive
+Maitama, Abuja",,,Abuja,161,,7035999462,8177126138,341_photo.jpg,,,5/9/17 20:48,11/30/18 0:00,1,,,,FCT,FCT,3154,1,1,1,brubio@westafricagolftour.com,1,info@westafricagolftour.com,11,NonProfit ,68,NonProfit,1,"Micro < 10 employees
+",160,234,160,160,160,,t
+1002,MOMO COMMUNICATIONS SL,"Malabo II, Edificio Alquigesa (Planta cero)",,Planta 0,Malabo,66,nationality.equatorial.guinea,NA,555577775,222213056,,"Malabo II, Edificio Alquigesa (Planta cero)",,Planta 0,Malabo,66,NA,555577775,222213056,1002_photo.jpg,www.momocommunications.com,,2/14/18 10:51,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,7833,1,1,1,cesarmomo@globisco.com,1,info@momocommunications.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+513,Vodafone Cameroun,"Bonanjo, Douala Cameroon",,,Douala,38,nationality.cameroon,,690098887,690098887,,"Bonanjo, Douala Cameroon",,,Douala,38,,690098887,690098887,513_photo.jpg,,,7/14/17 16:42,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3443,3,1,3,yeswecanmore@rollindo.agency,1,support@vodafone.cm,7,Information Technology,49,Communications Equipment,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+504,YooMee,Douala Cameroon,,,Douala,38,nationality.cameroon,,233 50 51 00,233 50 51 00,,Douala Cameroon,,,Douala,38,,233 50 51 00,233 50 51 00,504_photo.jpg,,,7/14/17 8:11,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3433,3,1,3,awerty9900@temp-mail.pp.ua,1,reccm@yoomee.cm,7,Information Technology,51,IT Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+731,aelcenterservice ,PK8 vallée saint thomas avant le pont ,,,douala,38,nationality.cameroon,6804,652795204,99201406,,PK8 vallée saint thomas avant le pont ,,,douala yaounde kribi bert,38,6804,652795204,99201406,731_photo.jpg,,,8/9/17 10:33,11/30/18 0:00,1,,,,littoral,littoral,3966,1,3,1,mousmart@gmail.com,3,aelcenterservice@gmail.com,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+732,Nexttel,990 Douala,,,douala,38,nationality.cameroon,,666000789,666000789,,990 Douala,,,douala,38,,666000789,666000789,732_photo.jpg,,,8/9/17 13:20,11/30/18 0:00,1,,,,littoral,littoral,3969,3,1,3,charlotte.milla@nexttel.com.cm,1,Charlotte.milla@nexttel.com,6,Industrials,45,Professional Services,4,"Large >1,000 employees
+",38,237,38,38,38,,t
+514,LAMANA Cameroon,Douala Cameroon,,,Douala,38,nationality.cameroon,,680907373,680907373,,Douala Cameroon,,,Douala,38,,680907373,680907373,514_photo.jpg,,,7/14/17 17:38,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3444,3,1,3,anonymouswe@mailscheap.us,1,passibebey@yahoo.fr,2,Consumer Staples,15,Food Products,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+511,ARCHIPEL CM,Bali Douala Cameroon,,,Douala,38,nationality.cameroon,, 656 144 363,233 421 379,,Bali Douala Cameroon,,,Douala,38,, 656 144 363,233 421 379,511_photo.jpg,,,7/14/17 14:15,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3441,1,3,1,ayoub.o@6.emailfake.ml,3,archipelcm@gmail.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+736,BABEL DESIGN,C/ Rey Malabo,,,Malabo,66,nationality.equatorial.guinea,,222175175,628693780,,C/ Rey Malabo,,,Malabo,66,,222175175,628693780,736_photo.jpg,,,8/9/17 15:18,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3975,1,1,1,isandong@hotmail.com,1,isandong@hotmail.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",1,"Micro < 10 employees
+",66,240,205,66,205,,t
+384,BID Media,"Malingo, Buea, Cameroon",,,Buea,38,nationality.cameroon,,674601636,674601636,,"Malingo, Buea, Cameroon",,,Buea,38,,674601636,674601636,384_photo.jpg,,,7/4/17 14:34,11/30/18 0:00,1,,,,South West Region,South West Region,3280,3,1,3,dandrickzalaka.dz@gmail.com,1,bidmedia10@gmail.com,1,Consumer Discretionary,9,Media,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+319,2COMAPPRO sarl,3245 Avenue Degaulle - Bonapriso,,,Douala,38,nationality.cameroon,12591,233424913,674 472 158,233424913,3245 Avenue Degaulle - Bonapriso,,,Douala,38,12591,233424913,674 472 158,319_photo.jpg,http://www.2comappro.com/,,3/15/17 15:10,11/30/18 0:00,2,,,,Cameroun,Cameroun,2855,3,1,3,contact@2comappro.com,1,contact@2comappro.com,6,Industrials,47,Trading Companies & Distributors,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+257,EG MCDAN SHIPPING,CARRETERA AEROPUERTO KM 5 BIOKO NORTE . MALABO,,,MALABO,66,nationality.equatorial.guinea,240,222129501,555582095,,CARRETERA AEROPUERTO KM 5 BIOKO NORTE . MALABO,,,MALABO,66,240,222129501,555582095,257_photo.jpg,www.mcdanshipping.com,,12/14/16 13:28,11/30/18 0:00,2,,,,BIOKO NORTE,BIOKO NORTE,2080,1,1,1,abimbola@mcdanshipping.com,1,sales@mcdanshipping.com,6,Industrials,36,Air Freight & Logistics,3,"Medium 101 - 999 employees
+",66,240,66,66,66,,t
+304,SOCIEDAD GUINEANA DE FUMIGACION SL,Carretara de luba S/N,,,Malabo,66,nationality.equatorial.guinea,,333098818,222220101,,Carretara de luba S/N,,,Malabo,66,,333098818,222220101,304_photo.jpg,,,2/9/17 11:56,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2625,1,1,1,abraham@sgfpestcontrol.com,1,abraham@sgfpestcontrol.com,1,Consumer Discretionary,4,Diversified Consumer Services,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+402,NIFTY SERVICES,"RING WAY STREET, Bamenda, Cameroon",,,Bamenda,38,nationality.cameroon,,233361505,651048525,,"RING WAY STREET, Bamenda, Cameroon",,,Bamenda,38,,233361505,651048525,402_photo.jpg,,,7/5/17 18:03,11/30/18 0:00,1,,,,North West Region,North West Region,3304,3,1,3,ndekong@gmail.com,1,Nifty@niftyservices.biz,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+288,HOTEL DE FEDERACIONES,"MALABO, BANAPA",,,MALABO,66,nationality.grenada,,222760209,222270903,,"MALABO, BANAPA",,,MALABO,66,,222760209,222270903,288_photo.jpg,,,1/4/17 13:16,11/30/18 0:00,2,,,,BIOKO NORTE,BIOKO NORTE,2225,1,1,1,directorhotelfederaciones@gmail.com,1,directorhotelfederaciones@gmail.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",1,"Micro < 10 employees
+",86,240-1,86,86,86,PRECIO POR HABITACION20170104133833.docx,t
+216,MULTISERVICIOS GADERI,C/ Rey Malabo,,,Malabo,66,nationality.equatorial.guinea,,333092134,555783598,,C/ Rey Malabo,,,Malabo,66,,333092134,555783598,216_photo.jpg,,,12/6/16 16:05,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2027,3,1,3,benjaminesono20@gmail.com,1,benjaminesono20@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+258,SOCIEDAD ECUATOGUINEANA DE CONTRATACIONES ,Bomudi s/n,,,Bata,66,nationality.equatorial.guinea,,555 62 00 46,222 67 15 15,,Bomudi s/n,,,Bata,66,,555 62 00 46,222 67 15 15,258_photo.jpg,,,12/14/16 13:46,11/30/18 0:00,2,,,,Litoral,Litoral,2081,1,1,1,manguembomiocelestino@yahoo.es,1,s.e.c@gmail.com,10,Utilities,63,Electrical Utilities,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+738,ATM,c/ Rey Malabo,,,Malabo,66,nationality.equatorial.guinea,,222006184,222235436,,c/ Rey Malabo,,,Malabo,66,,222006184,222235436,738_photo.jpg,,,8/10/17 12:34,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3986,1,1,1,terramadre2016@gmail.com,1,terramadre2016@gmail.com,2,Consumer Staples,15,Food Products,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+542,BONGAM AND YOUMBI LAW FIRM,Rue Beybey Eyidi - Akwa P. O Box 3449,,,DOUALA,38,nationality.cameroon,,233 427 456,677 202 392,,Rue Beybey Eyidi - Akwa P. O Box 3449,,,DOUALA,38,,233 427 456,677 202 392,542_photo.jpg,bongamandyoumbilawfirm.org/,,7/19/17 9:47,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,3489,3,1,3,info@bongamandyoumbilawfirm.org,1,info@bongamandyoumbilawfirm.org,1,Consumer Discretionary,4,Diversified Consumer Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+398,RURAL WORLD RESOURCES INTERNATIONAL,"Bamenda, Cameroon",,,Bamenda,38,nationality.cameroon,,33113138,676237657,,"Bamenda, Cameroon",,,Bamenda,38,,33113138,676237657,398_photo.jpg,,,7/5/17 12:23,11/30/18 0:00,1,,,,North West Region,North West Region,3299,3,1,3,chicharles2014@gmail.com,1,info@tese.com,3,Energy,19,Energy Equipment & Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+317,ITM AFRICA,"775,Avenue Kasavubu
+Quartier Makutano
+",,,Lubumbashi,51,nationality.congo.kinshasa,243,828502119,829783821,,"775,Avenue Kasavubu
+Quartier Makutano
+",,,Lubumbashi,51,243,828502119,829783821,317_photo.jpg,www.itmafrica.com,,3/10/17 8:32,11/30/18 0:00,2,,,,KATANGA,KATANGA,2814,3,1,3,donatien@itmafrica.com,1,kin@itmafrica.com,10,Utilities,66,Multi-Utilities,3,"Medium 101 - 999 employees
+",51,243,51,51,51,2017 ITM COMPANY PROFILE_opt - Copie20170310082541.pdf,t
+253,JENAR SERVICIOS,"B/Lampert
+S/N- Malabo",,,Malabo,66,nationality.equatorial.guinea,,222008289,222037955,,"B/Lampert
+S/N- Malabo",,,Malabo,66,,222008289,222037955,253_photo.jpg,,,12/9/16 13:51,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2069,1,1,1,consultoriajenarge@gmail.com,1,consultoriajenarge@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+134,CCEI BANK GE,AV Malabo II,,,Malabo,66,nationality.grenada,428,333092910,222009343,,AV Malabo II,,,Malabo,66,428,333092910,222009343,134_photo.jpg,www.cceibankge.com,,10/10/16 10:39,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,1573,3,1,3,e.esimi@cceibankge.com,1,contact@cceibankge.com,4,Financials,21,Banks,3,"Medium 101 - 999 employees
+",86,240-1,86,86,86,,t
+280,Sociedad de Pescadores de Annobon,Ela NGUEMA,,,Malabo,66,nationality.equatorial.guinea,,222233828,222273961,,Ela NGUEMA,,,Malabo,66,,222233828,222273961,280_photo.jpg,,,12/15/16 14:04,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2112,1,1,1,sociedaddepescadoresannobon@gmail.com,1,sociedaddepescadoresannobon@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+306,AFELCO ENGINEERING,"Anda. Parques de África
+Barrio Caracolas",,,Malabo,66,nationality.equatorial.guinea,,222651190,911935153,,"Anda. Parques de África
+Barrio Caracolas",,,Malabo,66,,222651190,911935153,306_photo.jpg,,,2/9/17 14:47,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2630,1,3,1,eusebiogonzalez@afelco.com,3,eusebiogonzalez@afelco.com,6,Industrials,40,Construction & Engineering,2,"Small 11 - 100 employees
+",66,240,205,66,205,,t
+235,INESEGE SL,B/Semu,,,Malabo,66,nationality.grenada,,222217779,222249632,,B/Semu,,,Malabo,66,,222217779,222249632,235_photo.jpg,,,12/7/16 16:49,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2049,1,1,1,inesegesl@outlook.com,1,inesegesl@outlook.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",86,240-1,86,86,86,,t
+168,CEPROCS,"C/ Patricio Lumumba
+Malabo",,,Malabo,66,nationality.equatorial.guinea,,222231529,555918952,,"C/ Patricio Lumumba
+Malabo",,,Malabo,66,,222231529,555918952,168_photo.jpg,www.icubefarm.com,,11/22/16 11:25,11/30/18 0:00,2,,,,Bioco Norte,Bioco Norte,1884,1,1,1,ceprocs.sl@gmail.com,1,ceprocs.sl@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+990,Tee Packaging,Akwa Carrefour ideale,,"Boulevard La Republique, ",Douala,38,nationality.cameroon,CMR,698980204,655631822,,Akwa Carrefour ideale,,"Boulevard La Republique, ",Douala,38,CMR,698980204,655631822,990_photo.jpg,,,11/24/17 14:43,11/30/18 0:00,1,,,,Littoral,Littoral,6784,1,1,1,etone.teepackaging@yahoo.com,1,info@teepackaging.com,2,Consumer Staples,15,Food Products,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+113,K5 OIL CENTRE,"CARRETERA AEROPUERTO KM5
+MALABO",,,MALABO,66,nationality.equatorial.guinea,,222196432,,,"CARRETERA AEROPUERTO KM5
+MALABO",,,MALABO,66,,222196432,,113_photo.jpg,,,7/25/16 14:51,11/30/18 0:00,1,,,,BIOKO NORTE,BIOKO NORTE,1392,3,1,3,accountingk5@k5oilcentre.net,1,accountingk5@k5oilcentre.net,6,Industrials,39,Commercial Services & Supplies,3,"Medium 101 - 999 employees
+",66,240,205,205,205,,f
+238,GABINETE SALVA,"C/ NIGERIA
+MALABO",,,Malabo,66,nationality.grenada,,22256619,222014688,,"C/ NIGERIA
+MALABO",,,Malabo,66,,22256619,222014688,238_photo.jpg,,,12/7/16 16:55,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2052,1,1,1,filibertoelamicha@hotmail.com,1,mongannam@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",86,240-1,86,66,66,,t
+745,BINS Inside,Douala-CAMEROUN,,,Douala,38,nationality.cameroon,,665112665,675701625,,Douala-CAMEROUN,,,Douala,38,,665112665,675701625,745_photo.jpg,,,8/14/17 8:22,11/30/18 0:00,1,,,,Littoral,Littoral,4026,3,1,3,serge.ndoumbock@gmail.com,1,inside.bins@gmail.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+972,LUCAS ESCALADA MANAGEMENT,Malabo,,,Malabo,66,nationality.equatorial.guinea,,222704389,555582037,,Malabo,,,Malabo,66,,222704389,555582037,972_photo.jpg,,,10/16/17 10:33,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,5671,1,1,1,mujerideal2015@yahoo.com,1,organizacion@mujerideal-ge.org,1,Consumer Discretionary,9,Media,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+244,SEINGAM SL,"C/ Africa
+Malabo",,,Malabo,66,nationality.equatorial.guinea,,222270122,2222633617,,"C/ Africa
+Malabo",,,Malabo,66,,222270122,2222633617,244_photo.jpg,,,12/8/16 12:49,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2059,1,1,1,seingam.sl@gmail.com,1,seingam.sl@gmail.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+158,GREEN FOOD SL,Basupu del Oeste SN,,,Malabo,66,nationality.grenada,,555296351,222213747,,Basupu del Oeste SN,,,Malabo,66,,555296351,222213747,158_photo.jpg,www.icubefarm.com,,11/20/16 12:42,11/30/18 0:00,2,,,,Bioco Norte,Bioco Norte,1862,1,1,1,javier.pecho@gmail.com,1,infogreenfoodsl@gmail.com,2,Consumer Staples,14,Food & Staples Retailing,1,"Micro < 10 employees
+",86,240-1,86,86,86,,t
+163,TALLER DE ARTE GUINEO BANTU,"C/ AMANCER DE AFRICA 
+S/N",,,Malabo,66,nationality.equatorial.guinea,,222171663,222217814,,"C/ AMANCER DE AFRICA 
+S/N",,,Malabo,66,,222171663,222217814,163_photo.jpg,www.icubefarm.com,,11/21/16 11:28,11/30/18 0:00,2,,,,Bioco Norte,Bioco Norte,1870,1,1,1,raquel_ehapo@yahoo.com,1,visamu3@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+279,AZIOGE SL MULTISERVICIOS,"Bata
+B/ Nkuantoma",,,Bata,66,nationality.equatorial.guinea,,222276511,666187505,,"Bata
+B/ Nkuantoma",,,Bata,66,,222276511,666187505,279_photo.jpg,,,12/15/16 13:59,11/30/18 0:00,0,,,,Litoral,Litoral,2111,1,1,1,aziogeslmultiservicios@gmail.com,1,aziogeslmultiservicios@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+282,MEGA COMPUTER INFORMATIQUE,"B/ Carracolas- parques de Africa S/N
+Malabo",,,Malabo,66,nationality.equatorial.guinea,,222732180,551260446,,"B/ Carracolas- parques de Africa S/N
+Malabo",,,Malabo,66,,222732180,551260446,282_photo.jpg,,,12/15/16 15:22,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2114,1,1,1,megacomputerinformatique@gmail.com,1,megacomputerinformatique@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+285,IFSL,"B/ Paraiso
+Malabo",,,Malabo,66,nationality.grenada,,555545622,222700187,,"B/ Paraiso
+Malabo",,,Malabo,66,,555545622,222700187,285_photo.jpg,,,12/21/16 8:42,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2145,1,1,1,ifslgq@gmail.com,1,ifslgq@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",86,240-1,86,86,86,,t
+867,Africa Designs Innovation,BP 1928 Yaoundé,,,Yaounde,38,nationality.cameroon,,243007134,677447134,,BP 1928 Yaoundé,,,Yaounde,38,,243007134,677447134,867_photo.jpg,www.adi.cm,,9/11/17 2:05,11/30/18 0:00,1,,,,Centre,Centre,4769,3,1,3,krystel.nopoudem@gmail.com,1,krystel.nopoudem@gmail.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+737,Business solutions team,Sodium bonaberi box 1302 Douala,,,Douala,38,nationality.cameroon,,677056364,677555571,,Sodium bonaberi box 1302 Douala,,,Douala,38,,677056364,677555571,737_photo.jpg,,,8/10/17 12:28,11/30/18 0:00,1,,,,Littoral,Littoral,3985,1,1,1,roland850ntah@yahoo.com,1,Roland850ntah@yahoo.com,7,Information Technology,54,Software,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+739,grateful engineering global limited,Akwa Douala,,,douala,38,nationality.cameroon,,233431955,673322865,,Akwa Douala,,,douala,38,,233431955,673322865,739_photo.jpg,www.intelhrc.com,,8/11/17 8:33,11/30/18 0:00,1,,,,littoral,littoral,3998,3,1,3,Melvis@gratoengineering.com ,1,Melvis@gratoengineering.com,9,Telecommunication Services,61,Diversified Telecommunication Services,1,"Micro < 10 employees
+",38,237,38,38,38,,f
+740,Grateful Engineering ,Akwa behind orange head office,,,douala,38,nationality.cameroon,,673322865,673322865,,Akwa behind orange head office,,,douala,38,,673322865,673322865,740_photo.jpg,www.gratoengineerimg.com,,8/11/17 8:45,11/30/18 0:00,1,,,,littoral,littoral,4000,3,1,3,melvis@gratoengineering.com,1,melvis@gratoengineering.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+719,pole Rh sarl,B.P 10 335,,,douala,38,nationality.cameroon,,233 431 086,678 885 877,,B.P 10 335,,,douala,38,,233 431 086,678 885 877,719_photo.jpg,,,8/8/17 13:41,11/30/18 0:00,1,,,,littoral,littoral,3946,3,1,3,njoyapolerh@gmail.com,1,polerh.emploi@gmail.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+312,Germann Bau und Solar,LOGPOM Face foyer TODJOM,,,DOUALA,38,nationality.cameroon,,696647496,673858402,,LOGPOM Face foyer TODJOM,,,DOUALA,38,,696647496,673858402,312_photo.jpg,,,3/8/17 10:50,11/30/18 0:00,2,,,,Littoral,Littoral,2799,1,1,1,bouendeu90@gmail.com,1,gerbauusolar@gmail.com,3,Energy,19,Energy Equipment & Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,f
+159,AFROM GUINEA,Bata,,,Bata,66,nationality.equatorial.guinea,,222250747,222275586,,Bata,,,Bata,66,,222250747,222275586,159_photo.jpg,www.icubefarm.com,,11/20/16 13:04,11/30/18 0:00,0,,,,Litoral,Litoral,1863,1,1,1,afromguinea@yahoo.fr,1,afromguinea@yahoo.fr,6,Industrials,40,Construction & Engineering,3,"Medium 101 - 999 employees
+",66,240,66,66,66,,t
+333,FARMACIA ROSA DE LAS NIEVES,"SEMU, CLIMENT ( CERCA DE ALMACEN DE SANTI )",,,Malabo,66,nationality.equatorial.guinea,,222259270,222642799,,"SEMU, CLIMENT ( CERCA DE ALMACEN DE SANTI )",,,Malabo,66,,222259270,222642799,333_photo.jpg,,,4/21/17 9:14,11/30/18 0:00,1,,,,Bioko norte,Bioko norte,3095,1,1,1,rosadelasnieves2016@gmail.com,1,rosadelasnieves2016@gmail.com,5,Health Care,34,Pharmaceuticals,1,"Micro < 10 employees
+",66,240,66,66,66,DOCUMENTOS FARMACIA ROSA DE LAS NIEVES20170421091433.docx,t
+162,FTF CATERING,"Carretera del Aeropuerto
+km 4 Malabo",,,Malabo,66,nationality.equatorial.guinea,,222660892,333099169,,"Carretera del Aeropuerto
+km 4 Malabo",,,Malabo,66,,222660892,333099169,162_photo.jpg,www.ftfcatering.com,,11/21/16 10:12,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,1867,1,3,1,eg.countrymgr@ftfcatering.com,3,coordination.center@fitfcatering.com,1,Consumer Discretionary,4,Diversified Consumer Services,3,"Medium 101 - 999 employees
+",66,240,66,66,66,,t
+149,GETESA,"c/Rey Boncoro N 27
+Apdo. 494- Malabo
+",,,Malabo,66,nationality.equatorial.guinea,,333092815,222734925,333093313,"c/Rey Boncoro N 27
+Apdo. 494- Malabo
+",,,Malabo,66,,333092815,222734925,149_photo.jpg,www.comparmagie.ma/getesa,,11/10/16 9:08,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,1780,3,1,3,santos.panades@orange-getesa.gq,1,santos.panades@orange-getesa.gq,9,Telecommunication Services,61,Diversified Telecommunication Services,3,"Medium 101 - 999 employees
+",66,240,66,66,66,,t
+329,EL ZAMPON,Calle Abilio Balboa s/n,,,Malabo,66,nationality.equatorial.guinea,,222772207,222709301,,Calle Abilio Balboa s/n,,,Malabo,66,,222772207,222709301,329_photo.jpg,,,4/18/17 11:56,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3080,1,1,1,elzamponcomidascaseras@gmail.com,1,elzamponcomidascaseras@gmail.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",1,"Micro < 10 employees
+",66,240,66,66,66,,t
+198,spring,"19th main road,4th cross road",,,vishakapatnam,100,nationality.india,,9492959368,949593967,,"19th main road,4th cross road",,,vishakapatnam,100,,9492959368,949593967,198_photo.jpg,,,12/6/16 10:14,11/30/18 0:00,2,,,,andhra pradesh,andhra pradesh,2004,1,1,1,sunanda@gmail.com,1,spring@gmail.com,4,Financials,22,Capital Markets,2,"Small 11 - 100 employees
+",100,91,100,100,100,,f
+521,Center Inter-Entreprise de Sante au Travail ,Douala Cameroun,,,Douala,38,nationality.cameroon,,653 55 66 71.,653 55 66 71.,,Douala Cameroun,,,Douala,38,,653 55 66 71.,653 55 66 71.,521_photo.jpg,,,7/17/17 10:02,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3454,3,1,3,mohamed.negm@visal168.ml,1,isste@isste.cm,5,Health Care,31,Health Care Providers  & Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+742,CERISES AUTOS,Rue vasnitex ,,,douala,38,nationality.cameroon,,233439153,696733555,,Rue vasnitex ,,,douala,38,,233439153,696733555,742_photo.jpg,,,8/11/17 9:46,11/30/18 0:00,1,,,,littoral,littoral,4003,3,1,3,dianecerisesauto@yahoo.com,1,cerisesautoscm@yahoo.com,1,Consumer Discretionary,2,Automobiles,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+744,Santec Afrique Centrale,"Rue Bebey Elame
+BP 2326 Douala",,,Douala,38,nationality.cameroon,,233427612,662961665,,"Rue Bebey Elame
+BP 2326 Douala",,,Douala,38,,233427612,662961665,744_photo.jpg,,,8/11/17 18:20,11/30/18 0:00,1,,,,Littoral,Littoral,4009,3,1,3,imatip@gmail.com,1,santecac@gmail.com,5,Health Care,31,Health Care Providers  & Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+715,AFRO SERVICE SL,B/Santa Maria II,,,Malabo,66,nationality.equatorial.guinea,,222009737,333093080,,B/Santa Maria II,,,Malabo,66,,222009737,333093080,715_photo.jpg,,,8/8/17 10:15,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3935,1,3,1,afro_service_eg@hotmail.com,3,afro_service_eg@hotmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+717,Intel HR consulting- CMR,Rue copseco  bonapriso douala cameroun,,,douala,38,nationality.cameroon,,233433023,656543036,,Rue copseco  bonapriso douala cameroun,,,douala,38,,233433023,656543036,717_photo.jpg,,,8/8/17 10:58,11/30/18 0:00,1,,,,littoral,littoral,3939,3,1,3,aude.mambingo@intelhrc.com,1,,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,233,38,,f
+874,Regency Cameroon,8299,,,YAOUNDE,38,nationality.cameroon,237,699096906,674531775,,8299,,,YAOUNDE,38,237,699096906,674531775,874_photo.jpg,,,9/11/17 10:43,11/30/18 0:00,1,,,,CENTRE,CENTRE,4786,1,1,1,fred_bomba@yahoo.fr,1,fred_bomba@yahoo.fr,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+385,EXPRESS FORWARDING COMPANY LTD,"OPPOSITE O.I.C, SAME BUILDING WITH PMUC BUEA",,,BUEA,38,nationality.cameroon,,23332458,674540066,,"OPPOSITE O.I.C, SAME BUILDING WITH PMUC BUEA",,,BUEA,38,,23332458,674540066,385_photo.jpg,expressforwardingc.com,,7/4/17 15:03,11/30/18 0:00,1,,,,SOUTHWEST REGION,SOUTHWEST REGION,3281,3,1,3,tngute@expressforwardingc.com,1,efc@expressforwardingc.com,6,Industrials,36,Air Freight & Logistics,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+746,KAMER INFOS ,Cameroun/Yaoundé,,"BP 14024, Mvog ada",Douala,38,nationality.cameroon,237,222226582,653146341,,Cameroun/Yaoundé,,"BP 14024, Mvog ada",Douala,38,237,222226582,653146341,746_photo.jpg,www.kamerinfo.tk,,8/14/17 11:22,11/30/18 0:00,1,,,,Centre ,Centre ,4028,3,1,3,kamerinfos@yahoo.com,1,kamerinfos@yahoo.com,1,Consumer Discretionary,3,Distributors,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+779,SHERAIZ DELIGHTZ,"271 Rue 1225 Bonapriso
+P.O Box 5624
+",,,Douala,38,nationality.cameroon,237,674938961,690418369,,"271 Rue 1225 Bonapriso
+P.O Box 5624
+",,,Douala,38,237,674938961,690418369,779_photo.jpg,www.sheraizdelightz.com,,8/24/17 11:38,11/30/18 0:00,1,,,,Littoral,Littoral,4151,1,1,1,etonde@sheraizdelightz.com,1,contact@sheraizdelightz.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,BROCHURE SHERAIZ DELIGHTZ20170824113820.pdf,t
+768,ZENITHE INSURANCE PLC LTD,RUE KOUMASSI - BALI,,,DOUALA,38,nationality.cameroon,,694308232,233434132,,RUE KOUMASSI - BALI,,,DOUALA,38,,694308232,233434132,768_photo.jpg,www.zenitheinsurance.com,,8/22/17 11:07,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,4119,1,3,1,fang.bridget@zenitheinsurance.com,3,info@zenitheinsurance.com,4,Financials,25,Insurance,3,"Medium 101 - 999 employees
+",38,237,38,38,38,,t
+769,Fly International ,"Molyko
+PO box 127",,"Molyko, PO box 127",Buea,38,nationality.cameroon,237,675585222,677303268,,"Molyko
+PO box 127",,"Molyko, PO box 127",Buea,38,237,675585222,677303268,769_photo.jpg,www.flyintertours.com,,8/22/17 14:43,11/30/18 0:00,1,,,,south west region,south west region,4125,1,3,1,achineki@gmail.com,3,infofitcm@gmail.com,6,Industrials,37,Airlines,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+776,Njorku Ltd,UB Junction - Molyko,,,Buea,38,nationality.cameroon,237,223434343,223434343,223434343,UB Junction - Molyko,,,Buea,38,237,223434343,223434343,776_photo.jpg,www.njorku.com,,8/24/17 10:37,11/30/18 0:00,1,,,,South West ,South West ,4147,3,3,3,mambenanje@njorku.com,3,info@njorku.com,7,Information Technology,52,Internet Software & Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+764,KING CHRIS GRAPHIC COMMUINCIATION LIMITED,BUEA,,,BUEA,38,nationality.cameroon,237,677947345,696209645,,BUEA,,,BUEA,38,237,677947345,696209645,764_photo.jpg,www.kingchriscorp.com,,8/21/17 16:25,11/30/18 0:00,1,,,,SOUTH WEST REGION ,SOUTH WEST REGION ,4111,1,1,1,myking.chris@gmail.com,1,kingchrismails@gmail.com,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+475,Cameroon Diving Services Ltd,"Bonamoussadi Carrefour samuel Eto,o Fils, Douala, ",,,Douala,38,nationality.cameroon,,233478787,670497663,,"Bonamoussadi Carrefour samuel Eto,o Fils, Douala, ",,,Douala,38,,233478787,670497663,475_photo.jpg,,,7/12/17 12:18,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3401,3,1,3,info@cameroondivingservices.com,1,info@cameroondivingservices.com,10,Utilities,67,Water Utilities,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+880,HABITAT237,"DOUALA ,Bonamoussadi",,,Douala,38,nationality.cameroon,,674195947,651508000,,"DOUALA ,Bonamoussadi",,,Douala,38,,674195947,651508000,880_photo.jpg,,,9/11/17 14:43,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,4803,1,2,1,ladifah.zeh.nsangou@gmail.com,2,habitat237@gmail.com,1,Consumer Discretionary,12,"Textiles, Apparel & Luxury Goods",1,"Micro < 10 employees
+",38,237,38,38,38,,t
+747,Ovamba Cameroon Solutions,"BP 5767, Bonapriso",,,Douala,38,nationality.cameroon,,654454858,680002838,,"BP 5767, Bonapriso",,,Douala,38,,654454858,680002838,747_photo.jpg,www.ovamba.com,,8/16/17 7:48,11/30/18 0:00,1,,,,Littoral,Littoral,4055,1,1,1,hr@ovamba.com,1,hr@ovamba.com,6,Industrials,47,Trading Companies & Distributors,2,"Small 11 - 100 employees
+",38,237,38,38,38,,f
+757,Smart Human Resources ,Carrefour agip,,,douala,38,nationality.cameroon,,696189060,672639696,,Carrefour agip,,,douala,38,,696189060,672639696,757_photo.jpg,,,8/17/17 13:26,11/30/18 0:00,1,,,,littoral,littoral,4082,3,1,3,marianepeyeu@yahoo.fr,1,smarthumanresources.sarl@gmail.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+971,sunanda test,"17th main road, kormangala",,,dfdsfsdfdf,100,nationality.india,,7760176416,3254534534,,"17th main road, kormangala",,,dfdsfsdfdf,100,,7760176416,3254534534,971_photo.jpg,,,10/16/17 10:27,11/30/18 0:00,1,,,,karnataka,karnataka,5683,1,1,1,sunanda.buddharaju@gmail.com,1,test@gmail.com,4,Financials,23,Consumer Finance,2,"Small 11 - 100 employees
+",100,91,98,100,98,,f
+758,UNIVERSAL SERVICES AND SUPPLIES ,"B/ Banapa, Cerca del Hotel Banapa",,,Malabo,66,nationality.equatorial.guinea,,222274612,222272526,,"B/ Banapa, Cerca del Hotel Banapa",,,Malabo,66,,222274612,222272526,758_photo.jpg,,,8/17/17 14:16,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,4083,1,1,1,uss94925@yahoo.com,1,uss94925@yahoo.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+778,Simtech-3D Sarl,Sable bonamoussadi,,,Douala,38,nationality.cameroon,,233471520,243842801,,Sable bonamoussadi,,,Douala,38,,233471520,243842801,778_photo.jpg,,,8/24/17 10:48,11/30/18 0:00,1,,,,Littoral ,Littoral ,4149,3,1,3,c.njienga@simtech3d.com,1,info@simtec3d.com,10,Utilities,63,Electrical Utilities,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+753,innovative transport ,Bp 8561 douala,,,douala,38,nationality.cameroon,,675891219,694915371,,Bp 8561 douala,,,douala,38,,675891219,694915371,753_photo.jpg,www.itranscam.com ,,8/16/17 12:13,11/30/18 0:00,1,,,,littoral,littoral,4067,3,1,3,ibrahimfatima75@yahoo.ca,1,info@intranscam.com ,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+766,ADS Cameroun,"Avenue du Docteur Jamot, AKWA.",,,Douala,38,nationality.cameroon,4018,699274130,670014853,,"Avenue du Docteur Jamot, AKWA.",,,Douala,38,4018,699274130,670014853,766_photo.jpg,www.adscameroun.com,,8/22/17 0:45,11/30/18 0:00,1,,,,Littoral,Littoral,4114,1,1,1,medallo.pitar@gmail.com,1,ads@adscameroun.com,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+749,OCSO5,C/ Acacio Mane ,,,Malabo,66,nationality.equatorial.guinea,,222258390,22213490,,C/ Acacio Mane ,,,Malabo,66,,222258390,22213490,749_photo.jpg,,,8/16/17 11:00,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,4061,1,1,1,valeroobama@hotmail.com,1,valerioobama@hotmail.com,8,Materials,57,Construction Materials,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+752,innovative transport ,Bp 8561 douala,,,douala,38,nationality.cameroon,,675891219,694915371,,Bp 8561 douala,,,douala,38,,675891219,694915371,752_photo.jpg,www.itranscam.com ,,8/16/17 12:05,11/30/18 0:00,1,,,,littoral,littoral,4066,3,1,3,longfasteelcam@gmail.com ,1,info@intranscam.com ,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+763,Journal Mutations ,Bp: 12348,,,douala,38,nationality.cameroon,237,222306680,222307145,,Bp: 12348,,,douala,38,237,222306680,222307145,763_photo.jpg,www.quotidienmutations.cm,,8/21/17 13:14,11/30/18 0:00,1,,,,littoral,littoral,4109,3,1,3,ndiang86@gmail.com,1,quotidienmutations2017@gmail.com,1,Consumer Discretionary,9,Media,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+976,Multi TV Cameroun,BP 764 Douala,,,Douala,38,nationality.cameroon,764 Douala,669945536,669945535,,BP 764 Douala,,,Douala,38,764 Douala,669945536,669945535,976_photo.jpg,www.opentv-cameroun.com,,10/26/17 18:16,11/30/18 0:00,1,,,,Littoral,Littoral,6072,1,1,1,audreymultitv2017@gmail.com,1,multitvcameroun@gmail.com,9,Telecommunication Services,61,Diversified Telecommunication Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+882,EST EWEN INTERNATIONAL ,"BP  ,Douala , Cameroon ",,,Douala ,38,nationality.cameroon,,677072872,677072872,,"BP  ,Douala , Cameroon ",,,Douala ,38,,677072872,677072872,882_photo.jpg,,,9/12/17 21:46,11/30/18 0:00,1,,,,Littoral ,Littoral ,4820,1,1,1,eweninternationalsarl@gmail.com,1,eweninternationalsarl@gmail.com,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",38,237,38,38,38,,f
+886,dtochs,157,,,yaounde,38,nationality.cameroon,,243626261,243626261,,157,,,yaounde,38,,243626261,243626261,886_photo.jpg,,,9/13/17 9:12,11/30/18 0:00,1,,,,centre,centre,4840,3,1,3,guemtchuing@gmail.com,1,guemtchuing@gmail.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",38,237,38,38,38,,f
+888,Ecarlate Technologie,14230 YAOUNDE,,Ministere de SOYA,Yaounde,38,nationality.cameroon,,695105592,690608943,,14230 YAOUNDE,,14230 YAOUNDE,Yaounde,38,,695105592,22 21 80 34,888_photo.jpg,www.ecarlate.net,,9/13/17 9:43,12/31/18 0:00,1,,,,Centre,Centre,4843,1,3,1,oumar@ecarlate.net,3,c@ecarlate.net,7,Information Technology,52,Internet Software & Services,1,"Micro < 10 employees
+",38,237,38,233,38,,t
+537,Mawa Hotel ,Bamenda Cameroon,,,Bamenda,38,nationality.cameroon,,676845019,676845019,,Bamenda Cameroon,,,Bamenda,38,,676845019,676845019,537_photo.jpg,,,7/18/17 11:31,11/30/18 0:00,1,,,,North West Region,North West Region,3473,3,1,3,k__96@tellos.xyz,1,k__96@tellos.xyz,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+756, DHL,Po box 3582 Douala ,,,douala,38,nationality.cameroon,,233500900,677513324,,Po box 3582 Douala ,,,douala,38,,233500900,677513324,756_photo.jpg,,,8/17/17 10:13,11/30/18 0:00,1,,,,littoral,littoral,4080,3,1,3,solange.ligan@dhl.com,1,solange.ligan@dhl.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+755,M L Consulting SL,Parques de Africa ,,,Malabo,66,nationality.equatorial.guinea,,222087675,222112112,,Parques de Africa ,,,Malabo,66,,222087675,222112112,755_photo.jpg,,,8/17/17 9:58,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,4078,1,1,1,nathouarly@gmail.com,1,nathouarly@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+780,AFRO PETRO AND BUSINESS SOLUTIONS ,Immeuble aziccul feu Rouge Bessengue 5e etage ,,,douala,38,nationality.cameroon,,233416348,696448887,,Immeuble aziccul feu Rouge Bessengue 5e etage ,,,douala,38,,233416348,696448887,780_photo.jpg,www.afropbs.com ,,8/28/17 12:06,11/30/18 0:00,1,,,,littoral,littoral,4189,3,1,3,annie.bouma@afropbs.com ,1,enquiries@afropbs.com ,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+789,Djabbama Dounia Sarl,332 Ngaoundéré,,,Ngaoundere,38,nationality.cameroon,332,690907114,661011570,,332 Ngaoundéré,,,Ngaoundere,38,332,690907114,661011570,789_photo.jpg,www.groupelin.com,,8/29/17 15:41,11/30/18 0:00,1,,,,Adamaoua,Adamaoua,4217,1,3,1,rh@groupelin.com,3,rh@groupelin.com,6,Industrials,47,Trading Companies & Distributors,2,"Small 11 - 100 employees
+",38,237,38,38,38,,f
+784,MELT GROUP ,"Douala, Cameroun ",,,douala,38,nationality.cameroon,,2334304481,698843668,,"Douala, Cameroun ",,,douala,38,,2334304481,698843668,784_photo.jpg,www.meltgroup.com,,8/28/17 13:21,11/30/18 0:00,1,,,,littoral,littoral,4198,3,1,3,nadege.dang@meltgroup.com,1,Cameroon@meltgroup.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+790,MARS 22,"Douala, Cameroon",,,Douala,38,nationality.cameroon,237,656545237,653218991,,"Douala, Cameroon",,,Douala,38,237,656545237,653218991,790_photo.jpg,,,8/29/17 21:29,11/30/18 0:00,1,,,,Lithoral,Lithoral,4236,1,1,1,ngakamalb1978@gmail.com,1,ngakamalb@yahoo.fr,6,Industrials,47,Trading Companies & Distributors,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+393,Afro Technology,"Above Ecobank, Comm Avenue, Bamenda, Cameroon",,,Bamenda,38,nationality.cameroon,,675529789,675529789,,"Above Ecobank, Comm Avenue, Bamenda, Cameroon",,,Bamenda,38,,675529789,675529789,393_photo.jpg,www.afrotechnology.net,,7/5/17 10:51,11/30/18 0:00,1,,,,North West Region,North West Region,3293,3,1,3,etienne@afrotechnology.net,1,info@afrotechnology.net,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+466,GROUPE NKAH ENGINEERING,"Dragage Yaoundé 
+
+BP: 15249",,,yaounde,38,nationality.cameroon,237,222209839,676611142,,"Dragage Yaoundé 
+
+BP: 15249",,,yaounde,38,237,222209839,676611142,466_photo.jpg,www.groupenkah.com,,7/12/17 8:30,11/30/18 0:00,1,,,,centre,centre,3390,3,1,3,groupenkah@yahoo.fr,1,groupenkah@yahoo.fr,6,Industrials,40,Construction & Engineering,2,"Small 11 - 100 employees
+",38,237,38,38,38,Brochure Nkah20170712082536.pdf,t
+981,DECO COLORS,Bepanda 7ème après le commissariat,,,Douala,38,nationality.cameroon,237,694327951,677779760,,Bepanda 7ème après le commissariat,,,Douala,38,237,694327951,677779760,981_photo.jpg,,,11/14/17 11:04,11/30/18 0:00,1,,,,Littoral,Littoral,6454,1,1,1,fokoujosias@yahoo.fr,1,decomatt2@yahoo.fr,10,Utilities,66,Multi-Utilities,2,"Small 11 - 100 employees
+",38,237,38,38,38,typon deco-0220171114110350.pdf,t
+794,BEACOP SAS,"IMMEUBLE BEACOP
+P14 AVENUE DE JAPOMA (PK8)",,,DOUALA,38,nationality.cameroon,15753,242237374,699257071,,"IMMEUBLE BEACOP
+P14 AVENUE DE JAPOMA (PK8)",,,DOUALA,38,15753,242237374,699257071,794_photo.jpg,www.beacop.cm,,8/30/17 12:11,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,4326,3,1,3,joseph.aouda@beacop.cm,1,contact@beacop.cm,6,Industrials,40,Construction & Engineering,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+344,BRAINWORKS CAPITAL MANAGEMENT EG SL,"EDIFICIO ALQUIGESA, CUARTA PLANTA, MALABO II",,,Malabo,66,nationality.equatorial.guinea,,555595458,555595457,,"EDIFICIO ALQUIGESA, CUARTA PLANTA, MALABO II",,,Malabo,66,,555595458,555595457,344_photo.jpg,www.brainworkscapital.com,,5/22/17 9:58,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3181,1,1,1,info-eg@brainworkscapital.com,1,info-eg@brainworkscapital.com,4,Financials,24,Diversified Financial Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+974,VLC,"banamoussadi
+face hotel saint James",,,Douala,38,nationality.cameroon,,69522323636,672791952,,"banamoussadi
+face hotel saint James",,,Douala,38,,69522323636,672791952,974_photo.jpg,,,10/21/17 10:09,11/30/18 0:00,1,,,,littoral,littoral,5809,1,3,1,ngolle@vistalanguagecenter.com,3,infos@vistalanguagecenter.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",38,237,37,38,37,,f
+343,africa bantu esstudio,Enrique nvo ,,,malabo,66,nationality.equatorial.guinea,,222733165,222623898,,Enrique nvo ,,,malabo,66,,222733165,222623898,343_photo.jpg,,,5/20/17 9:14,11/30/18 0:00,1,,,,Bioko norte,Bioko norte,3179,1,1,1,ekomnsogo@gmail.com,1,ekomsogo@gmail.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+352,MML,Lagos,,,Lagos,160,nationality.nigeria,,8029998203,8029998203,,Lagos,,,Lagos,160,,8029998203,8029998203,352_photo.jpg,,,6/6/17 20:48,11/30/18 0:00,1,,,,Lagos,Lagos,3216,1,1,1,uanajemba@mml.com.ng,1,info@mml.com.ng,6,Industrials,37,Airlines,1,"Micro < 10 employees
+",160,234,160,160,160,Advert for CHC EG Pilot recruitment-Final to publish20170606204334.pdf,f
+759,Motion Fountain,"Tradex Makepe 2,
+ Douala",,,Douala,38,nationality.cameroon,,675300110,675300110,,"Tradex Makepe 2,
+ Douala",,,Douala,38,,675300110,675300110,759_photo.jpg,www.motionfountain.,,8/18/17 11:41,11/30/18 0:00,1,,,,Littoral,Littoral,4094,1,3,1,a.collins@motionfountain.net,3,a.collins@motionfountain.net,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+348,FRABOM CORPORATION,"C/ABILIO BALBOA, MALABO",,,MALABO,66,nationality.equatorial.guinea,,555535616,222007192,,"C/ABILIO BALBOA, MALABO",,,MALABO,66,,555535616,222007192,348_photo.jpg,,,5/29/17 10:31,11/30/18 0:00,1,,,,BIOKO NORTE,BIOKO NORTE,3199,1,1,1,frabomcorporation@gmail.com,1,frabomcorporation@gmail.com,4,Financials,27,Real Estate Management & Development,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+983,Standard chartered bank Cameroon ,"Bld de la liberte, Akwa Douala",,,Douala,38,nationality.cameroon,,233435200,233435283,,"Bld de la liberte, Akwa Douala",,,Douala,38,,233435200,233435283,983_photo.jpg,Sc.com,,11/14/17 22:36,11/30/18 0:00,1,,,,Littoral,Littoral,6456,3,3,3,bumahmchi@gmail.com,3,Hrcameroon@sc.com,4,Financials,21,Banks,3,"Medium 101 - 999 employees
+",38,237,38,38,38,,f
+952,Smart human resources,B.P 4908 doual-cameroun,,,Douala,38,nationality.cameroon,,691526345,691827599,,B.P 4908 doual-cameroun,,,Douala,38,,691526345,691827599,952_photo.jpg,,,9/28/17 12:18,11/30/18 0:00,1,,,,Littoral,Littoral,5077,1,1,1,smarthumanresources.sarl@gmail.com,1,smarthumanresources.sarl@yahoo.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+619,KFT Magnet Cameroon Ltd,Plot 3211 Old Road Bonaberi P.O. Box 9200 Bonaberi,,,DOUALA,38,nationality.cameroon,,676956302,676956302,,Plot 3211 Old Road Bonaberi P.O. Box 9200 Bonaberi,,,DOUALA,38,,676956302,676956302,619_photo.jpg,www.kftm-services.com,,7/28/17 7:53,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,3688,3,2,3,info@kftm-services.com,2,info@kftm-services.com,1,Consumer Discretionary,4,Diversified Consumer Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+921,SIMPLE SERVICES,Douala Nouvelle Route cité SIC,,,DOUALA,38,nationality.cameroon,12260,690306698,672417312,,Douala Nouvelle Route cité SIC,,,DOUALA,38,12260,690306698,672417312,921_photo.jpg,www.simpleservices.cf,,9/20/17 13:07,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,5073,1,3,1,simpleservicescm@gmail.com,3,infos@simpleservices.cf,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+356,PINTURAS  HERMANOS,C/ REY BONKORO ,,,MALABO,66,nationality.equatorial.guinea,,333096821,555276055,,C/ REY BONKORO ,,,MALABO,66,,333096821,555276055,356_photo.jpg,www.pinturashermanos.com,,6/18/17 12:11,11/30/18 0:00,1,,,,BIOKO NORTE,BIOKO NORTE,3232,3,1,3,comercial@pinturashermanos.com,1,comercial@pinturashermanos.com,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+625,Africa Food Distribution,"Douala, Cameroon",,,Douala,38,nationality.cameroon,,233429323,233439327,,"Douala, Cameroon",,,Douala,38,,233429323,233439327,625_photo.jpg,,,7/28/17 8:34,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3694,1,3,1,faganel@predatorrat.gq,3,"	info@africafooddistribution.com",2,Consumer Staples,15,Food Products,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+359,LEY ORDEN ABOGADOS,"Malabo
+C/ Africa Waiso IPOLA
+Bata- C/ Alfonso V.",,,MALABO,66,nationality.equatorial.guinea,,555253655,666183799,,"Malabo
+C/ Africa Waiso IPOLA
+Bata- C/ Alfonso V.",,,MALABO,66,,555253655,666183799,359_photo.jpg,,,6/18/17 13:52,11/30/18 0:00,1,,,,BIOKO NORTE,BIOKO NORTE,3235,1,1,1,ley-orden.abogados@hotmail.com,1,ley-orden.abogados@hotmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+360,IBEROGUINEANA,"C/ Rey Bonkoro
+Malabo-Guinea Ecuatorial",,,MALABO,66,nationality.grenada,,222165959,222062424,,"C/ Rey Bonkoro
+Malabo-Guinea Ecuatorial",,,MALABO,66,,222165959,222062424,360_photo.jpg,www.iberoguineana.com,,6/18/17 14:08,11/30/18 0:00,1,,,,BIOKO NORTE,BIOKO NORTE,3236,1,1,1,info@iberoguineana.com,1,info@iberoguineana.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",86,240-1,86,86,86,,t
+613,SANAGA TECHNOLOGIES,"BP. 12107, CAMEROON, Yaounde",,,Yaounde,38,nationality.cameroon,237,674 270 549,674 270 549,22200176,"BP. 12107, CAMEROON, Yaounde",,,Yaounde,38,237,674 270 549,674 270 549,613_photo.jpg,www.sanagatechnologies.com,,7/27/17 18:25,11/30/18 0:00,1,,,,Centre Region,Centre Region,3680,1,1,1,ncomputing@sanagatechnologies.com,1,ncomputing@sanagatechnologies.com,4,Financials,22,Capital Markets,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+934,BARAKAT,bes@barakatcameroun.com,,Bonanjo-  annexe Muna ,Douala,38,nationality.cameroon,237,696740340,655649730,,bes@barakatcameroun.com,,Bonanjo-  annexe Muna ,Douala,38,237,696740340,655649730,934_photo.jpg,www.barakatemploiservices.com,,9/25/17 11:54,11/30/18 0:00,1,,,,Littoral,Littoral,5191,1,1,1,bes@barakatcameroun.com,1,hr@barakatcameroun.com,1,Consumer Discretionary,4,Diversified Consumer Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+947,Belhair Company,"PMB feng goudron, bonamekano,bonaberi",,bonaberi,douala,38,nationality.cameroon,CMR,694628383,694628383,,"PMB feng goudron, bonamekano,bonaberi",,bonaberi,douala,38,CMR,694628383,694628383,947_photo.jpg,,,9/27/17 15:12,11/30/18 0:00,1,,,,littoral,littoral,5186,1,1,1,joanamolombe@gmail.com,1,belhairclassic@gmail.com,1,Consumer Discretionary,12,"Textiles, Apparel & Luxury Goods",1,"Micro < 10 employees
+",38,237,38,38,38,,t
+945,JOB SERVICIOS,MALABO II,,,MALABO,66,nationality.equatorial.guinea,,222100559,222116163,,MALABO II,,,MALABO,66,,222100559,222116163,945_photo.jpg,www.jobservicios.com,,9/27/17 11:07,11/30/18 0:00,1,,,,BIOKO NORTE,BIOKO NORTE,5226,3,1,3,melba.abaga@yahoo.com,1,job_serviciossl1@yahoo.es,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+941,First cash services sarl,Rue commandant fuller face chefferie nouvelle ,,Route bonakouamouang,Douala ,38,nationality.cameroon,B.p 8067,694092852,651324102,,Rue commandant fuller face chefferie nouvelle ,,Route bonakouamouang,Douala ,38,B.p 8067,694092852,651324102,941_photo.jpg,,,9/26/17 15:03,11/30/18 0:00,1,,,,Littoral ,Littoral ,5240,1,1,1,brunowaren@hotmail.fr,1,Firstcs@yahoo.fr,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+940,PESTCON AFRICA PLC,"RUE COPSECO BONAPRISO
+IMMEUBLE CHATCHUENG",,GROUND FLOOR,DOUALA,38,nationality.cameroon,15542,650108302,233431729,,"RUE COPSECO BONAPRISO
+IMMEUBLE CHATCHUENG",,GROUND FLOOR,DOUALA,38,15542,650108302,233431729,940_photo.jpg,www.pestconafrica.com,,9/26/17 14:55,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,5233,1,3,1,eustace.anye@pestconafrica.com,3,solutions@pestconafrica.com,8,Materials,56,Chemicals,1,"Micro < 10 employees
+",38,237,38,38,38,Business Registration20170926145325.pdf,f
+936,IN BUS GROUP RH,"Axe lourd bonateki, beneficial life building",,,Douala,38,nationality.cameroon,,650366853,650366853,,"Axe lourd bonateki, beneficial life building",,,Douala,38,,650366853,650366853,936_photo.jpg,www.inbusgroup.com,,9/26/17 10:46,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,5227,1,1,1,wankomanuella@gmail.com,1,info@inbusgroup.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+935,EJ Alliance ,10 Avenue de l'entreprise Parc St Christophe,,BAT Galilée 2,Cergy,74,nationality.france,95000,134203882,134203881,,10 Avenue de l'entreprise Parc St Christophe,,BAT Galilée 2,Cergy,74,95000,134203882,134203881,935_photo.jpg,www.ej-alliance.com,,9/25/17 13:13,11/30/18 0:00,1,,,,Ile de France,Ile de France,5198,3,3,3,eric.bidiaka@ej-alliance.com,3,contact@ej-alliance.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",74,33,74,74,74,,f
+939,Green Office,Ndog Bong,,,Douala,38,nationality.cameroon,,653965643,693103889,,Ndog Bong,,,Douala,38,,653965643,693103889,939_photo.jpg,,,9/26/17 13:42,11/30/18 0:00,1,,,,Littoral,Littoral,5235,1,1,1,greenoffice@yahoo.com,1,jeremiemahi@gmail.com,8,Materials,56,Chemicals,2,"Small 11 - 100 employees
+",38,237,38,38,38,,f
+366,EXPRESS SUPPLY INTERNATIONAL SARL,sis Akwa 2è étage immeuble EQUINOXE TV. BP8030DLA.,,,DOUALA,38,nationality.cameroon,237,233423328,693459847,,sis Akwa 2è étage immeuble EQUINOXE TV. BP8030DLA.,,,DOUALA,38,237,233423328,693459847,366_photo.jpg,en cours,,6/28/17 15:53,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,3252,3,1,3,oscarselle_esisarl@yahoo.fr,1,direxpsupply@yahoo.fr,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+944,HELENS ELECTRIC,"TSINGA, FACE SOCIETE GENERALE",,,YAOUNDE,38,nationality.cameroon,1494,651 46 75 70,222 21 92 61,,"TSINGA, FACE SOCIETE GENERALE",,,YAOUNDE,38,1494,651 46 75 70,222 21 92 61,944_photo.jpg,www.helens-electric.net,,9/27/17 8:06,11/30/18 0:00,1,,,,CENTRE,CENTRE,5271,1,3,1,auguste.behe@helens-electric.net,3,marketing@helens-electric.net,6,Industrials,40,Construction & Engineering,1,"Micro < 10 employees
+",38,237,38,38,38,COMPANY PROFILE - HELEN'S ELECTRIC20170927080447.pdf,t
+942,GENETcom,C/ MONGOMO,,,MALABO,66,nationality.equatorial.guinea,,333098070,222267585,,C/ MONGOMO,,,MALABO,66,,333098070,222267585,942_photo.jpg,,,9/26/17 15:09,11/30/18 0:00,1,,,,BIOKO NORTE,BIOKO NORTE,5242,3,1,3,info@gq-gpay.com,1,info@genetcom.info,9,Telecommunication Services,61,Diversified Telecommunication Services,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+943,unisys db,deido,,,DOUALA,38,nationality.cameroon,,699586501,679396492,233417764,deido,,,DOUALA,38,,699586501,679396492,943_photo.jpg,none,,9/26/17 15:14,11/30/18 0:00,1,,,,LITTORALE,LITTORALE,5241,1,1,1,deidoboymp@gmail.com,1,deidoboy_ed@yahoo.com,1,Consumer Discretionary,12,"Textiles, Apparel & Luxury Goods",1,"Micro < 10 employees
+",38,237,38,38,38,,t
+946,So cameroun,Bonapriso,,,Douala ,38,nationality.cameroon,,696777445,695697754,,Bonapriso,,,Douala ,38,,696777445,695697754,946_photo.jpg,,,9/27/17 13:27,11/30/18 0:00,1,,,,Littoral ,Littoral ,5285,1,1,1,sohcameroun2015@gmail.com,1,Lolongounou@gmail.com,1,Consumer Discretionary,12,"Textiles, Apparel & Luxury Goods",1,"Micro < 10 employees
+",38,237,38,38,38,,t
+418,T2F,Yaounde,,,Yaounde,38,nationality.cameroon,,675927191,699885208,,Yaounde,,,Yaounde,38,,675927191,699885208,418_photo.jpg,,,7/6/17 14:05,11/30/18 0:00,1,,,,Center Region,Center Region,3327,1,3,1,tobittreso@gmail.com,3,tobittreso@gmail.com,6,Industrials,40,Construction & Engineering,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+932,ALLINONE,BP 10105 ,,BONABERI,DOUALA,38,nationality.cameroon,237,242649140,675046630,,BP 10105 ,,BONABERI,DOUALA,38,237,242649140,675046630,932_photo.jpg,,,9/22/17 15:08,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,5146,3,1,3,massoumartins@yahoo.fr,1,cameroonallinone@yahoo.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,f
+383,Dolly Fast Food,"Marklyn Building, Malingo, Buea, Cameroon
+Phone",,,Buea,38,nationality.cameroon,,678140682,654071907,,"Marklyn Building, Malingo, Buea, Cameroon
+Phone",,,Buea,38,,678140682,654071907,383_photo.jpg,dollyfastfood.com,,7/4/17 13:41,11/30/18 0:00,1,,,,South West Region,South West Region,3278,3,1,3,Vauvaumi@gmail.com,1,info@webshinobis.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+364,Dash Inspectorate Cameroon Ltd Co,"Opposite Confex Oil Bonaberi 
+",,,Douala,38,nationality.cameroon,237,677445746,690052715,,"Opposite Confex Oil Bonaberi 
+",,,Douala,38,237,677445746,690052715,364_photo.jpg,www.dashinspectorate.com,,6/22/17 16:02,11/30/18 0:00,1,,,,Littoral,Littoral,3244,1,1,1,yota_louis@yahoo.ca,1,yota_louis@yahoo.ca,6,Industrials,40,Construction & Engineering,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+938,Glocalgaz Cameroun SA,"P.O. Box 422 Limbe, Cameroon.",,Ngeme Sonara Road,Limbe,38,nationality.cameroon,CMR,67503 0977 ,696349422,,"P.O. Box 422 Limbe, Cameroon.",,Ngeme Sonara Road,Limbe,38,CMR,67503 0977 ,696349422,938_photo.jpg,www.glocalgaz.com,,9/26/17 12:18,11/30/18 0:00,1,,,,South West,South West,5162,1,1,1,felixbatet@gmail.com,1,kccm@kosancrisplant.com,3,Energy,20,"Oil, Gas & Consumable Fuels",3,"Medium 101 - 999 employees
+",38,237,38,38,38,,f
+933,AHD,Yaounde 5,,,Yaounde,38,nationality.cameroon,,671043648,699911460,,Yaounde 5,,,Yaounde,38,,671043648,699911460,933_photo.jpg,https://www.afriquehd.com/,,9/24/17 18:01,11/30/18 0:00,1,,,,Centre,Centre,5173,1,1,1,info@afriquehd.com,1,honeihemgb@gmail.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+362,Satguru Travels,"Calle Enrique, Opposite Medias Communication",,Near Farmacia Amanda,Malabo,66,nationality.equatorial.guinea,,551 000 298,555824381,,"Calle Enrique, Opposite Medias Communication",,Near Farmacia Amanda,Malabo,66,,551 000 298,555824381,362_photo.jpg,www.satgurutravel.com,,6/21/17 14:05,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3241,1,1,1,marketing.malabo@satgurutravel.com,1,marketing.malabo@satgurutravel.com,6,Industrials,37,Airlines,4,"Large >1,000 employees
+",66,240,66,66,66,,f
+395,Springboard Company Ltd,"Fon's Street Junction, Bamenda, Cameroon",,,Bamenda,38,nationality.cameroon,,233 0800 91,677 88 30 40,,"Fon's Street Junction, Bamenda, Cameroon",,,Bamenda,38,,233 0800 91,677 88 30 40,395_photo.jpg,www.springboardltd.com,,7/5/17 11:09,11/30/18 0:00,1,,,,North West Region,North West Region,3295,3,1,3,neville.springboard@gmail.com,1,springboardtravel@gmail.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+363,MAKONJO MEDIA,"Bonduma
+Buea, Cameroon",,,Douala,38,nationality.cameroon,,677243603,695319952,,"Bonamoussadi
+Douala Cameroun",,,Douala,38,,677243603,695319952,363_photo.jpg,www.makonjo.com,,6/22/17 9:14,11/30/18 0:00,1,,,,Litoral,Litoral,3243,1,1,1,hello@makonjo.com,1,hello@makonjo.com,1,Consumer Discretionary,9,Media,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+961,FACOMEC SARL ,BP:3745 dla rue lottin same akwa,,,Douala,38,nationality.cameroon,,233422232,697826747,,BP:3745 dla rue lottin same akwa,,,Douala,38,,233422232,697826747,961_photo.jpg,,,9/29/17 15:01,11/30/18 0:00,1,,,,Littoral ,Littoral ,5377,3,1,3,oseewogue@gmail.com,1,Facomec35@yahoo.fr ,6,Industrials,47,Trading Companies & Distributors,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+951,Ets le granite,Entrée chinois lieu dit nkolbong,,,Douala ,38,nationality.cameroon,,699756146,674097948,,Entrée chinois lieu dit nkolbong,,,Douala ,38,,699756146,674097948,951_photo.jpg,,,9/28/17 11:23,11/30/18 0:00,1,,,,Littoral ,Littoral ,5321,1,1,1,arnoldnjiki@gmail.com,1,Legranite2002@gmail.com,6,Industrials,38,Building Products,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+960,apero drome,Bali,,,Douala ,38,nationality.cameroon,,699557989,651145284,,Bali,,,Douala ,38,,699557989,651145284,960_photo.jpg,,,9/29/17 12:59,11/30/18 0:00,1,,,,Littoral ,Littoral ,5367,1,1,1,m_kgina@yahoo.fr,1,Lolongounou@gmail.com,2,Consumer Staples,13,Beverages,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+346,CONCEAX GROUP SL,Santa Maria 3,,,Malabo,66,nationality.equatorial.guinea,,222206344,555916121,,Santa Maria 3,,,Malabo,66,,222206344,555591976,346_photo.jpg,,,5/24/17 9:36,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3188,1,1,1,conceax.group@gmail.com,1,conceax.group@gmail.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",66,240,66,86,86,,t
+953,Empire Media Group,Rue Foche-Akwa,,,Douala ,38,nationality.cameroon,,233431188,670223121,,Rue Foche-Akwa,,,Douala ,38,,233431188,670223121,953_photo.jpg,www.emgcameroon.com,,9/28/17 15:55,11/30/18 0:00,1,,,,Littoral ,Littoral ,5336,3,1,3,atudm@yahoo.com,1,empiremedia@yahoo.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+964,UCMAS CAMEROON  LTD,P. O. BOX 779 YAOUNDE,,IMMEUBLE TCHOMTCHUENA,YAOUNDE,38,nationality.cameroon,,675543742,663233684,,P. O. BOX 779 YAOUNDE,,IMMEUBLE TCHOMTCHUENA,YAOUNDE,38,,675543742,663233684,964_photo.jpg,www.ucmascameroun.com,,10/3/17 14:39,11/30/18 0:00,1,,,,AFRICA,AFRICA,5372,1,3,1,kpakpom@gmail.com,3,ucmascamreroon@gmail.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+374,Annonce Cameroun,"molyko buea , Buea, Cameroon",,,Buea,38,nationality.cameroon,,671494112,671494112,,"molyko buea , Buea, Cameroon",,,Buea,38,,671494112,671494112,374_photo.jpg,,,7/4/17 9:05,11/30/18 0:00,1,,,,South West Region,South West Region,3266,1,3,1,franckeddy57@yahoo.fr,3,annoncescm@gmail.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+397,GROUPE NKAH Engineering Sarl,"Dragage, Yaounde, Cameroon",,,Yaounde,38,nationality.cameroon,,242 12 33 43,676 61 11 42,,"Dragage, Yaounde, Cameroon",,,Yaounde,38,,242 12 33 43,676 61 11 42,397_photo.jpg,http://www.groupenkah.com/,,7/5/17 12:04,11/30/18 0:00,1,,,,Center Region,Center Region,3298,3,1,3,groupenkahinfos@gmail.com,1,groupenkah@yahoo.fr,6,Industrials,40,Construction & Engineering,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+367,ActivSpaces Cameroon,Soppo Buea,,,Buea,38,nationality.cameroon,,677243603,677243603,,Soppo Buea,,,Buea,38,,677243603,677243603,367_photo.jpg,www.activspaces.com,,7/2/17 20:09,11/30/18 0:00,1,,,,South West Region,South West Region,3257,1,3,1,akamaotto@activspaces.com,3,akamaotto@activspaces.com,11,NonProfit ,68,NonProfit,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+963,Global Telecommunication House,Akwa,,,Douala ,38,nationality.cameroon,,233434758,677755300,,Akwa,,,Douala ,38,,233434758,677755300,963_photo.jpg,www.glotelho.com,,10/3/17 10:35,11/30/18 0:00,1,,,,Littoral ,Littoral ,5457,3,1,3,chafeh2001@yahoo.fr,1,glotelho@glotelho.com,9,Telecommunication Services,61,Diversified Telecommunication Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,f
+958,NG4L gie,Bonapriso,,,Douala ,38,nationality.cameroon,,679535648,676492371,,Bonapriso,,,Douala ,38,,679535648,676492371,958_photo.jpg,,,9/29/17 12:19,11/30/18 0:00,1,,,,Littoral ,Littoral ,5364,1,1,1,ng4lmedical@gmail.com,1,donald@ng4lhealth.com ,5,Health Care,30,Health Care Equipment & Supplies,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+959,Romac distribution ,BP: 3474 rue Aubrey akwa,,,Douala,38,nationality.cameroon,,233422104,699913592,,BP: 3474 rue Aubrey akwa,,,Douala,38,,233422104,699913592,959_photo.jpg,,,9/29/17 12:33,11/30/18 0:00,1,,,,Littoral ,Littoral ,5366,3,1,3,etemdia@yahoo.fr,1,Distributionromac@yahoo.com,6,Industrials,47,Trading Companies & Distributors,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+378,Kora DatBeatCracker,"Former CNPS Building, Buea, Cameroon",,,Buea,38,nationality.cameroon,,652137743,652137743,,"Former CNPS Building, Buea, Cameroon",,,Buea,38,,652137743,652137743,378_photo.jpg,,,7/4/17 11:42,11/30/18 0:00,1,,,,South West Region,South West Region,3270,3,1,3,leneddy15@gmail.com,1,koramakesbeats@gmail.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+335,Zen mat,DOAULA NDOKOTI,,,Douala,38,nationality.cameroon,,697517765,671004886,,DOAULA NDOKOTI,,,Douala,38,,697517765,671004886,335_photo.jpg,,,4/30/17 17:37,11/30/18 0:00,1,,,,Littoral,Littoral,3124,1,3,1,jabezdjoko2@gmail.com,3,zenmatt1@gmail.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",1,"Micro < 10 employees
+",38,237,38,38,38,,t
+310,sudiabdevetah,Congo brazzavile,,,brazzaville,50,nationality.congo.brazzaville,,53776293,53776293,,Congo brazzavile,,,brazzaville,50,,53776293,53776293,310_photo.jpg,,,3/2/17 11:52,11/30/18 0:00,2,,,,mouritania,mouritania,2753,1,1,1,sidiabdelvetah@gmail.com,1,sidiabdelvetah@gmail.com,2,Consumer Staples,15,Food Products,1,"Micro < 10 employees
+",50,242,50,50,50,,t
+997,Yunike brand,P.O box 4919 akwa,,,Douala ,38,nationality.cameroon,,698980204,655631822,,P.O box 4919 akwa,,,Douala ,38,,698980204,655631822,997_photo.jpg,,,12/15/17 10:45,11/30/18 0:00,1,,,,Littoral ,Littoral ,7064,1,3,1,yunikebrand@gmail.com,3,yunikebrand@gmail.com ,8,Materials,58,Containers & Packaging,3,"Medium 101 - 999 employees
+",38,237,38,38,38,,t
+955,Rmbibow,Douala,,,Douala ,38,nationality.cameroon,,679534176,696780005,,Douala,,,Douala ,38,,679534176,696780005,955_photo.jpg,,,9/29/17 11:48,11/30/18 0:00,1,,,,Littoral ,Littoral ,5363,1,1,1,tabimaria@outlook.fr,1,sales@rmbibow.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+954,Rmbibow,Douala,,,Douala ,38,nationality.cameroon,,679534176,696780005,,Douala,,,Douala ,38,,679534176,696780005,954_photo.jpg,,,9/29/17 11:40,11/30/18 0:00,1,,,,Littoral ,Littoral ,5363,1,1,1,tabimaria@outlook.fr,1,sales@rmbibow.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+957,Rmbibow,Douala,,,Douala ,38,nationality.cameroon,,679534176,696780005,,Douala,,,Douala ,38,,679534176,696780005,957_photo.jpg,,,9/29/17 11:52,11/30/18 0:00,1,,,,Littoral ,Littoral ,5363,1,1,1,tabimaria@outlook.fr,1,sales@rmbibow.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+956,Rmbibow,Douala,,,Douala ,38,nationality.cameroon,,679534176,696780005,,Douala,,,Douala ,38,,679534176,696780005,956_photo.jpg,,,9/29/17 11:51,11/30/18 0:00,1,,,,Littoral ,Littoral ,5363,1,1,1,tabimaria@outlook.fr,1,sales@rmbibow.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+962,OWLS,Rue lottin same akwa douala,,,Douala,38,nationality.cameroon,,243524628,699960683,,Rue lottin same akwa douala,,,Douala,38,,243524628,699960683,962_photo.jpg,Www.owls-cm.com,,9/29/17 15:48,11/30/18 0:00,1,,,,Littoral ,Littoral ,5380,3,1,3,skeumedjo@owls-cm.com,1,Support@owls-cm.com,7,Information Technology,52,Internet Software & Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+965,AQ-TestpeL,70 Bowman St. ,,,West Chicago,102,nationality.india,,9121070306,6894161,,70 Bowman St. ,,,West Chicago,102,,9121070306,6894161,965_photo.jpg,,,10/4/17 11:10,11/30/18 0:00,1,,,,DuPage County,DuPage County,5495,1,1,1,aq_1507115971@mailnesia.com,1,aq_1507116492@mailnesia.com,4,Financials,27,Real Estate Management & Development,1,"Micro < 10 employees
+",100,91,100,100,100,,f
+978,GRUPO Y PUNTO,"C/ hipolito Mcha,105 / Edificio Candy",,,MALABO,66,nationality.equatorial.guinea,,222720044,222778201,,"C/ hipolito Mcha,105 / Edificio Candy",,,MALABO,66,,222720044,222778201,978_photo.jpg,www.grupoypunto.com,,11/8/17 15:32,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,6374,1,1,1,rrhh@grupoypunto.com,1,Info@grupoypunto.com,6,Industrials,37,Airlines,2,"Small 11 - 100 employees
+",66,240,66,66,66,,f
+646,Mount Zion Interprise,Yaounde Biyem Assi. Road point express.,,,Yaounde,38,nationality.cameroon,,670469726,670469726,,Yaounde Biyem Assi. Road point express.,,,Yaounde,38,,670469726,670469726,646_photo.jpg,,,7/31/17 10:50,11/30/18 0:00,1,,,,Central Region,Central Region,3749,1,3,1,aa28l11a5@kadokawa.tk,3,dineshbongmba20000@gmail.com,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+396,Extended Limits Inc,Commercial Avenue Bamenda,,,Bamenda,38,nationality.cameroon,,670215810,675955161,,Commercial Avenue Bamenda,,,Bamenda,38,,670215810,675955161,396_photo.jpg,www.extendedlimits.com,,7/5/17 11:38,11/30/18 0:00,1,,,,North West Region,North West Region,3297,3,1,3,dcgevala@gmail.com,1,info@extendedlimits.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+657,Rata-grab,"Akwa, Douala, Cameroon
+",,,Douala,38,nationality.cameroon,,675786174,675786174,,"Akwa, Douala, Cameroon
+",,,Douala,38,,675786174,675786174,657_photo.jpg,,,7/31/17 15:22,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3762,3,1,3,ratagrab@rata-grab.com,1,ratagrab@rata-grab.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",1,"Micro < 10 employees
+",38,237,38,38,38,,t
+1004,Genero J Genero,Ndogbong,,,Douala,38,nationality.central.african.republic,,678167943,698360614,,Ndobgong,,,Douala,38,,678167943,698360614,1004_photo.jpg,www.genero.cm,,2/27/18 13:04,11/30/18 0:00,1,,,,Douala,Douala,7892,1,2,1,nkwainsam@gmail.com,2,info@genero. cm,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",42,236,38,38,38,,t
+408,Pro Active Mega Services LTD,"Biscuiterie - Obili , Yaounde, Cameroon",,,Yaounde,38,nationality.cameroon,,222 311 923,672250799,,"Biscuiterie - Obili , Yaounde, Cameroon",,,Yaounde,38,,222311923,672250799,408_photo.jpg,,,7/6/17 8:37,11/30/18 0:00,1,,,,Center Region,Center Region,3311,3,1,3,proactiveservices.cyber@yahoo.com,1,proactiveservices.cyber@yahoo.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+980,NOIAA LTD,"Cape Limboh, Limbola",,,Limbe,38,nationality.cameroon,CMR,233332062,664686875,233332063,"234 Rue de l'Union Francaise, Bali Douala",,,Douala,38,CMR,233433779,664686875,980_photo.jpg,www.noiaa.com,,11/9/17 14:53,11/30/18 0:00,1,,,,South West,Littoral,6394,3,1,3,kumsonprincekum@gmail.com,1,"africaoffice@noiaa.com, contact @noiaa.com",6,Industrials,44,Marine,2,"Small 11 - 100 employees
+",38,237,38,38,38,,f
+373,Rainbow Ecotourism Company,"2 Campaign Street, Great Soppo, Buea, Cameroon",,,Buea,38,nationality.cameroon,,233322526,678536775,,"2 Campaign Street, Great Soppo, Buea, Cameroon",,,Buea,38,,233322526,678536775,373_photo.jpg,,,7/4/17 8:57,11/30/18 0:00,1,,,,South West Region,South West Region,3265,3,1,3,Martinmbella911@gmail.com,1,rainbowpropertymgt@gmail.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+666,QUALITEPRO," Yaounde, Cameroon",,,Yaounde,38,nationality.cameroon,237,675976364,675976364,," Yaounde, Cameroon",,,Yaounde,38,,675976364,675976364,666_photo.jpg,,,8/1/17 9:43,11/30/18 0:00,1,,,,Center Region,Center Region,3781,3,2,3,qualiteproo@yahoo.fr,2,qualiteproo@yahoo.fr,7,Information Technology,49,Communications Equipment,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+379,Maibeta Inc,"PO Box 174, Buea, Cameroon",,,Buea,38,nationality.cameroon,,243281655,678352269,,"PO Box 174,, Buea, Cameroon",,,Buea,38,,243281655,678352269,379_photo.jpg,www.maibeta.com,,7/4/17 12:33,11/30/18 0:00,1,,,,South West Region,South West Region,3274,3,1,3,bamainamata@maibeta.com,1,info@maibeta.com,7,Information Technology,52,Internet Software & Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+683,Intel HR consulting ,"Rue copseco Douala Cameroon
+BP:3109",,,douala,38,nationality.cameroon,,233 433 023,697 16 20 38,,"Rue copseco Douala Cameroon
+BP:3109",,,douala,38,,233 433 023,697 16 20 38,683_photo.jpg,www. intelhrc. com,,8/1/17 13:53,11/30/18 0:00,1,,,,llittoral,llittoral,3800,3,1,3,derick.fonderson@intelhrc.com,1,sales@intelhrc.com ,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+376,Association for Community Awareness,"MALINGO STRRET MOLYKO, Buea, Cameroon",,,Buea,38,nationality.cameroon,,693663010,650411336,,"MALINGO STRRET MOLYKO, Buea, Cameroon",,,Buea,38,,693663010,650411336,376_photo.jpg,,,7/4/17 10:18,11/30/18 0:00,1,,,,South West Region,South West Region,3268,3,1,3,linusembe@ascoa-cm.org,1,info@ascoa-cm.org,11,NonProfit ,68,NonProfit,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+377,INSTITUTE OF CUSTOMER SERVICE CAMEROON,"Molyko, Buea, Cameroon",,,Buea,38,nationality.cameroon,,243 381 414,677144395,,"Molyko, Buea, Cameroon",,,Buea,38,,243 381 414,677144395,377_photo.jpg,www.icscameroon.com,,7/4/17 10:23,11/30/18 0:00,1,,,,South West Region,South West Region,3269,3,1,3,fmbinkar@icscameroon.com,1,info@icscameroon.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+390,cdlancer,"Rue de l'Abbé Ndzomo, Olembé",,,Yaounde,38,nationality.cameroon,,675014022,655879874,,"Rue de l'Abbé Ndzomo, Olembé",,,Yaounde,38,,675014022,655879874,390_photo.jpg,http://cdlancer,,7/5/17 9:45,11/30/18 0:00,1,,,,Centre,Centre,3290,3,1,3,info@cdlancer.com,1,info@cdlancer.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+389,FELICIA HOTEL,"Coron,Face CAMI TOYOTA,à côté de la direction géné",,,Yaounde,38,nationality.cameroon,,222 30 43 75,694 84 93 59,,"Coron,Face CAMI TOYOTA,à côté de la direction géné",,,Yaounde,38,,222 30 43 75,694 84 93 59,389_photo.jpg,www.feliciahotel.com,,7/5/17 9:12,11/30/18 0:00,1,,,,Center Region,Center Region,3289,3,1,3,feliciahotel@yahoo.fr,1,feliciahotel@yahoo.fr,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+998,RTX sarl,"Rue Joss, face SGBC Bonanjo",,,douala,38,nationality.cameroon,1899,233724650,693600334,,"Rue Joss, face SGBC Bonanjo",,,douala,38,1899,233724650,693600334,998_photo.jpg,www.rtx.com,,12/18/17 12:17,11/30/18 0:00,1,,,,Littoral,Littoral,5636,3,1,3,odjoloyannick@gmail.com,1,yannick.odjolo@rtxcm.com,1,Consumer Discretionary,2,Automobiles,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+387,BID MEDIA,Malingo,,,Buea,38,nationality.cameroon,237,674601636,697636363,,Malingo,,,Buea,38,237,674601636,697636363,387_photo.jpg,,,7/4/17 21:00,11/30/18 0:00,1,,,,South West Region,South West Region,3285,1,1,1,bidmedia10@gmail.com,1,bidmedia10@gmail.com,7,Information Technology,52,Internet Software & Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+403,Blog Visa,Rhone Poulenc Makepe Douala,,,Douala,38,nationality.cameroon,,679218757,655 421 621,,Rhone Poulenc Makepe Douala,,,Douala,38,,679218757,655 421 621,403_photo.jpg,www.blogvisa.com,,7/5/17 18:33,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3306,1,3,1,founder@blogvisa.com,3,contact@blogvisa.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+401,Wonderful Cameroon,"Wonderful Cameroon, www.wonderoon.com, Bamenda",,,Bamenda,38,nationality.cameroon,,679218757,676040188,,"Wonderful Cameroon, www.wonderoon.com, Bamenda",,,Bamenda,38,,679218757,676040188,401_photo.jpg,www.wonderoon.com,,7/5/17 17:49,11/30/18 0:00,1,,,,North West Region,North West Region,3303,3,1,3,fondateur@wonderoon.com,1,contact@wonderoon.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+391,ABI FALL LIVELIHOOD,"OPPOSITE O.I.C, SAME BUILDING WITH PMUC BUEA",,,BUEA,38,nationality.cameroon,,23332458,674540066,,"OPPOSITE O.I.C, SAME BUILDING WITH PMUC BUEA",,,BUEA,38,,23332458,674540066,391_photo.jpg,www.abifall.com,,7/5/17 9:50,11/30/18 0:00,1,,,,SOUTHWEST REGION,SOUTHWEST REGION,3291,3,1,3,tngute@abifall.com,1,abifalls@abifall.com,11,NonProfit ,68,NonProfit,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+413,Total-Tours,"01, Mabiala Manganga Avenue, Diata",,,Brazzaville,50,nationality.congo.brazzaville,,66237004,55823537,,"01, Mabiala Manganga Avenue, Diata",,,Brazzaville,50,,66237004,55823537,413_photo.jpg,,,7/6/17 10:54,11/30/18 0:00,1,,,,Brazzaville ,Brazzaville ,3320,1,1,1,destin.net89@outlook.com,1,brazza.totaltours@gmail.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",1,"Micro < 10 employees
+",50,242,50,50,50,,t
+414,Nixon Motors Cameroon,"Yaounde Etoug-Ebe TKC, Yaounde, Cameroon",,,Yaounde,38,nationality.cameroon,,677063333,673252525,,"Yaounde Etoug-Ebe TKC, Yaounde, Cameroon",,,Yaounde,38,,677063333,673252525,414_photo.jpg,,,7/6/17 12:15,11/30/18 0:00,1,,,,Center Region,Center Region,3323,3,1,3,nixonmotors@yahoo.com,1,nixonmotors@yahoo.com,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+78,Bioko Business Center BBC,"Barrio el Paraiso
+",,,Malabo,66,nationality.grenada,,333091204,222171452,,"Barrio el Paraiso
+",,,Malabo,66,,333091204,222171452,78_photo.jpg,www.icubefarm.com,,2/9/16 14:31,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,837,1,1,1,info@icubefarm.com,1,info@icubefarm.com,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",86,240-1,86,86,86,,t
+419,Elite Legal Translations Inc,"Bonamoussadi Douala, Cameroon",,,Douala,38,nationality.cameroon,,2 33 41 84 93,679713690,,"Bonamoussadi Douala, Cameroon",,,Douala,38,,2 33 41 84 93,679713690,419_photo.jpg,www.elitelegaltranslations.com,,7/6/17 14:27,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3328,3,1,3,info@elitelegaltranslations.com,1,info@elitelegaltranslations.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+781,Barakat SA ,"Douala, Cameroun ",,,douala,38,nationality.cameroon,,696740340,696740340,,"Douala, Cameroun ",,,douala,38,,696740340,696740340,781_photo.jpg,,,8/28/17 12:38,11/30/18 0:00,1,,,,littoral,littoral,4192,3,1,3,christelle.fandio@yahoo.fr,1,bes@barakatcameroun.com ,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+1003,AGENCE LIBERTE,agence.generale.axaliberte.com,,,DOUALA,38,nationality.cameroon,237,233424969,233424969,,agence.generale.axaliberte.com,,,DOUALA,38,237,233424969,233424969,1003_photo.jpg,,,2/23/18 12:31,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,7874,3,3,3,josephine.wapet@axaliberte.com,3,agence.generale@axaliberte.com,4,Financials,25,Insurance,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+437,JeTrouvTout,"B.P. 4025 Yaoundé, Yaounde, Cameroon",,,Yaounde,38,nationality.cameroon,,696965683,654561463,,"B.P. 4025 Yaoundé, Yaounde, Cameroon",,,Yaounde,38,,696965683,654561463,437_photo.jpg,jetrouvtout.com,,7/10/17 12:03,11/30/18 0:00,1,,,,Center Region,Center Region,3356,3,1,3,infos@jetrouvtout.com,1,infos@jetrouvtout.com,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+463,Escaut Valley,"KUYTEKOPSTRAAT 18, Douala, Cameroon",,,Douala,38,nationality.cameroon,,32472802100,698 76 88 41,,"KUYTEKOPSTRAAT 18, Douala, Cameroon",,,Douala,38,,32472802100,698 76 88 41,463_photo.jpg,,,7/11/17 15:29,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3386,3,1,3,info@escaut-valley.be,1, info@escaut-valley.be,2,Consumer Staples,15,Food Products,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+444,Hero Technologies,"Sonac Street, Bamenda, Cameroon",,,Bamenda,38,nationality.cameroon,,243051101,675079266,,"Sonac Street, Bamenda, Cameroon",,,Bamenda,38,,243051101,675079266,444_photo.jpg,www.herotechno.com,,7/11/17 10:14,11/30/18 0:00,1,,,,North West Region,North West Region,3365,3,1,3,proherotech@gmail.com,1,info@herotechno.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+443,AFRICAINE TOURS AND CONSEILS,"BP. 1534, CAMEROON, Yaounde",,,Yaounde,38,nationality.cameroon,,22 16 01 26,677 12 70 10,,"BP. 1534, CAMEROON, Yaounde",,,Yaounde,38,,22 16 01 26,677 12 70 10,443_photo.jpg,http://www.cameroondmc.com,,7/11/17 9:45,11/30/18 0:00,1,,,,Center Region,Center Region,3364,3,1,3,contact@cameroondmc.com,1,contact@cameroondmc.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+431,Succes Vision,Rue des nations unis,,6,Malabo,66,nationality.equatorial.guinea,240,333 623 898,222 62 38 98,122262389,Rue des nations unis,,6,Malabo,66,240,333 623 898,222 62 38 98,431_photo.jpg,www.succesvision.com,,7/9/17 19:01,11/30/18 0:00,1,,,,Bioko,Bioko,3343,3,1,3,dabirewin@gmail.com,1,dabirewinë@gmail.com,1,Consumer Discretionary,8,Leisure Products,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+427,BIZZARIO Entreprise,"B.P: 2563, Yaounde, Cameroon",,,Yaounde,38,nationality.cameroon,,674 17 91 27,678 32 31 70,,"B.P: 2563, Yaounde, Cameroon",,,Yaounde,38,,674 17 91 27,678 32 31 70,427_photo.jpg,,,7/7/17 9:57,11/30/18 0:00,1,,,,Center Region,Center Region,3337,3,1,3,bizzarioentreprise@yahoo.fr,1,bizzarioentreprise@yahoo.fr,8,Materials,57,Construction Materials,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+454,Virtacash Ltd,"
+Food Market Road, Bamenda, Bamenda, Cameroon",,,Bamenda,38,nationality.cameroon,,672699990,691995936,,"
+Food Market Road, Bamenda, Bamenda, Cameroon",,,Bamenda,38,,672699990,691995936,454_photo.jpg,www.virtacash.com,,7/11/17 13:46,11/30/18 0:00,1,,,,North West Region,North West Region,3376,3,1,3,admin@virtacash.com,1,admin@virtacash.com,4,Financials,22,Capital Markets,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+445,Midano Sarl ,"Rue Joseph Essono Balla, Yaoundé Elig-Essono, Yaou",,,Yaounde,38,nationality.cameroon,,22 20 29 75,678 99 99 90,,"Rue Joseph Essono Balla, Yaoundé Elig-Essono, Yaou",,,Yaounde,38,,22 20 29 75,678 99 99 90,445_photo.jpg,www.midanogroup.com,,7/11/17 11:03,11/30/18 0:00,1,,,,Center Region,Center Region,3366,3,1,3,infos@nezafi.com,1,infos@nezafi.com,2,Consumer Staples,15,Food Products,3,"Medium 101 - 999 employees
+",38,237,38,38,38,,t
+467,REPMA CAMEROON,Bastos,,,yaounde,38,nationality.cameroon,15249,674731728,694157433,,Bastos,,,yaounde,38,15249,674731728,694157433,467_photo.jpg,www.repma.webs.com,,7/12/17 9:05,11/30/18 0:00,1,,,,centre,centre,3392,1,3,1,moforgoddy@gmail.com,3,repmacameroon@gmail.com,4,Financials,27,Real Estate Management & Development,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+453,RANSBIZ SMS,"Rue 5N.402 Makepe, Douala, Cameroon",,,Douala,38,nationality.cameroon,,676664922,676664922,,"Rue 5N.402 Makepe, Douala, Cameroon",,,Douala,38,,676664922,676664922,453_photo.jpg,,,7/11/17 13:05,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3375,3,1,3,ransom@ransbiz.com,1,ransom@ransbiz.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+465,ICENECDEV,Box 641 Buea,,,Buea,38,nationality.cameroon,237,674033583,243609311,,Box 641 Buea,,,Buea,38,237,674033583,243609311,465_photo.jpg,www.icenecdev.org,,7/11/17 21:17,11/30/18 0:00,1,,,,South West,South West,3388,1,3,1,icenecdev2006@yahoo.com,3,info@icenecdev.org,11,NonProfit ,68,NonProfit,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+460,TAKWID EXPRESS,Bamenda Cameroon,,,Bamenda,38,nationality.cameroon,,661 428 989,661 428 989,,Bamenda Cameroon,,,Bamenda,38,,661 428 989,661 428 989,460_photo.jpg,,,7/11/17 14:32,11/30/18 0:00,1,,,,North West Region,North West Region,3382,1,3,1,support@takwidexpress.com,3,support@takwidexpress.com,6,Industrials,48,Transportation Infrastructure,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+482,237online,"BP: 30861, Yaounde, Cameroon",,,Yaounde,38,nationality.cameroon,,22 11 35 42,242 11 35 42,,"BP: 30861, Yaounde, Cameroon",,,Yaounde,38,,22 11 35 42,242 11 35 42,482_photo.jpg,www.237online.com/,,7/12/17 14:20,11/30/18 0:00,1,,,,Center Region,Center Region,3409,3,1,3,info@237online.com,1,info@237online.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+966,UNICAF,Douala,,,Douala,38,nationality.cameroon,,233418493,233418493,,Douala,,,Douala,38,,233418493,233418493,966_photo.jpg,,,10/10/17 16:03,11/30/18 0:00,1,,,,Litorral,Litorral,5584,3,1,3,mohamedlaalou-f@sneakerbunko.cf,1,vacancies@unicaf.org,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+477,Ngassam Fanci and Mouafo,"Douala Immeuble face de la salle, Douala, Cameroon",,,Douala,38,nationality.cameroon,,233 43 73 99,699-995-814,,"Douala Immeuble face de la salle, Douala, Cameroon",,,Douala,38,,233 43 73 99,699-995-814,477_photo.jpg,,,7/12/17 12:46,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3403,3,1,3,contact@nfm.cm,1, Contact@nfm.cm,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+967,Afriland First Bank,"Yaounde, Cameroon",,,Yaounde,38,nationality.cameroon,, 222 23 30 6,222 22 17 85,,"Yaounde, Cameroon",,,Yaounde,38,, 222 23 30 6,222 22 17 85,967_photo.jpg,,,10/10/17 16:52,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,5586,3,3,3,henri-sch@koweancenjancok.ga,3,firstbank@afrilandfirstbank.com ,4,Financials,21,Banks,3,"Medium 101 - 999 employees
+",38,237,38,38,38,,t
+483,Intel HR Consulting,"Rue copseco, Bonapriso. S/C Fonderson BP 1925, Dou",,,Douala,38,nationality.cameroon,,233 424 743, 697 162 038,,"Rue copseco, Bonapriso. S/C Fonderson BP 1925, Dou",,,Douala,38,,233 424 743, 697 162 038,483_photo.jpg,,,7/12/17 14:27,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,3410,3,1,3,sales@intelhrc.com,1,sales@intelhrc.com,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+115,ESTUARIO SHORE ENTERTAINMENT,"SUMCO.
+",,,MALABO,66,nationality.equatorial.guinea,,222052143,222630359,,"SUMCO.
+",,,MALABO,66,,222052143,222630359,115_photo.jpg,,,8/3/16 15:58,11/30/18 0:00,2,,,,MALABO,MALABO,1406,1,1,1,estuarioshoreentertainment@gmail.com,1,Sumco,1,Consumer Discretionary,9,Media,1,"Micro < 10 employees
+",66,240,66,66,66,,f
+968,Atlantic Cocoa Corporation,"Kribi, Cameroon",,,Kribi,38,nationality.cameroon,,23349243,23349243,,"Kribi, Cameroon",,,Kribi,38,,23349243,23349243,968_photo.jpg,,,10/10/17 17:56,11/30/18 0:00,1,,,,South ,South ,5587,3,3,3,selva.krishnan@fax.dix.asia,3,Mileneyao@gmail.com,2,Consumer Staples,15,Food Products,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+129,CANAL SOL GE,"GUINEA ECUATORIAL, MALABO B/PARAISO",,,MALABO,66,nationality.slovakia,,333095972,333095971,333095971,"GUINEA ECUATORIAL, MALABO B/PARAISO",,,MALABO,66,,333095972,333095971,129_photo.jpg,www.canalsol.com,,9/30/16 7:53,11/30/18 0:00,0,,,,BIOKO NORTE ,BIOKO NORTE ,1539,3,3,3,huertas.christian@gmail.com,3,Rubén.obama@canalsol.com,9,Telecommunication Services,62,Wireless Telecommunication Services,2,"Small 11 - 100 employees
+",199,262,199,199,199,,t
+127,CAN-CAND,"Carretera de luba
+S/N",,,Malabo,66,nationality.equatorial.guinea,,551538406,551538413,,"Carretera de luba
+S/N",,,Malabo,66,,551538406,551538413,127_photo.jpg,www.icubefarm.com,,9/22/16 13:51,11/30/18 0:00,0,,,,Bioco Norte,Bioco Norte,1526,1,1,1,masao@cand-cand.com,1,masao@cand-cand.com,10,Utilities,66,Multi-Utilities,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+133,HOTEL ANDA,Malabo II,,,Malabo,66,nationality.equatorial.guinea,,666594516,666388888,,Malabo II,,,Malabo,66,,666594516,666388888,133_photo.jpg,www.hotelandamalabo.com,,10/5/16 14:45,11/30/18 0:00,0,,,,Bioco Norte,Bioco Norte,1564,1,3,1,director@hotelandamalabo.com,3,info@hotelandamalabo.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",3,"Medium 101 - 999 employees
+",66,240,66,66,66,,t
+138,FIAG S A ,Carretera de Luba ,,,Malabo,66,nationality.equatorial.guinea,,222673531,333099638,,Carretera de Luba ,,,Malabo,66,,222673531,333099638,138_photo.jpg,www.icubefarm.com,,10/11/16 15:31,11/30/18 0:00,2,,,,Bioco Norte,Bioco Norte,1582,1,1,1,fiag@orange.gq,1,fiag@orange.gq,1,Consumer Discretionary,2,Automobiles,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+999,Success,"Bastos,yaoundé",,,yaounde,38,nationality.cameroon,,697762805,661756263,,"Bastos,yaoundé",,,yaounde,38,,697762805,661756263,999_photo.jpg,,,1/2/18 21:07,11/30/18 0:00,1,,,,centre,centre,7367,1,3,1,bissayakevin@yahoo.fr,3,success@yahoo.fr,10,Utilities,66,Multi-Utilities,2,"Small 11 - 100 employees
+",38,237,38,38,38,,f
+322,ATOM FINANCE GE SA,"Avda de la independencia
+SN. Malabo",,,Malabo,66,nationality.equatorial.guinea,,35093661,551489481,,"Avda de la independencia
+SN. Malabo",,,Malabo,66,,35093661,551489481,322_photo.jpg,,,3/23/17 10:23,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,2894,1,1,1,atomfinancerrhh@gmail.com,1,atomfinancerrhh@gmail.com,4,Financials,21,Banks,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+145,AMPCO ,"PUNTA EUROPA 
+MALABO EQUATORIAL GUINEA ",,,Malabo,66,nationality.equatorial.guinea,,222634059,222067433,,"PUNTA EUROPA 
+MALABO EQUATORIAL GUINEA ",,,Malabo,66,,222634059,222067433,145_photo.jpg,www.atlanticmethanol.com,,10/19/16 11:52,11/30/18 0:00,0,,,,Bioco Norte,Bioco Norte,1614,1,1,1,wabeso@atlanticmethanol.com,1,wabeso@atlanticmethanol.com,3,Energy,20,"Oil, Gas & Consumable Fuels",3,"Medium 101 - 999 employees
+",66,240,66,66,66,,t
+298,orelex,656653009,,,yaounde,38,nationality.cameroon,,656653009,675193279,,656653009,,,yaounde,38,,656653009,675193279,298_photo.jpg,,,1/29/17 7:25,11/30/18 0:00,2,,,,centre,centre,2482,1,1,1,buguemr@gmail.com ,1,infoorelex@gmail.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",38,237,37,38,37,,t
+146,SC MODEM,BUENA ESPERANZA ,,,MALABO,66,nationality.grenada,,222593500,222274115,,BUENA ESPERANZA ,,,MALABO,66,,222593500,222274115,146_photo.jpg,www.smsmodem.net,,10/28/16 12:27,11/30/18 0:00,2,,,,BIOKO NORTE,BIOKO NORTE,1690,1,1,1,webmaster.emilio@gmail.com,1,smsmodem@gmail.com,7,Information Technology,49,Communications Equipment,1,"Micro < 10 employees
+",86,240-1,86,86,86,,t
+321,MCC,Douala bar Akwa,,,Douala,38,nationality.cameroon,,677334735,693390866,,Douala bar Akwa,,,Douala,38,,677334735,693390866,321_photo.jpg,mcc-cm@hotmail.com,,3/18/17 14:00,11/30/18 0:00,2,,,,Littoral,Littoral,2866,1,1,1,mcc-cm@hotmail.com,1,mcc-cm@hotmail.com,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+152,McCARTHY LTD,"577, Sylvanie Street-Akwa",,,Douala,38,nationality.cameroon,5710,677774968,699600060,,"577, Sylvanie Street-Akwa",,,Douala,38,5710,677774968,699600060,152_photo.jpg,www.audatech-cmr.net,,11/18/16 20:47,11/30/18 0:00,0,,,,Littoral,Littoral,1855,1,1,1,mamous@justice.com,1,mamous@justice.com,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",38,237,38,38,38,,f
+180,SELECT HIGH TECHNOLOGY,"B/ Cine real
+Panaderia san Juan",,,Malabo,66,nationality.equatorial.guinea,,222298983,551695413,,"B/ Cine real
+Panaderia san Juan",,,Malabo,66,,222298983,551695413,180_photo.jpg,www.seelecthightecnology.com,,11/25/16 11:13,11/30/18 0:00,0,,,,Bioco Norte,Bioco Norte,1932,1,1,1,see_lect@gmx.es,1,see_lect@gmx.es,9,Telecommunication Services,62,Wireless Telecommunication Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+160,JOB SERVICIOS ,Malabo II,,,Malabo,66,nationality.equatorial.guinea,,222100559,555917527,,Malabo II,,,Malabo,66,,222100559,555917527,160_photo.jpg,www.jobservicios.com,,11/20/16 13:10,11/30/18 0:00,0,,,,Bioco Norte,Bioco Norte,1864,1,1,1,jobserviciossl1@yahoo.es,1,Job_serviciossl1@yahoo.es,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+155,OBAMA ENTERPRISE COMPANY LTD SL,Avda Hassan II,,,Malabo,66,nationality.equatorial.guinea,,222576418,222272523,,Avda Hassan II,,,Malabo,66,,222576418,222272523,155_photo.jpg,www.icubefarm.com,,11/19/16 11:55,11/30/18 0:00,0,,,,Bioco Norte,Bioco Norte,1858,1,1,1,jjobamaedu@gmail.com,1,jjobamaedu@gmail.com,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+153,MSE SL,B/ Snta Maria III,,,Malabo,66,nationality.equatorial.guinea,,222254857,555457824,,B/ Snta Maria III,,,Malabo,66,,222254857,555457824,153_photo.jpg,www.icubefarm.com,,11/19/16 11:04,11/30/18 0:00,0,,,,Bioco Norte,Bioco Norte,1856,1,1,1,etadji1@hotmail.com,1,manses.l.business@gmail.com,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+175,MULTISERVICIOS MOVOHO SL,Buena Esperanza,,,Malabo,66,nationality.equatorial.guinea,,222142893,222557717,,Buena Esperanza,,,Malabo,66,,222142893,222557717,175_photo.jpg,www.icubefarm.com,,11/22/16 13:05,11/30/18 0:00,2,,,,Bioco Norte,Bioco Norte,1896,1,1,1,michamaye@hotmail.com,1,michamaye@hotmail.com,9,Telecommunication Services,61,Diversified Telecommunication Services,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+185,MUNI,Malabo II,,,Malabo ,66,nationality.equatorial.guinea,,550002999,550002998,,Malabo II,,,Malabo ,66,,550002999,550002998,185_photo.jpg,www.muni-eg.com,,11/30/16 9:54,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,1964,3,3,3,eangue@muni-eg.com,3,info@muni-eg.com,9,Telecommunication Services,61,Diversified Telecommunication Services,3,"Medium 101 - 999 employees
+",66,240,66,66,66,,t
+183,MPA SIPACO HOLDING INVESTIMENT LIMITED,C/ REY BONCORO S/N,,,MALABO,66,nationality.equatorial.guinea,,333096857,222736929,,C/ REY BONCORO S/N,,,MALABO,66,,333096857,222736929,183_photo.jpg,www.mpaspco.com,,11/29/16 7:01,11/30/18 0:00,0,,,,BIOKO NORTE,BIOKO NORTE,1954,3,1,3,moicheguadamasi@gmail.com,1,cfpmpaspaco@hotmail.com,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+184,PERFECT SERVICE,"C/ REY MALABO
+FRENTE- COLEGIO BUEN PASTOR ",,,MALABO,66,nationality.equatorial.guinea,,333090223,222278826,,"C/ REY MALABO
+FRENTE- COLEGIO BUEN PASTOR ",,,MALABO,66,,333090223,222278826,184_photo.jpg,www.icubefarm.com,,11/30/16 9:23,11/30/18 0:00,0,,,,BIOKO NORTE,BIOKO NORTE,1961,3,1,3,meye7@hotmail.com,1,meye7@hotmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+200,GINTERS SL,"Avda/Naciones Unidas
+Malabo",,,Malabo,66,nationality.equatorial.guinea,,222251012,555251012,,"Avda/Naciones Unidas
+Malabo",,,Malabo,66,,222251012,555251012,200_photo.jpg,www.icubefarm.com,,12/6/16 11:31,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2009,1,1,1,ginterssl@gmail.com,1,ginterssl@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+197,SC MODEM INTERNACIONAL,BUENA ESPERANZA,,,MALABO,66,nationality.grenada,,222593500,222593500,,BUENA ESPERANZA,,,MALABO,66,,222593500,222593500,197_photo.jpg,www.smsmodem.net,,12/6/16 10:00,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2002,1,1,1,ondonsuga@yahoo.es,1,agente.tmsfifa@gmail.com,7,Information Technology,52,Internet Software & Services,1,"Micro < 10 employees
+",86,240-1,86,86,86,,t
+190,CACHU Y HNOS SL,B/LAMPERT - FORTUNI,,,MALABO,66,nationality.equatorial.guinea,,222028231,222214985,,B/LAMPERT - FORTUNI,,,MALABO,66,,222028231,222214985,190_photo.jpg,www.iceubefarm.com,,12/5/16 16:45,11/30/18 0:00,0,,,,BIOKO NORTE,BIOKO NORTE,1994,1,1,1,trabajarparavivir82@yahoo.com,1,cachuyhnossl2013@yahoo.com,9,Telecommunication Services,61,Diversified Telecommunication Services,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+208,ATLANTIC GROUP,"C/ SUMCO
+Malabo",,,Malabo,66,nationality.equatorial.guinea,,222213095,222642712,,"C/ SUMCO
+Malabo",,,Malabo,66,,222213095,222642712,208_photo.jpg,,,12/6/16 14:56,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2019,1,1,1,kamdem_hermann@yahoo.fr,1,kandem_hermann@yahoo.fr,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+223,CESDYA,BARIO SEMU,,,MALABO,66,nationality.equatorial.guinea,,222032073,555240469,,BARIO SEMU,,,MALABO,66,,222032073,555240469,223_photo.jpg,,,12/7/16 8:37,11/30/18 0:00,0,,,,BIOKO NORTE,BIOKO NORTE,2036,1,1,1,badjaes@yahoo.es,1,cesdya@hotmail.com,7,Information Technology,49,Communications Equipment,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+205,ALL NATIONS,"160me Deido Bonanjo
+Douala
+Cameroun",,,Littoral,38,nationality.cameroon,,699578663,222214136,,"160me Deido Bonanjo
+Douala
+Cameroun",,,Littoral,38,,699578663,222214136,205_photo.jpg,,,12/6/16 14:07,11/30/18 0:00,0,,,,Douala,Douala,2016,1,1,1,allnationsliberty13@gmail.com,1,allnationsliberty13@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",38,237,66,38,66,,t
+299,Grupo Molsa SA,K4 Carretera del Aeropuerto ,,,Malabo ,66,nationality.equatorial.guinea,,551959384,222281169,,K4 Carretera del Aeropuerto ,,,Malabo ,66,,551959384,222281169,299_photo.jpg,www.grupomolsa.com,,2/2/17 11:26,11/30/18 0:00,2,,,,Bioko Norte ,Bioko Norte ,2559,1,1,1,christian.huertas@grupomolsa.com,1,christian.huertas@grupomolsa.com,6,Industrials,39,Commercial Services & Supplies,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+224,FEGUIFUT,"Avda/Hassan II
+Malabo",,,Malabo,66,nationality.equatorial.guinea,,222143541,222574376,,"Avda/Hassan II
+Malabo",,,Malabo,66,,222143541,222574376,224_photo.jpg,,,12/7/16 11:51,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2037,1,1,1,secretaria.gral@feguifut.org,1,secretaria.gral@feguifut.org,11,NonProfit ,68,NonProfit,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+231,LUZ DIVINA ,C/ Africa ,,,Malabo,66,nationality.equatorial.guinea,,222 573180,222512816,,C/ Africa ,,,Malabo,66,,222 573180,222512816,231_photo.jpg,,,12/7/16 15:50,11/30/18 0:00,0,,,,BIOKO NORTE,BIOKO NORTE,2045,1,1,1,jcabecobaraso@gmail.com,1,jcabecobaraso@gmail.com,2,Consumer Staples,16,Household Products,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+174,MULTISERVICIOS GRUPO LA IDEA,B/ Sta Maria III,,,Malabo,66,nationality.equatorial.guinea,,222241481,222012070,,B/ Sta Maria III,,,Malabo,66,,222241481,222012070,174_photo.jpg,www.icubefarm.com,,11/22/16 12:55,11/30/18 0:00,0,,,,Bioco Norte,Bioco Norte,1895,1,1,1,nicolas_sima4@yahoo.es,1,laidea_grupo2010@yahoo.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+233,MULTISERVICIOS ABUELA MERCEDES SL,Malabo,,,Malabo,66,nationality.equatorial.guinea,,222294660,222067278,,Malabo,,,Malabo,66,,222294660,222067278,233_photo.jpg,,,12/7/16 16:23,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2047,1,1,1,msabuelamerced@gmail.com,1,msabuelamerced@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+227,SITRONIC,B/San luis,,,Malabo,66,nationality.equatorial.guinea,,555787206,222252676,,B/San luis,,,Malabo,66,,555787206,222252676,227_photo.jpg,,,12/7/16 13:59,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2041,1,1,1,sitronic.xorendus@gmail.com,1,sitronic.xorendus@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+212,MANSUCU SL,B/ Semu,,,malabo,66,nationality.equatorial.guinea,,222246375,555555627,,B/ Semu,,,malabo,66,,222246375,555555627,212_photo.jpg,,,12/6/16 15:32,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2023,1,1,1,multiserviciosmansucu@gmail.com,1,multiserviciosmansucu@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+228,MIRAMAS OPTICAS,"C/ Avda de la Libertad
+Malabo",,,Malabo,66,nationality.equatorial.guinea,,222102102,555102102,,"C/ Avda de la Libertad
+Malabo",,,Malabo,66,,222102102,555102102,228_photo.jpg,,,12/7/16 14:17,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2042,1,1,1,eduedja@gmail.com,1,eduedja@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+255,UNIVERSAL CONSULTING MANAGEMENT SL,"Camera de Comercio
+Primera Planta",,,Malabo,66,nationality.equatorial.guinea,,555760794,222743237,,"Camera de Comercio
+Primera Planta",,,Malabo,66,,555760794,222743237,255_photo.jpg,,,12/9/16 14:12,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2071,1,1,1,elenalobon@hotmail.com,1,elenalobon@hotmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+247,GRUPO GALLEGO,"C/Los claveles
+Malaga 
+Espana",,,Malaga,205,nationality.spain,,34687933740,34610571849,,"C/Los claveles
+Malaga 
+Espana",,,Malaga,205,,34687933740,34610571849,247_photo.jpg,,,12/9/16 10:02,11/30/18 0:00,0,,,,Malaga,Malaga,2063,1,1,1,jaime@hermanosgallego.es,1,jaime@hermanosgallego.es,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",205,34,205,205,205,,t
+243,ATLANTIC GROUP,C/ Sumco,,,Malabo,66,nationality.equatorial.guinea,,222642712,555969317,,C/ Sumco,,,Malabo,66,,222642712,555969317,243_photo.jpg,,,12/7/16 18:04,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2057,1,1,1,bekee.j.a@gmail.com,1,bekee.j.a@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+249,MULTISERVICIOS MARFIL,Edificio Davinci,,,Malabo,66,nationality.equatorial.guinea,,222268201,222563615,,Edificio Davinci,,,Malabo,66,,222268201,222563615,249_photo.jpg,,,12/9/16 10:41,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2065,1,1,1,marfilmultiservicios@gmail.com,1,marfilmultiservicios@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+250,VIAJA Y PUNTO,"Edificio Candy
+Malabo",,,Malabo,66,nationality.equatorial.guinea,,222778201,222594906,,"Edificio Candy
+Malabo",,,Malabo,66,,222778201,222594906,250_photo.jpg,,,12/9/16 10:52,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2066,1,1,1,mgsl.direccion@gmail.com,1,mgsl.direccion@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+246,Majoni Express SL,Cerca del Mercado Semu,,,Malabo,66,nationality.equatorial.guinea,,222237045,222273367,,Cerca del Mercado Semu,,,Malabo,66,,222237045,222273367,246_photo.jpg,,,12/8/16 20:31,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2062,1,1,1,majoniservicios@hotmail.com,1,majoniservicios@hotmail.com,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+241,Tecnologia hospitalaria y laboratorial,"Edificio Abayak, PB
+Malabo II",,,Malabo,66,nationality.equatorial.guinea,,222582885,222582885,,"Edificio Abayak, PB
+Malabo II",,,Malabo,66,,222582885,222582885,241_photo.jpg,,,12/7/16 17:29,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2055,1,1,1,valter.duarte@thl.pt,1,valter.duarte@thl.pt,5,Health Care,32,Health Care Technology,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+970,Phareb Services,"Douala, Cameroon",,,Douala,38,nationality.cameroon,,222547095,222547095,,"Douala, Cameroon",,,Douala,38,,222547095,222547095,970_photo.jpg,,,10/11/17 13:01,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,5633,3,1,3,abdldjalil@hamusoku.ml,1, nnanga.modeste@phareb-services.com ,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+969,Telecom Company,"Douala, Cameroon",,,Douala,38,nationality.cameroon,,233874907,233874907,,"Douala, Cameroon",,,Douala,38,,233874907,233874907,969_photo.jpg,,,10/11/17 9:41,11/30/18 0:00,1,,,,Littoral Region,Littoral Region,5624,3,3,3,djliveup11@makepleasure.club,3,ccv@seme-telecom.com ,9,Telecommunication Services,61,Diversified Telecommunication Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+281,GUINEA MEDIA FACTORY,"Carracolas 
+Parques de Africa S/N",,,Malabo,66,nationality.equatorial.guinea,,222553620,222669570,,"Carracolas 
+Parques de Africa S/N",,,Malabo,66,,222553620,222669570,281_photo.jpg,,,12/15/16 15:13,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2113,1,1,1,guineamediafactory@gmail.com,1,guineamediafactory@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+273,AGRUPACION AGRICOLA AIRE 2000,"Bata
+B/Nfonga km8",,,bata,66,nationality.equatorial.guinea,,222296996,222654225,,"Bata
+B/Nfonga km8",,,bata,66,,222296996,222654225,273_photo.jpg,,,12/15/16 12:18,11/30/18 0:00,0,,,,Litoral,Litoral,2105,1,1,1,agrupacionagricola2000@gmail.com,1,agrupacionagricola2000@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+270,CLIPMA SL,C/Nigeria,,,Malabo,66,nationality.equatorial.guinea,,333091990,222245454,,C/Nigeria,,,Malabo,66,,333091990,222245454,270_photo.jpg,,,12/15/16 11:01,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2100,3,1,3,clipma1sl@gmail.com,1,clipma1sl@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+264,ECUATORIAL EXPRESS DE GESTION SL,B/ Ela Nguema,,,Malabo,66,nationality.equatorial.guinea,,222275775,666181959,,B/ Ela Nguema,,,Malabo,66,,222275775,666181959,264_photo.jpg,,,12/15/16 9:38,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2090,1,1,1,ecuatorialexpress@gmail.com,1,ecuatorialexpress@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+266,COOPERATIVA BIDJI GE,"C/Enrique Nvo
+Bata-Litoral",,,Bata,66,nationality.equatorial.guinea,,222226037,551226037,,"C/Enrique Nvo
+Bata-Litoral",,,Bata,66,,222226037,551226037,266_photo.jpg,,,12/15/16 10:25,11/30/18 0:00,2,,,,Litoral,Litoral,2094,1,1,1,cooperativabidjiege1@gmail.com,1,cooperativabidjiege1@gmail.com,9,Telecommunication Services,61,Diversified Telecommunication Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+277,FAKIHI CONSTRUCTION,"Carretera de sampaka 
+Malabo",,,Malabo,66,nationality.equatorial.guinea,,222273060,555273060,,"Carretera de sampaka 
+Malabo",,,Malabo,66,,222273060,555273060,277_photo.jpg,,,12/15/16 12:43,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2109,1,1,1,fakihiconstruction@gmail.com,1,fakihiconstruction@gmail.com,8,Materials,57,Construction Materials,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+262,MULTISERVICIOS CEON SL,"Entrada b/ Riocopua
+malabo",,,Malabo,66,nationality.equatorial.guinea,,666706521,222250429,,"Entrada b/ Riocopua
+malabo",,,Malabo,66,,666706521,222250429,262_photo.jpg,,,12/14/16 16:30,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2086,1,1,1,ceonmultiservicios@gmail.com,1,ceonmultiservicios@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+283,STRONG DSiV,"C/Abilio Balboaha
+Malabo BN- ",,,Malabo,66,nationality.equatorial.guinea,,22290664,222247642,,"C/Abilio Balboaha
+Malabo BN- ",,,Malabo,66,,22290664,222247642,283_photo.jpg,,,12/16/16 15:09,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2121,1,1,1,jbesichi@strong-dsiv.net,1,jbesichi@strong-dsiv.net,9,Telecommunication Services,61,Diversified Telecommunication Services,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+274,MULTISERVICIOS ESPYCO SL,B/ Alcaide S/N,,,Malabo,66,nationality.equatorial.guinea,,222278806,555278806,,B/ Alcaide S/N,,,Malabo,66,,222278806,555278806,274_photo.jpg,,,12/15/16 12:23,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2106,1,1,1,espycomultiservicios@gmail.com,1,espycomultiservicios@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+271,JLEGE SL,B/Sampaca,,,Malabo,66,nationality.equatorial.guinea,,222272238,222272238,,B/Sampaca,,,Malabo,66,,222272238,222272238,271_photo.jpg,,,12/15/16 11:08,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2102,1,1,1,jlegesl2016@gmail.com,1,jlegesl2016@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+248,GABINETE Y AGENCIA T y E,"Banapa S/N
+Malabo",,,Malabo,66,nationality.grenada,,350093611,222253307,,"Banapa S/N
+Malabo",,,Malabo,66,,350093611,222253307,248_photo.jpg,www.gabinete-tye-abogados.com ,,12/9/16 10:19,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2064,3,1,3,agencia_tye@yahoo.fr,1,agencia_tye@yahoo.fr,1,Consumer Discretionary,4,Diversified Consumer Services,2,"Small 11 - 100 employees
+",86,240-1,86,86,86,,t
+272,COMU SL CONSTRUCIONES MANOS UNIDAS,"Bata
+B/ Biyendem
+",,,Malabo,66,nationality.equatorial.guinea,,222219414,222270160,,"Bata
+B/ Biyendem
+",,,Malabo,66,,222219414,222270160,272_photo.jpg,,,12/15/16 12:08,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2104,1,1,1,comuslconstrucionesmanosunidas@gmail.com,1,comuslconstrucionesmanosunidas@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+278,JOB SERVICIOS ,"Malabo II
+Sampaka",,,Malabo,66,nationality.equatorial.guinea,,222278331,687071215,,"Malabo II
+Sampaka",,,Malabo,66,,222278331,687071215,278_photo.jpg,,,12/15/16 13:03,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2110,1,1,1,jobserviciossl@gmail.com,1,jobserviciosssl@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,2,"Small 11 - 100 employees
+",66,240,205,66,205,,t
+260,MEO DIGITAL SL,"Malabo
+Guinea Ecuatorial",,,Malabo,66,nationality.equatorial.guinea,,222524706,555524706,,"Malabo
+Guinea Ecuatorial",,,Malabo,66,,222524706,555524706,260_photo.jpg,,,12/14/16 16:15,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2084,1,1,1,meodigitalsl@gmail.com,1,meodigitalsl@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+324,WORLD COMMUNICATION SL,"B/Sta Maria II
+Entrada Ateno",,,Malabo,66,nationality.grenada,,333094895,222271955,,"B/Sta Maria II
+Entrada Ateno",,,Malabo,66,,333094895,222271955,324_photo.jpg,,,4/4/17 9:36,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,2985,3,1,3,papaela@hotmail.es,1,papaela@hotmail.es,9,Telecommunication Services,61,Diversified Telecommunication Services,1,"Micro < 10 employees
+",86,240-1,86,86,86,,t
+286,CONSORCIO ECUATOGUINEANO DE EMPRESAS,C/ Nigeria,,,Malabo,66,nationality.equatorial.guinea,,555002020,222525662,,C/ Nigeria,,,Malabo,66,,555002020,222525662,286_photo.jpg,,,12/22/16 11:01,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2156,1,1,1,consorcioecuatoguineano@gmail.com,1,consorcioecuatoguineano@gmail.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+268,GESSMARIN,"B/ Acropolis
+Malabo",,,Malabo,66,nationality.equatorial.guinea,,222282544,333091808,,"B/ Acropolis
+Malabo",,,Malabo,66,,222282544,333091808,268_photo.jpg,,,12/15/16 10:43,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2098,1,3,1,gessmarin2016@gmail.com,3,gessmarin2016@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+269,NFABI GE,B/Semu,,,Malabo,66,nationality.equatorial.guinea,,222750248,222275004,,B/Semu,,,Malabo,66,,222750248,222275004,269_photo.jpg,,,12/15/16 10:50,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,2099,1,1,1,nfabige@gmail.com,1,nfabige@gmail.com,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+308,ATLIN GRUPO SL,Complejo Anguesomo Sampaka,,,Malabo,66,nationality.equatorial.guinea,,222245522,551997132,,Complejo Anguesomo Sampaka,,,Malabo,66,,222245522,551997132,308_photo.jpg,,,2/15/17 8:58,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2652,1,1,1,atlingrupo1@gmail.com,1,atlingrupo1@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+193,MONRI SERVICES SL,"B/ Semu
+Malabo II",,,Malabo,66,nationality.equatorial.guinea,,555244673,222093984,,"B/ Semu
+Malabo II",,,Malabo,66,,555244673,222093984,193_photo.jpg,www.icubefarm.com,,12/6/16 9:20,11/30/18 0:00,0,,,,Bioko Norte,Bioko Norte,1998,1,1,1,monteriloha@gmail.com,1,monteriloha@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+979,THE ELITE JOB CONNECTION,MAKEPE RHÔNE POULENC EN FACE TRADEX LOGPOM,,,DOUALA,38,nationality.cameroon,CMR,691377979,656380215,,MAKEPE RHÔNE POULENC EN FACE TRADEX LOGPOM,,,DOUALA,38,CMR,691377979,656380215,979_photo.jpg,,,11/9/17 10:54,11/30/18 0:00,1,,,,LITTORAL,LITTORAL,6290,1,1,1,marketing@theelitejobconnection.com,1,info@theelitejobconnection.com,6,Industrials,39,Commercial Services & Supplies,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+294,GEM,Hotel Sna (SAMPAKA),,,Malabo,66,nationality.equatorial.guinea,,222245522,222595952,,Hotel Sna (SAMPAKA),,,Malabo,66,,222245522,222595952,294_photo.jpg,,,1/25/17 23:19,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2425,1,1,1,oyonomotu@gmail.com,1,oyonomotu@gmail.com,6,Industrials,48,Transportation Infrastructure,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+327,Grupo Evita,Ntobo Bata,,,Bata,200,nationality.equatorial.guinea,,222273267,666690013,,Ntobo Bata,,,Bata,200,,222273267,666690013,327_photo.jpg,Grupoevita.com,,4/14/17 11:50,11/30/18 0:00,1,,,,Litoral,Litoral,3060,1,1,1,javieresono_9@hotmail.com,1,javieresono_9@hotmil.com,6,Industrials,38,Building Products,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+330,POLARIS GE BUSINESS GUIDE SL,CARRETERA DEL AEROPUERTO KM 4,,,Malabo,66,nationality.grenada,,222047187,616466446,,CARRETERA DEL AEROPUERTO KM 4,,,Malabo,66,,222047187,616466446,330_photo.jpg,www.polarisge.com.,,4/18/17 12:11,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3081,1,1,1,roberto.akapo@polarisge.com,1,roberto.akapo@polarisge.com,4,Financials,24,Diversified Financial Services,2,"Small 11 - 100 employees
+",86,240-1,205,86,205,,t
+328,IBELAN Consulting Ltd,"S/N, Paraiso, Malabo, Guinea Ecuatorial",,,Malabo ,66,nationality.equatorial.guinea,,222744507,222757987,,"S/N, Paraiso, Malabo, Guinea Ecuatorial",,,Malabo ,66,,222744507,222757987,328_photo.jpg,,,4/15/17 11:54,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3066,1,1,1,mayeesono@yahoo.es,1,mayeesono@yahoo.es,3,Energy,19,Energy Equipment & Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+291,FUVIGE,"Ela Nguema
+C/ Moka Bioko",,,Malabo,66,nationality.equatorial.guinea,,222566041,551275996,,"Ela Nguema
+C/ Moka Bioko",,,Malabo,66,,222566041,551275996,291_photo.jpg,,,1/18/17 10:41,11/30/18 0:00,2,,,,Bioko Norte,Bioko Norte,2348,1,1,1,ebang_esono@yahoo.es,1,ebang_esono@yahoo.es,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+331,Ebenezer SHR,Timbabe,,,Malabo,66,nationality.grenada,,551274040,222212976,,Timbabe,,,Malabo,66,,551274040,222212976,331_photo.jpg,,,4/18/17 14:22,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3082,1,1,1,rayaba007@hotmail.com,1,rayaba007@hotmail.com,1,Consumer Discretionary,9,Media,1,"Micro < 10 employees
+",86,240-1,86,86,86,,t
+332,Capilla el Faro Internacional,Santa Maria 3,,,Malabo,66,nationality.equatorial.guinea,,222672799,222163891,,Santa Maria 3,,,Malabo,66,,222672799,222163891,332_photo.jpg,,,4/21/17 8:43,11/30/18 0:00,1,,,,Bioko norte,Bioko norte,3093,1,1,1,berkopaz2016@gmail.com,1,berkopaz2016@gmail.com,11,NonProfit ,68,NonProfit,2,"Small 11 - 100 employees
+",66,240,66,66,66,DOCUMENTOS CAPILLA EL FARO INTERNACIONAL20170421084200.docx,t
+337,Resturante Imagine,"Carretera Ela Nguema -Aeropuerto
+Malabo II",,,Malabo,66,nationality.grenada,0,222518626,555534340,,"Carretera Ela Nguema -Aeropuerto
+Malabo II",,,Malabo,66,0,222518626,555534340,337_photo.jpg,www.restaurante-imagine.com,,5/3/17 10:20,11/30/18 0:00,1,,,,Bioko Norte,Bioko Norte,3133,1,3,1,contacto@restaurante-imagine.com,3,contacto@restaurante-imagine.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",2,"Small 11 - 100 employees
+",86,240-1,86,86,86,,t
+1011,GUARDERIA-PREESCOLAR LA LUZ DE LOS PEQUES,"Caracolas
+Frente la Embajada de Brasil",,,Malabo,66,nationality.equatorial.guinea,,222242972,551999526,,"Caracolas
+Frente la Embajada de Brasil",,,Malabo,66,,222242972,551999526,1011_photo.jpg,,,5/30/18 9:37,5/30/19 9:37,1,,,,Bioko Norte,Bioko Norte,8692,1,1,1,laluzdelospeques@gmail.com,1,consuelomomobela@gmail.com,1,Consumer Discretionary,11,Specialty Retail,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+315,MULTISERVICIOS LUALSANES GE SL,"B/ Acropolis
+Malabo",,,MALABO,66,nationality.equatorial.guinea,,222026209,222213737,,"B/ Acropolis
+Malabo",,,MALABO,66,,222026209,222213737,315_photo.jpg,,,3/9/17 13:15,11/30/18 0:00,2,,,,BIOKO NORTE,BIOKO NORTE,2808,1,1,1,lualsanesmultiservicios@gmail.com,1,lualsanesmultiservicios@gmail.com,1,Consumer Discretionary,4,Diversified Consumer Services,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+336,MOMO B,Bonamoussadi,,,Douala,38,nationality.cameroon,,693 44 37 01,680385188,,Bonamoussadi,,,Douala,38,,693 44 37 01,680385188,336_photo.jpg,http://momob.biz/en/,,5/2/17 17:04,11/30/18 0:00,1,,,,littoral,littoral,3132,1,1,1,momo.bertrand@yahoo.fr,1,wow@momob.biz,6,Industrials,39,Commercial Services & Supplies,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+988,Massao Palace Hotel,Tsinga derrière la grande mosquée,,,Yaounde,38,nationality.cameroon,,222230465,671317972,,Tsinga derrière la grande mosquée,,,Yaounde,38,,222230465,671317972,988_photo.jpg,,,11/22/17 13:14,11/30/18 0:00,1,,,,Centrale,Centrale,6735,3,1,3,herti_21@yahoo.fr,1,herti_21@yahoo.com,1,Consumer Discretionary,5,"Hotels, Restaurants & Leisure",2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+987,Expert Versions,Akwa douala ,,,Douala,38,nationality.cameroon,,679164477,679164477,,Akwa douala ,,,Douala,38,,679164477,679164477,987_photo.jpg,www.expertversions.com,,11/20/17 19:15,11/30/18 0:00,1,,,,Littoral ,Littoral ,6681,3,1,3,info@expertversions.com,1,info@expertversions.com ,6,Industrials,45,Professional Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+992,TechSoft Web Agency,"Douala, Deido",,,Douala,38,nationality.cameroon,,656321133,671313533,,"Douala, Deido",,,Douala,38,,656321133,671313533,992_photo.jpg,www.techsoft-web-agency.com,,12/8/17 7:41,11/30/18 0:00,1,,,,Littoral,Littoral,6975,1,1,1,david-eson@techsoft-web-agency.com,1,hello@techsoft-web-agency.com ,7,Information Technology,52,Internet Software & Services,1,"Micro < 10 employees
+",38,237,38,38,38,,t
+991,Ocean Shipping and Logistics Company,B.P. 542 KRIBI,,Face Résidence Présiden ,KRIBI,38,nationality.cameroon,542,679538263,699628231,,B.P. 542 KRIBI,,Face Résidence Présiden ,KRIBI,38,542,679538263,699628231,991_photo.jpg,,,12/6/17 11:47,11/30/18 0:00,1,,,,Sud,Sud,6945,1,1,1,alain.ngondi@tradexsa.com,1,o_s_logistics@gmail.com,6,Industrials,38,Building Products,2,"Small 11 - 100 employees
+",38,237,38,38,38,,f
+993,BEST NET INTERNATIONAL SARL,7379 Douala- Cameroun,,,douala,38,nationality.cameroon,CMR,694 54 38 94,233 41 60 80,,7379 Douala- Cameroun,,,douala,38,CMR,694 54 38 94,233 41 60 80,993_photo.jpg,www.bestnet-intenational.com,,12/8/17 8:52,11/30/18 0:00,1,,,,Littoral,Littoral,6977,1,3,1,bestnetinternationalsarl@yahoo.fr,3,sagoufeukam@yahoo.fr,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,t
+995,JP MULTISERVICIOS SL,C/ REY MALABO,,,MALABO,66,nationality.equatorial.guinea,,222097750,555975318,,C/ REY MALABO,,,MALABO,66,,222097750,555975318,995_photo.jpg,,,12/14/17 10:49,11/30/18 0:00,1,,,,BN,BN,7050,1,1,1,javierypascual@yahoo.es,1,jsdanny91@hotmail.com,10,Utilities,66,Multi-Utilities,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+222,Kalmesh Test,Ttupzv,,123,Bangalore,100,nationality.latvia,560097,9448418717,9448418717,,sdf ,,123,Bangalore,100,560097,9448418717,9448418717,222_photo.jpg,,,12/7/16 8:36,11/30/18 0:00,2,,,,Karnataka,Karnataka,2035,1,2,1,kalmeshwark@gmail.com,2,kalmesh@gmail.com,6,Industrials,40,Construction & Engineering,3,"Medium 101 - 999 employees
+",120,91,120,120,120,,f
+996,Testing John Smith,Irving,,203,Irving,233,nationality.united.states.of.america,78063,4324324321,4123412342,,Irving,,203,Irving,233,78063,4324324321,4123412342,996_photo.jpg,,,12/15/17 6:20,11/30/18 0:00,1,,,,Texas,Texas,7060,1,3,1,testaccelq4321@gmail.com,3,tester@accelq.com,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",233,1,233,233,233,,f
+1010,SDV GUINEA SA,EDIFICIO RYESA SEGUNDA PLANTA,,,MALABO,66,nationality.equatorial.guinea,,333098527,222281436,,EDIFICIO RYESA SEGUNDA PLANTA,,,MALABO,66,,333098527,222281436,1010_photo.jpg,,,5/8/18 10:46,5/8/19 10:46,1,,,,BIOKO NORTE,BIOKO NORTE,8436,3,1,3,raykouma@yahoo.fr,1,remi.amavi@bollore.com,6,Industrials,36,Air Freight & Logistics,2,"Small 11 - 100 employees
+",66,240,66,66,66,,f
+1009,SDV GUINEA SA,EDIFICIO RYESA SEGUNDA PLANTA,,,MALABO,66,nationality.equatorial.guinea,,333098527,222281436,,EDIFICIO RYESA SEGUNDA PLANTA,,,MALABO,66,,333098527,222281436,1009_photo.jpg,,,5/8/18 10:46,5/8/19 10:46,1,,,,BIOKO NORTE,BIOKO NORTE,8436,3,1,3,raykouma@yahoo.fr,1,remi.amavi@bollore.com,6,Industrials,36,Air Freight & Logistics,2,"Small 11 - 100 employees
+",66,240,66,66,66,,f
+1005,Empire Media Group,"324 Rue Foch, Akwa
+P. O. Box 3166, DOuala",,,DOuala,38,nationality.cameroon,237,677511535,233431188,,"324 Rue Foch, Akwa
+P. O. Box 3166, DOuala",,,DOuala,38,237,677511535,233431188,1005_photo.jpg,www.emgcameroon.com,,3/1/18 14:05,11/30/18 0:00,1,,,,Littoral,Littoral,7943,1,3,1,tabifor.king@emgcameroon.com,3,tabiforking@outlook.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",38,237,38,38,38,,f
+1006,Chiru-Test,HSR Layout,,,Bangalore,100,nationality.india,560076,7022602997,,,HSR Layout,,,Bangalore,100,560076,7022602997,,1006_photo.jpg,,,4/2/18 5:24,4/2/19 5:24,1,,,,KA,KA,8123,1,2,1,chiru.radha@gmail.com,2,chiranjeevi.talari@minerva-solutions.net,7,Information Technology,54,Software,1,"Micro < 10 employees
+",100,91,100,100,100,,f
+1022,The Company,Molyko,,Lorem,Buea,38,nationality.cameroon,237,677931524,,677931525,Molyko,,Lorem,Buea,38,237,677931524,,1022_photo.jpg,icubefarm.com,,9/14/18 1:17,9/14/19 1:17,1,,,,South West,South West,7578,1,2,1,francislinonge@gmail.com,2,linonge.francis@makonjo.com,4,Financials,26,Real Estate Investment Trusts (REITs),1,"Micro < 10 employees
+",38,237,233,38,233,,f
+1012,ITG STORE,"124, Rue Druix 
+Derriere College de la Salle",,,Douala,38,nationality.cameroon,,698824637,694592392,,"124, Rue Druix 
+Derriere College de la Salle",,,Douala,38,,698824637,694592392,1012_photo.jpg,www.itgstore-consulting.com,,5/30/18 10:59,5/30/19 0:00,1,,,,Littoral,Littoral,8693,3,1,3,d.mbonjo@itgstore-consulting.com,1,info@itgstore-consulting.com,7,Information Technology,51,IT Services,3,"Medium 101 - 999 employees
+",38,237,38,38,38,,t
+1013,Fond National ,Limbe,,,Limbe,38,nationality.cameroon,,679694298,,,Limbe,,,Limbe,38,,679694298,,1013_photo.jpg,,,6/11/18 19:38,6/11/19 19:38,1,,,,Cameroon,Cameroon,8760,1,2,1,emmi_gold@yahoo.co.uk,2,emmi_gold@yahoo. co.uk,1,Consumer Discretionary,4,Diversified Consumer Services,3,"Medium 101 - 999 employees
+",38,237,38,38,38,,f
+1014,Legacy IT,El Verbo Semu,,,Malabo,66,nationality.equatorial.guinea,,555750309,555745270,,El Verbo Semu,,,Malabo,66,,555750309,555745270,1014_photo.jpg,,,6/12/18 16:28,6/12/19 16:28,1,,,,Bioko Norte,Bioko Norte,8758,1,1,1,giovanni.ebuera@legacyit-eg.com,1,annais.ondo@legacyit-eg.com,9,Telecommunication Services,62,Wireless Telecommunication Services,1,"Micro < 10 employees
+",66,240,66,66,66,,f
+1015,DAVCA,BP 34052 Yaoundé - Cameroun,,,Douala ,38,nationality.cameroon,237,673114017,,,BP 34052 Yaoundé - Cameroun,,,Douala ,38,237,673114017,,1015_photo.jpg,,,7/5/18 8:47,7/5/19 8:47,1,,,,centre,centre,8849,1,1,1,yvettefotso80@yahoo.fr,1,yvette.fotso@davca.fr,7,Information Technology,51,IT Services,1,"Micro < 10 employees
+",38,237,74,38,74,DAVCA_Appel à candidature_Marketiste_2018_06_2120180705084500.docx,t
+1016,LEGACY TAXI,Hotel Tropicana,,,Malabo,66,nationality.equatorial.guinea,,555353535,555666576,,Hotel Tropicana,,,Malabo,66,,555353535,555666576,1016_photo.jpg,www.legacytaxi-eg.com,,7/13/18 10:26,7/13/19 0:00,1,,,,Bioko Norte,Bioko Norte,8879,1,1,1,milagrosasokolete@yahoo.com,1,info@legacytaxi-eg.com,6,Industrials,45,Professional Services,2,"Small 11 - 100 employees
+",66,240,66,233,66,,t
+1018,daboevsons sl,BIGATANA,,,MALABO,66,nationality.equatorial.guinea,,222188034,222627787,,BIGATANA,,,MALABO,66,,222188034,222627787,1018_photo.jpg,,,7/25/18 13:53,7/25/19 13:53,1,,,,BIOKO NORTE,BIOKO NORTE,8928,3,1,3,danielbohoevita@gmail.com,1,daboevsons@gmail.com,2,Consumer Staples,14,Food & Staples Retailing,1,"Micro < 10 employees
+",66,240,66,66,66,,t
+1019,Quezil Language Services,"Texaco Omnisports, Entrée FIFA, BP. 17070",,,Yaounde,38,nationality.cameroon,237,243298177,243298177,,"Texaco Omnisports, Entrée FIFA, BP. 17070",,,Yaounde,38,237,243298177,243298177,1019_photo.jpg,http://www.quezil.com,,8/3/18 18:19,8/3/19 18:19,1,,,,Centre,Centre,8947,3,3,3,contact@quezil.com,3,contact@quezil.com,10,Utilities,66,Multi-Utilities,1,"Micro < 10 employees
+",38,237,38,38,38,Quezil_Brochure_final20180803181822.pdf,f
+1020,DAVCA Sarl,34052,,,Douala ,38,nationality.cameroon,,673114017,2.37673E+11,,34052,,,Douala ,38,,673114017,2.37673E+11,1020_photo.jpg,,,8/14/18 14:18,8/14/19 14:18,1,,,,centre,centre,8982,1,2,1,yvette.fotso@davca.fr,2,yvette.fotso@yahoo.fr,6,Industrials,47,Trading Companies & Distributors,1,"Micro < 10 employees
+",38,237,38,38,38,DAVCA_Appel à Candidature _ CAD_ 2018_08_0620180814141800.pdf,f
+1021,CERO GRADO,G.E / Semu cerca Tamara,,,Malabo,66,nationality.equatorial.guinea,,555628202,222611123,,G.E / Semu cerca Tamara,,,Malabo,66,,555628202,222611123,1021_photo.jpg,www.multiservicioscgsl.com,,9/5/18 16:58,9/5/19 16:58,1,,,,Bioko Norte,Bioko Norte,9084,3,1,3,infos@multiservicioscgsl.com,1,infos@multiservicioscgsl.com,7,Information Technology,52,Internet Software & Services,2,"Small 11 - 100 employees
+",66,240,66,66,66,,t
+1023,AFRICA INNOV,BP12144 Douala - Bonaberi,,,Douala,38,nationality.france,,752287799,672431362,,BP12144 Douala - Bonaberi,,,Douala,38,,752287799,672431362,1023_photo.jpg,,,9/18/18 8:35,9/18/19 8:35,1,,,,littoral,littoral,9114,1,1,1,fonkeu@yahoo.fr,1,fonkeu90@gmail.com,2,Consumer Staples,15,Food Products,1,"Micro < 10 employees
+",74,33,38,74,38,,f

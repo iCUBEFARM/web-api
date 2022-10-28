@@ -1,0 +1,665 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-28 15:40+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: CalculateCreditHelper.py:98
+msgid "job"
+msgstr "Emploi"
+
+#: EmailHelper.py:39
+msgid "Something went wrong. "
+msgstr "Quelque chose s'est mal passé."
+
+#: api/mixins.py:64
+msgid "Invalid action, could not obtain required credits"
+msgstr "Action invalide, impossible d'obtenir les crédits requis"
+
+#: api/mixins.py:75
+msgid ""
+"Please review your start date and end date and try again. You can contact "
+"Customer Support to get help."
+msgstr ""
+"Vérifiez vos dates de début et de fin et réessayez. Vous pouvez contacter le "
+"service client pour obtenir de l'aide."
+
+#: api/mixins.py:202
+#, fuzzy
+#| msgid ""
+#| "Insufficient credits available to perform action, please check with "
+#| "company admin"
+msgid ""
+"Insufficient credits are avaialble for {}. Please contact your entity admin "
+"for clarification."
+msgstr ""
+"Des crédits sont insuffisants  pour {}. Veuillez contacter l'admin de votre "
+"entité pour obtenir des précisions."
+
+#: api/mixins.py:208
+msgid ""
+"Your entity has no credits left. Please contact your entity admin to request "
+"for credits."
+msgstr ""
+"Votre entité n'a plus de crédits. Veuillez contacter l'admin de votre entité "
+"pour demander des crédits."
+
+#: api/mixins.py:227
+msgid "CreditAction not found."
+msgstr ""
+
+#: api/mixins.py:240
+msgid ""
+"You need more credits to perform this action. Please contact your entity "
+"admin to request for credits."
+msgstr ""
+"Vous avez besoin de plus de crédits pour effectuer cette action. Veuillez "
+"contacter l'admin de votre entité pour demander des crédits."
+
+#: api/serializers.py:133
+msgid ""
+"Default currency and cost is not configured, please contact system "
+"administrator"
+msgstr ""
+"La devise et le coût par défaut ne sont pas configurés, veuillez contacter "
+"l'administrateur système."
+
+#: api/serializers.py:172
+#, fuzzy
+#| msgid ""
+#| "Cannot assign credits, invalid parameters, please check and try again"
+msgid ""
+"You cannot assign credits to an invalid entity. Please recheck the entity "
+"and try again."
+msgstr ""
+"Vous ne pouvez pas attribuer de crédits à une entité  invalide. Veuillez "
+"revérifier l'entité et réessayer."
+
+#: api/serializers.py:177
+#, fuzzy
+#| msgid ""
+#| "Cannot assign credits, invalid parameters, please check and try again"
+msgid ""
+"You cannot assign credits to an invalid application. Please recheck the "
+"application and try again."
+msgstr ""
+"Vous ne pouvez pas attribuer de crédits à une application invalide. Veuillez "
+"revérifier l'application et réessayer."
+
+#: api/serializers.py:199
+msgid ""
+"You need more credits to perform this action. Please click here to purchase "
+"credits."
+msgstr ""
+"Vous avez besoin de plus de crédits pour effectuer cette action. S'il vous "
+"plaît cliquez ici pour acheter des crédits."
+
+#: api/serializers.py:237
+msgid ""
+"Please review your start date and end date and try again. You can contact "
+"customer support to get help."
+msgstr ""
+"Vérifiez vos dates de début et de fin et réessayez. Vous pouvez contacter le "
+"service client pour obtenir de l'aide."
+
+#: api/serializers.py:260
+msgid ""
+"You cannot assign credits to an invalid entity. Please review your entity "
+"and try again."
+msgstr ""
+"Vous ne pouvez pas attribuer de crédits à une entité  invalide. Veuillez "
+"revérifier l'entité et réessayer."
+
+#: api/serializers.py:277
+msgid "The minimum order for purchase of credits is {}"
+msgstr "La commande minimum d'achat de crédits est de {}"
+
+#: api/serializers.py:346
+msgid "Could not create invoice, please try again"
+msgstr "Impossible de créer la facture, veuillez réessayer."
+
+#: api/serializers.py:589
+msgid ""
+"You already have product in the cart for entity {}. Please complete the "
+"purchase before adding product to another entity "
+msgstr "Vous avez déjà un produit dans le panier pour l'entité {}. Finalisez l'achat avant d'ajouter un produit pour une autre entité"
+
+#: api/serializers.py:753
+msgid "Unknown user, cannot update product."
+msgstr ""
+
+#: api/views.py:163
+msgid "Cannot assign credits, invalid parameters, please check and try again"
+msgstr ""
+"Impossible d'attribuer des crédits, paramètres invalides, veuillez vérifier "
+"et réessayer"
+
+#: api/views.py:168
+msgid ""
+"The system is experiencing an error, please contact Customer Support for "
+"assistance"
+msgstr ""
+"Le système rencontre une erreur. Veuillez contacter le service client pour "
+"obtenir de l'aide."
+
+#: api/views.py:194 api/views.py:291 api/views.py:408 api/views.py:1109
+#: api/views.py:1739 api/views.py:2367 api/views.py:2994
+msgid "Invalid action, please check and try again."
+msgstr "Action invalide, veuillez vérifier et réessayer."
+
+#: api/views.py:242 api/views.py:344 api/views.py:347 api/views.py:350
+#: api/views.py:353 api/views.py:444 api/views.py:448 api/views.py:452
+#: api/views.py:456 api/views.py:644 api/views.py:657 api/views.py:661
+#: api/views.py:757 api/views.py:769 api/views.py:773 api/views.py:867
+#: api/views.py:871 api/views.py:1101 api/views.py:1345 api/views.py:1351
+#: api/views.py:1354 api/views.py:1357 api/views.py:1360 api/views.py:1363
+#: api/views.py:1526 api/views.py:1529 api/views.py:1532 api/views.py:1535
+#: api/views.py:1538 api/views.py:1731 api/views.py:1971 api/views.py:1977
+#: api/views.py:1980 api/views.py:1983 api/views.py:1986 api/views.py:1989
+#: api/views.py:2152 api/views.py:2156 api/views.py:2159 api/views.py:2162
+#: api/views.py:2165 api/views.py:2622 api/views.py:2625 api/views.py:3249
+#: api/views.py:3252
+msgid "Transaction failed."
+msgstr "La transaction a échoué."
+
+#: api/views.py:313 api/views.py:431 api/views.py:613 api/views.py:746
+#: api/views.py:1464 api/views.py:2089
+msgid "Transaction is successful."
+msgstr "La transaction est réussie."
+
+#: api/views.py:648 api/views.py:761
+msgid "Transaction failed because there is no actions for this subscription."
+msgstr ""
+
+#: api/views.py:665 api/views.py:777 api/views.py:875
+msgid "Could not buy Subscription plan."
+msgstr ""
+
+#: api/views.py:668 api/views.py:780 api/views.py:878
+msgid "Could not buy subscription."
+msgstr ""
+
+#: api/views.py:852
+msgid "Invoice generation is successful."
+msgstr "Facture générée avec succès."
+
+#: api/views.py:859
+msgid "Invoice generation because there is no actions for this subscription."
+msgstr ""
+
+#: api/views.py:893
+msgid "entity does not exists."
+msgstr ""
+
+#: api/views.py:909
+#, fuzzy, python-brace-format
+#| msgid "Something went wrong. reason:{reason}"
+msgid "Something went wrong. reason:{reason}"
+msgstr "Quelque chose s'est mal passé. Réessayez plus tard."
+
+#: api/views.py:926
+msgid "Product Type not found."
+msgstr ""
+
+#: api/views.py:1020 api/views.py:1024 api/views.py:1027 api/views.py:1030
+#: api/views.py:1033 api/views.py:1647 api/views.py:1654 api/views.py:1657
+#: api/views.py:1660 api/views.py:1663 api/views.py:2275 api/views.py:2282
+#: api/views.py:2285 api/views.py:2288 api/views.py:2291 api/views.py:2902
+#: api/views.py:2909 api/views.py:2912 api/views.py:2915 api/views.py:2918
+#, fuzzy
+#| msgid "Transaction failed."
+msgid "Transaction Failed."
+msgstr "La transaction a échoué."
+
+#: api/views.py:1204 api/views.py:1832 api/views.py:2460 api/views.py:3087
+msgid "Transaction failed. Featured event don't have this product."
+msgstr ""
+"La transaction a échoué. Les événements en promotion n'ont pas ce produit."
+
+#: api/views.py:1212 api/views.py:1840 api/views.py:2468 api/views.py:3095
+msgid "Cannot buy products, because of products expiry date."
+msgstr "Impossible d'acheter des produits en raison de leur date d'expiration."
+
+#: api/views.py:1289 api/views.py:1917 api/views.py:2545 api/views.py:3172
+#, fuzzy
+#| msgid "Transaction failed. Featured event don't have this product."
+msgid "Transaction failed. Career fair don't have this product."
+msgstr ""
+"La transaction a échoué. Les événements en promotion n'ont pas ce produit."
+
+#: api/views.py:1336 api/views.py:1341 api/views.py:1962 api/views.py:1967
+#: api/views.py:2599 api/views.py:3226
+msgid "Invalid product, please check and try again."
+msgstr "Produit invalide, veuillez vérifier et réessayer."
+
+#: api/views.py:1348 api/views.py:1974
+#, fuzzy
+#| msgid "Transaction failed."
+msgid "transaction id not found."
+msgstr "La transaction a échoué."
+
+#: api/views.py:1432 api/views.py:1443 api/views.py:2057 api/views.py:2068
+#: api/views.py:2699 api/views.py:3326
+msgid "Something went wrong. Try again later"
+msgstr "Quelque chose s'est mal passé. Réessayez plus tard."
+
+#: api/views.py:1542 api/views.py:1546 api/views.py:1549 api/views.py:1552
+#: api/views.py:2169 api/views.py:2173 api/views.py:2176 api/views.py:2179
+msgid "Could not buy products."
+msgstr "Impossible d'acheter des produits."
+
+#: api/views.py:2359 api/views.py:2986
+msgid ""
+"Transaction failed. No of credits should be a non zero positive integer."
+msgstr ""
+" La transaction a échoué. Le nombre de crédits doit être un entier non nul."
+
+#: api/views.py:2604 api/views.py:2607 api/views.py:2610 api/views.py:2613
+#: api/views.py:2616 api/views.py:2619 api/views.py:2783 api/views.py:2786
+#: api/views.py:2789 api/views.py:2792 api/views.py:2796 api/views.py:2800
+#: api/views.py:2803 api/views.py:2806 api/views.py:3231 api/views.py:3234
+#: api/views.py:3237 api/views.py:3240 api/views.py:3243 api/views.py:3246
+#: api/views.py:3410 api/views.py:3413 api/views.py:3416 api/views.py:3419
+#: api/views.py:3423 api/views.py:3427 api/views.py:3430 api/views.py:3433
+msgid "Could not generate invoice."
+msgstr "Impossible de créer la facture, veuillez réessayer."
+
+#: api/views.py:2719 api/views.py:3346
+msgid "Invoice generated successfully."
+msgstr "Facture générée avec succès."
+
+#: api/views.py:3865 api/views.py:3868 api/views.py:3997 api/views.py:4000
+msgid "Something went wrong."
+msgstr "Quelque chose s'est mal passé. Réessayez plus tard."
+
+#: api/views.py:4055
+msgid "Billing address not found."
+msgstr ""
+
+#: app_settings.py:8
+msgid "Invoice for iCUBEFRAM Credits"
+msgstr "Facture pour les crédits de iCUBEFRAM"
+
+#: app_settings.py:9
+msgid ""
+"Dear {},\n"
+"Find attached an invoice for your purchase order for iCUBEFARM credits. "
+"For \n"
+"questions about this invoice, please contact billing@icubefarm.com"
+msgstr ""
+" Cher {} \n"
+"Trouvez ci-joint une facture pour votre commande d'achat de crédits "
+"iCUBEFARM.\n"
+"Pour toute question concernant cette facture, veuillez contacter "
+"billing@icubefarm.com"
+
+#: app_settings.py:29
+msgid "BGFI Bank Guinea Ecuatorial"
+msgstr ""
+
+#: app_settings.py:30
+msgid "Calle Bata, Malabo, Equatorial Guinea"
+msgstr ""
+
+#: app_settings.py:31
+msgid "iCUEFARM GE SL Operationes"
+msgstr ""
+
+#: app_settings.py:47
+msgid ""
+"iCUBEFARM will not generate any type of refund of money.The amounts paid "
+"will not be returned \n"
+"for any reason.\n"
+" All sales final are not refundable, not return, not exchange, not transfer, "
+"etc. In accordance with \n"
+"the\n"
+" conditions mentioned above and under no circumstances, the amount paid for "
+"the services of\n"
+" the iCUBEFARM.com \n"
+"portal is reimbursable."
+msgstr ""
+"iCUBEFARM ne générera aucun type de remboursement des achats. Les montants "
+"versés ne seront pas retourné pour n'importe quelle raison. Toutes les "
+"ventes sont finales et ne sont ni remboursables, ni retournées, ni "
+"échangées, ni transfert, etc. Dans les conditions mentionnées ci-dessus et "
+"sous aucun circonstances, le montant payé pour les services du portail "
+"iCUBEFARM.com est remboursable."
+
+#: app_settings.py:53
+#, fuzzy
+#| msgid ""
+#| "Dear {},\n"
+#| "Find attached an invoice for your purchase order for iCUBEFARM credits. "
+#| "For \n"
+#| "questions about this invoice, please contact billing@icubefarm.com"
+msgid ""
+"Dear {},\n"
+"Find attached payment receipt for your purchase order for iCUBEFARM credits. "
+"For \n"
+"questions about this payment, please contact billing@icubefarm.com"
+msgstr ""
+" Cher {} \n"
+"Trouvez le reçu de paiement ci-joint pour votre commande d'achat de crédits "
+"iCUBEFARM.\n"
+" Pour toute question concernant cette facture, veuillez contacter "
+"billing@icubefarm.com"
+
+#: app_settings.py:56
+#, fuzzy
+#| msgid "Invoice for iCUBEFRAM Credits"
+msgid "Payment receipt for iCUBEFRAM Credits"
+msgstr "Facture pour les crédits de iCUBEFRAM"
+
+#: app_settings.py:58
+msgid ""
+"If paying into the above bank account -  the fixed exchange rate is 1USD = "
+"600 XFA"
+msgstr ""
+
+#: app_settings.py:62
+#, fuzzy
+#| msgid "Invoice for iCUBEFRAM Credits"
+msgid "Payment receipt for Featured event participation"
+msgstr "Facture pour les crédits de iCUBEFRAM"
+
+#: app_settings.py:64
+#, fuzzy
+#| msgid ""
+#| "Dear {},\n"
+#| "Find attached an invoice for your purchase order for iCUBEFARM credits. "
+#| "For \n"
+#| "questions about this invoice, please contact billing@icubefarm.com"
+msgid ""
+"Dear {},\n"
+"Find attached payment receipt for your purchase order for iCUBEFARM featured "
+"event participation. For \n"
+"questions about this payment, please contact billing@icubefarm.com"
+msgstr ""
+" Cher {} \n"
+"Trouvez le reçu de paiement ci-joint pour votre commande d'achat de crédits "
+"iCUBEFARM.\n"
+" Pour toute question concernant cette facture, veuillez contacter "
+"billing@icubefarm.com"
+
+#: app_settings.py:74
+msgid "subscription_plan_name"
+msgstr ""
+
+#: app_settings.py:75 app_settings.py:119 app_settings.py:129
+#: app_settings.py:141
+msgid "entity_name"
+msgstr ""
+
+#: app_settings.py:76
+msgid "cost"
+msgstr ""
+
+#: app_settings.py:77
+msgid "duration"
+msgstr ""
+
+#: app_settings.py:78 models.py:52 models.py:97
+msgid "description"
+msgstr ""
+
+#: app_settings.py:84 app_settings.py:207
+msgid "bank_name_info"
+msgstr ""
+
+#: app_settings.py:85 app_settings.py:208
+msgid "bank_address_info"
+msgstr ""
+
+#: app_settings.py:86 app_settings.py:209
+msgid "beneficiary_info"
+msgstr ""
+
+#: app_settings.py:87 app_settings.py:210
+msgid "office_code"
+msgstr ""
+
+#: app_settings.py:88 app_settings.py:211
+msgid "agency_code"
+msgstr ""
+
+#: app_settings.py:89 app_settings.py:212
+msgid "account_number"
+msgstr ""
+
+#: app_settings.py:90 app_settings.py:213
+msgid "swift_code"
+msgstr ""
+
+#: app_settings.py:91 app_settings.py:214
+msgid "iban"
+msgstr ""
+
+#: app_settings.py:97 app_settings.py:218
+msgid "CCEIBANK"
+msgstr ""
+
+#: app_settings.py:98 app_settings.py:219
+msgid "Malabo II, Malabo, Equatorial Guinea"
+msgstr ""
+
+#: app_settings.py:99 app_settings.py:220
+msgid "ICUBEFARM EG SL"
+msgstr ""
+
+#: app_settings.py:111
+msgid "action_name"
+msgstr ""
+
+#: app_settings.py:112
+msgid "start_date"
+msgstr ""
+
+#: app_settings.py:113
+msgid "end_date"
+msgstr ""
+
+#: app_settings.py:120
+msgid "entity_address"
+msgstr ""
+
+#: app_settings.py:121
+msgid "entity_city"
+msgstr ""
+
+#: app_settings.py:128
+msgid "featured_event_name"
+msgstr ""
+
+#: app_settings.py:130
+msgid "entity_email"
+msgstr ""
+
+#: app_settings.py:131
+msgid "contact_no"
+msgstr ""
+
+#: app_settings.py:132 app_settings.py:144
+msgid "name_of_representative"
+msgstr ""
+
+#: app_settings.py:133
+msgid "participants"
+msgstr ""
+
+#: app_settings.py:134 app_settings.py:145
+msgid "address"
+msgstr ""
+
+#: app_settings.py:140
+msgid "career_fair_name"
+msgstr "Career Fair name"
+
+#: app_settings.py:142
+msgid "participant_type"
+msgstr "participant type"
+
+#: app_settings.py:143
+msgid "representative_email"
+msgstr ""
+
+#: app_settings.py:150
+#, fuzzy, python-brace-format
+#| msgid ""
+#| "Dear {},\n"
+#| "Find attached an invoice for your purchase order for iCUBEFARM credits. "
+#| "For \n"
+#| "questions about this invoice, please contact billing@icubefarm.com"
+msgid ""
+"Dear {0},\n"
+"Find attached payment receipt for your purchase order for {1}. For \n"
+"questions about this payment, please contact billing@icubefarm.com"
+msgstr ""
+" Cher {} \n"
+"Trouvez le reçu de paiement ci-joint pour votre commande d'achat de crédits "
+"iCUBEFARM.\n"
+" Pour toute question concernant cette facture, veuillez contacter "
+"billing@icubefarm.com"
+
+#: app_settings.py:154
+#, fuzzy
+#| msgid "Invoice for iCUBEFRAM Credits"
+msgid "Payment receipt for Subscription purchase"
+msgstr "Facture pour les crédits de iCUBEFRAM"
+
+#: app_settings.py:181
+msgid "Payment receipt for products purchase."
+msgstr " Reçu de paiement pour l'achat de produits."
+
+#: app_settings.py:183
+#, fuzzy, python-brace-format
+#| msgid ""
+#| "Dear {0},\n"
+#| "Find attached payment receipt for your purchase order of products.\n"
+#| " For questions about this payment, please contact billing@icubefarm.com"
+msgid ""
+"Dear {0},<br> Find attached payment receipt for your purchase order of "
+"products.\n"
+" For questions about this payment, please contact billing@icubefarm.com"
+msgstr ""
+" Cher {0} \n"
+" Trouvez le reçu de paiement ci-joint pour votre commande d'achat de "
+"produits.\n"
+"Pour toute question concernant ce paiement, veuillez contacter "
+"billing@icubefarm.com"
+
+#: app_settings.py:190
+#, python-brace-format
+msgid "Payment Failed : {0} while purchasing products."
+msgstr "Échec du paiement: {0} lors de l'achat de produits."
+
+#: app_settings.py:199
+msgid "Name"
+msgstr ""
+
+#: app_settings.py:200
+msgid "Email"
+msgstr ""
+
+#: app_settings.py:201
+msgid "Address"
+msgstr ""
+
+#: app_settings.py:202
+msgid "Contact_no"
+msgstr ""
+
+#: models.py:44 models.py:89
+msgid "name"
+msgstr ""
+
+#: models.py:278
+msgid "start date"
+msgstr ""
+
+#: models.py:279
+msgid "end date"
+msgstr ""
+
+#, fuzzy
+#~| msgid ""
+#~| "Dear {},\n"
+#~| "Find attached an invoice for your purchase order for iCUBEFARM credits. "
+#~| "For \n"
+#~| "questions about this invoice, please contact billing@icubefarm.com"
+#~ msgid ""
+#~ "Dear {},\n"
+#~ "Find attached payment receipt for your purchase order for iCUBEFARM "
+#~ "subscription purchase. For \n"
+#~ "questions about this payment, please contact billing@icubefarm.com"
+#~ msgstr ""
+#~ " Cher {} \n"
+#~ "Trouvez le reçu de paiement ci-joint pour votre commande d'achat de "
+#~ "crédits iCUBEFARM.\n"
+#~ " Pour toute question concernant cette facture, veuillez contacter "
+#~ "billing@icubefarm.com"
+
+#~ msgid "purchase_credits"
+#~ msgstr "Acheter le crédit"
+
+#~ msgid "create_job"
+#~ msgstr "Créer un emploi"
+
+#~ msgid "sponsored_job"
+#~ msgstr "Emploi parrainé"
+
+#~ msgid "sponsored_entity"
+#~ msgstr "Entité parrainée"
+
+#~ msgid "Invalid entity"
+#~ msgstr "Entité non valide, impossible d'attribuer un crédit"
+
+#~ msgid "Invalid start date or end date, please check and try again"
+#~ msgstr ""
+#~ "La date initiale ou la date limite nést pas valable, veuillez vérifier et "
+#~ "réessayer"
+
+#~ msgid ""
+#~ "Insufficient credits available for the app, please check with company "
+#~ "admin"
+#~ msgstr ""
+#~ "Crédits disponibles insuffisants pour l'application, veuillez vérifier "
+#~ "aupès du gérant de l'entreprise"
+
+#~ msgid ""
+#~ "There are no credits available for the entity, please check with entity "
+#~ "admin"
+#~ msgstr ""
+#~ "Il n'y a pas de crédits disponibles pour l'entité, veuillez vérifier "
+#~ "auprès du gérant de l'entité."
+
+#~ msgid "Invalid entity, cannot assign credit"
+#~ msgstr "Entité non valable, impossible d'attribuer un crédit"
+
+#~ msgid "Invalid application, cannot assign credit"
+#~ msgstr "Application invalide, impossible d'attribuer un crédit"
+
+#~ msgid "Insufficient credits available, cannot assign credits."
+#~ msgstr "Crédits insuffisants, impossible d'attribuer des crédits."
+
+#~ msgid "Invalid duration, please check start date and end date"
+#~ msgstr ""
+#~ "Durée invalide, veuillez vérifier la date de début et la date de fin"
+
+#~ msgid "Could not assign credits. Please check with Administrator"
+#~ msgstr ""
+#~ "Impossible d'attribuer des crédits. S'il vous plaît vérifier auprès de "
+#~ "l'administrateur"

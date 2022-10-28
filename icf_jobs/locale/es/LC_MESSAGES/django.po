@@ -1,0 +1,573 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-12 18:21+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\PDFGenerator.py:109 .\PDFGenerator.py:114
+msgid "Could not create User resume, please try again."
+msgstr ""
+
+#: .\api\filters.py:37
+msgid "NEW"
+msgstr "NUEVO"
+
+#: .\api\filters.py:37 .\models.py:290
+msgid "Maybe"
+msgstr "Quizás"
+
+#: .\api\filters.py:37 .\models.py:290
+msgid "Yes"
+msgstr "Si"
+
+#: .\api\filters.py:37 .\models.py:290
+msgid "NO"
+msgstr "No"
+
+#: .\api\mixins.py:74 .\api\mixins.py:140
+#, fuzzy
+#| msgid "Could not create resume, contact admin."
+msgid "Could not find matching jobs. Please contact admin."
+msgstr "No se pudo crear el currículum, contacte al administrador."
+
+#: .\api\mixins.py:92 .\api\mixins.py:96 .\api\mixins.py:165
+#: .\api\mixins.py:170 .\api\views.py:2478 .\api\views.py:2592
+#, fuzzy
+#| msgid "Something went wrong, please contact admin."
+msgid "Something went wrong. Please contact admin."
+msgstr "Algo salió mal, contáctese con el administrador."
+
+#: .\api\serializers.py:137
+msgid "You do not have the permissions to create jobs for {}"
+msgstr "Usted no tiene permisos para crear empleos para {}"
+
+#: .\api\serializers.py:147 .\api\serializers.py:313
+msgid "The job's start date should be between {X} and {Y}."
+msgstr "La fecha de inicio solo puede estar entre X e Y."
+
+#: .\api\serializers.py:194 .\api\serializers.py:327 .\api\serializers.py:383
+msgid "Please provide job's sponsored start date and sponsored end date."
+msgstr ""
+"Indique la fecha de inicio patrocinado y la fecha de finalización del empleo."
+
+#: .\api\serializers.py:210
+msgid ""
+"A job can be sponsored from {X} till {Y}. Choose valid sponsored start date "
+"and end date."
+msgstr ""
+"El trabajo puede ser patrocinado de {X} a {Y}. Elija una fecha de inicio y "
+"finalización patrocinada válida."
+
+#: .\api\serializers.py:342 .\api\serializers.py:456
+msgid ""
+"The start date of your sponsored job campaign cannot be before {X} and the "
+"end date cannot be after {Y}."
+msgstr ""
+"La fecha de inicio de su campaña de trabajo patrocinado no puede ser "
+"anterior a {X} y la fecha de finalización no puede ser posterior a {Y}"
+
+#: .\api\serializers.py:355
+msgid "You cannot change the start date for an active and published job."
+msgstr "No puede cambiar la fecha de inicio de un trabajo activo y publicado"
+
+#: .\api\serializers.py:359
+msgid "The start date cannot be before {X}."
+msgstr "La fecha de inicio no puede ser anterior a {X}."
+
+#: .\api\serializers.py:364
+msgid "The end date cannot be before {X}."
+msgstr "La fecha de finalización no puede ser anterior a {X}."
+
+#: .\api\serializers.py:399
+msgid "You cannot change the start date of an ongoing sponsored job campaign."
+msgstr ""
+"Usted no puede cambiar la fecha de inicio de una campaña de trabajo "
+"patrocinado en curso.."
+
+#: .\api\serializers.py:406
+msgid "The Sponsored job start date should be between {X} and {Y}."
+msgstr ""
+"La fecha de inicio del patrocinio del trabajo debe estar entre {X} e {Y}."
+
+#: .\api\serializers.py:415
+msgid "The Sponsored job end date should be between {X} and {Y}."
+msgstr ""
+"La fecha de finalización del patrocinio del trabajo debe estar entre {X} e "
+"{Y}."
+
+#: .\api\serializers.py:1607 .\api\serializers.py:1625
+#: .\api\serializers.py:3343 .\api\serializers.py:3362 .\api\views.py:2045
+#: .\api\views.py:2050 .\api\views.py:2055 .\api\views.py:2060
+msgid "Something went wrong, please contact admin."
+msgstr "Algo salió mal, contáctese con el administrador."
+
+#: .\api\serializers.py:1749
+msgid "Unknown user, cannot create job"
+msgstr "Usuario desconocido, no puede crear trabajo"
+
+#: .\api\serializers.py:2240 .\api\serializers.py:2527
+#: .\api\serializers.py:2899 .\api\serializers.py:3219
+msgid "Unknown user, cannot create resume."
+msgstr "Usuario desconocido, no puede crear currículum."
+
+#: .\api\serializers.py:2325 .\api\serializers.py:2552
+#: .\api\serializers.py:3022
+msgid "You does not have job profile please create it."
+msgstr "No tiene perfil de trabajo, créelo."
+
+#: .\api\serializers.py:2348 .\api\serializers.py:2352
+#: .\api\serializers.py:2375 .\api\serializers.py:2379
+#: .\api\serializers.py:2403 .\api\serializers.py:2407
+#: .\api\serializers.py:2431 .\api\serializers.py:2435
+#: .\api\serializers.py:2459 .\api\serializers.py:2464
+#: .\api\serializers.py:2488 .\api\serializers.py:2492
+#: .\api\serializers.py:2579 .\api\serializers.py:2583
+#: .\api\serializers.py:2606 .\api\serializers.py:2610
+#: .\api\serializers.py:2634 .\api\serializers.py:2638
+#: .\api\serializers.py:2662 .\api\serializers.py:2666
+#: .\api\serializers.py:2690 .\api\serializers.py:2695
+#: .\api\serializers.py:3045 .\api\serializers.py:3049
+#: .\api\serializers.py:3072 .\api\serializers.py:3076
+#: .\api\serializers.py:3100 .\api\serializers.py:3104
+#: .\api\serializers.py:3128 .\api\serializers.py:3132
+#: .\api\serializers.py:3156 .\api\serializers.py:3161
+#: .\api\serializers.py:3185 .\api\serializers.py:3189
+msgid "Could not create resume, contact admin."
+msgstr "No se pudo crear el currículum, contacte al administrador."
+
+#: .\api\serializers.py:2356 .\api\serializers.py:2383
+#: .\api\serializers.py:2411 .\api\serializers.py:2439
+#: .\api\serializers.py:2468 .\api\serializers.py:2496
+#: .\api\serializers.py:2556 .\api\serializers.py:2560
+#: .\api\serializers.py:2587 .\api\serializers.py:2614
+#: .\api\serializers.py:2642 .\api\serializers.py:2670
+#: .\api\serializers.py:2699 .\api\serializers.py:2755
+#: .\api\serializers.py:2782 .\api\serializers.py:2810
+#: .\api\serializers.py:2838 .\api\serializers.py:2867
+#: .\api\serializers.py:3053 .\api\serializers.py:3080
+#: .\api\serializers.py:3108 .\api\serializers.py:3136
+#: .\api\serializers.py:3165 .\api\serializers.py:3193 .\api\views.py:1682
+#: .\api\views.py:1761 .\api\views.py:1766 .\api\views.py:1770
+#: .\api\views.py:1783 .\api\views.py:1788 .\api\views.py:1792
+#: .\api\views.py:1806 .\api\views.py:1811 .\api\views.py:1815
+#: .\api\views.py:1828 .\api\views.py:1833 .\api\views.py:1837
+#: .\api\views.py:1850 .\api\views.py:1855 .\api\views.py:1859
+#: .\api\views.py:1872 .\api\views.py:1877 .\api\views.py:1881
+#: .\api\views.py:1885 .\api\views.py:1890 .\api\views.py:2214
+#: .\api\views.py:2229
+msgid "Something went wrong, contact admin."
+msgstr "Algo salió mal, contacta al administrador."
+
+#: .\api\serializers.py:2747 .\api\serializers.py:2751
+#: .\api\serializers.py:2774 .\api\serializers.py:2778
+#: .\api\serializers.py:2802 .\api\serializers.py:2806
+#: .\api\serializers.py:2830 .\api\serializers.py:2834
+#: .\api\serializers.py:2858 .\api\serializers.py:2863
+msgid "Could not get resume, contact admin."
+msgstr ""
+
+#: .\api\serializers.py:3017
+msgid "Something went wrong. Contact admin."
+msgstr "Algo salió mal. Contacta al administrador."
+
+#: .\api\serializers.py:3225 .\api\serializers.py:3229
+msgid "Could not create task. Please try again"
+msgstr "No se pudo crear la tarea. Inténtalo de nuevo"
+
+#: .\api\serializers.py:3536 .\api\serializers.py:3540
+#: .\api\serializers.py:3649 .\api\serializers.py:3653
+#: .\api\serializers.py:3659
+#, fuzzy
+#| msgid "Something went wrong, please contact admin."
+msgid "Something went wrong.Please contact administrator."
+msgstr "Algo salió mal, contáctese con el administrador."
+
+#: .\api\views.py:245 .\api\views.py:265
+msgid ""
+"Could not get industries and sectors for ministry:{ministry} and country: "
+"{country}.Please contact administrator.)"
+msgstr ""
+
+#: .\api\views.py:281
+msgid ""
+"Could not get industries and sectors for ministry:{ministry} and country:"
+"{country}.)"
+msgstr ""
+
+#: .\api\views.py:289
+msgid ""
+"Could not get industries and sectors for ministry:{ministry} and country:"
+"{country}. Please provide valid ministry type and country.)"
+msgstr ""
+
+#: .\api\views.py:296
+msgid "You have already provided your work status."
+msgstr ""
+
+#: .\api\views.py:530
+msgid "Could not retrieve UserWorkExperience."
+msgstr "No se pudo recuperar UserWorkExperience."
+
+#: .\api\views.py:666
+msgid "Skill already exist"
+msgstr "La habilidad ya existe"
+
+#: .\api\views.py:810
+msgid "User does not have job profile. Create UserJobProfile."
+msgstr "El usuario no tiene perfil de trabajo. Crear UserJobProfile."
+
+#: .\api\views.py:988
+msgid "Could not retrieve User Project."
+msgstr "No se pudo recuperar el proyecto de usuario."
+
+#: .\api\views.py:1588
+msgid "UserResume got deleted successfully."
+msgstr "UserResume se eliminó correctamente."
+
+#: .\api\views.py:1592 .\api\views.py:1687
+msgid "UserResume not found, cannot delete."
+msgstr "UserResume no encontrado, no se puede eliminar."
+
+#: .\api\views.py:1597
+#, fuzzy
+#| msgid "Something went wrong, please contact admin."
+msgid "Something went wrong, cannot delete UserResume."
+msgstr "Algo salió mal, contáctese con el administrador."
+
+#: .\api\views.py:1627 .\api\views.py:1637 .\api\views.py:1647
+#: .\api\views.py:1657 .\api\views.py:1667 .\api\views.py:1677
+msgid "UserResumeComponent got deleted successfully."
+msgstr "UserResumeComponent se eliminó correctamente."
+
+#: .\api\views.py:1691 .\api\views.py:1696
+#, fuzzy
+#| msgid "Something went wrong, please contact admin."
+msgid "Something went wrong, cannot delete UserResumeComponent."
+msgstr "Algo salió mal, contáctese con el administrador."
+
+#: .\api\views.py:1714
+msgid "Cannot update UserResume."
+msgstr "No se puede actualizar UserResume."
+
+#: .\api\views.py:1721
+msgid "Cannot update profile file upload"
+msgstr "No se puede actualizar la carga del archivo de perfil"
+
+#: .\api\views.py:2035
+msgid "successfully updated user resume status."
+msgstr "Estado de currículum vitae actualizado correctamente"
+
+#: .\api\views.py:2111
+msgid "User does not have job profile. please create the job profile first."
+msgstr ""
+"El usuario no tiene perfil de trabajo. cree primero el perfil del trabajo."
+
+#: .\api\views.py:2171 .\api\views.py:2189 .\api\views.py:2206
+msgid "Something went wrong, please check and try again."
+msgstr "Algo salió mal, contáctese con el administrador."
+
+#: .\api\views.py:2219
+msgid "UserJobProfile object not found for the user."
+msgstr "No se encontró el objeto UserJobProfile para el usuario."
+
+#: .\api\views.py:2224
+msgid "UserResume object not found for the user."
+msgstr "Objeto UserResume no encontrado para el usuario."
+
+#: .\api\views.py:2234
+msgid "UserResumeComponent object not found for the user."
+msgstr "Objeto UserResumeComponent no encontrado para el usuario."
+
+#: .\api\views.py:2239
+msgid "ContentType object not found."
+msgstr "Objeto ContentType no encontrado."
+
+#: .\api\views.py:2419 .\api\views.py:2422 .\api\views.py:2425
+#: .\api\views.py:2728 .\api\views.py:2731 .\api\views.py:2734
+#: .\api\views.py:2737 .\api\views.py:2740
+#, fuzzy
+#| msgid "Something went wrong, please contact admin."
+msgid "Something went wrong, Please contact admin."
+msgstr "Algo salió mal, contáctese con el administrador."
+
+#: .\api\views.py:2544
+#, fuzzy
+#| msgid "Something went wrong, please contact admin."
+msgid "Something went wrong. reason:{reason}"
+msgstr "Algo salió mal, contáctese con el administrador."
+
+#: .\api\views.py:2563 .\api\views.py:2763
+#, fuzzy
+#| msgid "ContentType object not found."
+msgid "Object not found."
+msgstr "Objeto ContentType no encontrado."
+
+#: .\app_settings.py:7
+msgid "New job posted in iCUBEFARM."
+msgstr ""
+
+#: .\app_settings.py:12
+msgid ""
+"Dear {0},<br> A new job is posted in iCUBEFARM that could be suitable for "
+"your job profile.\n"
+"Click on the link to view the job details {1}"
+msgstr ""
+
+#: .\models.py:77
+msgid "key skills"
+msgstr "Habilidades fundamentales"
+
+#: .\models.py:77
+msgid "computer skills"
+msgstr "Habilidades informáticas"
+
+#: .\models.py:77
+msgid "language skills"
+msgstr "Habilidades lingüísticas"
+
+#: .\models.py:78 .\models.py:631
+msgid "skill"
+msgstr "Habilidad"
+
+#: .\models.py:79
+msgid "skill type"
+msgstr "Tipo de habilidad"
+
+#: .\models.py:90
+msgid "salary frequency"
+msgstr "Frecuencia de salarios"
+
+#: .\models.py:101
+msgid "level"
+msgstr "Nivel"
+
+#: .\models.py:112 .\models.py:148 .\models.py:244 .\models.py:330
+#: .\models.py:398 .\models.py:650
+msgid "name"
+msgstr "Nombre"
+
+#: .\models.py:227
+msgid "professional biography"
+msgstr "Biografía profesional"
+
+#: .\models.py:243 .\models.py:573
+#, fuzzy
+#| msgid "job title"
+msgid "title"
+msgstr "Profesión"
+
+#: .\models.py:248
+msgid "biography"
+msgstr "biografía"
+
+#: .\models.py:316
+msgid "school"
+msgstr "Escuela"
+
+#: .\models.py:319
+msgid "certification"
+msgstr "Certificación"
+
+#: .\models.py:331
+#, fuzzy
+#| msgid "description"
+msgid "position"
+msgstr "Descripción"
+
+#: .\models.py:333 .\models.py:402
+msgid "email address"
+msgstr "Dirección de correo electrónico"
+
+#: .\models.py:348
+msgid "job title"
+msgstr "Profesión"
+
+#: .\models.py:351 .\models.py:400
+msgid "entity"
+msgstr "Entidad"
+
+#: .\models.py:369
+msgid "Beginner"
+msgstr "Principiante"
+
+#: .\models.py:369
+msgid "Novice"
+msgstr "Novato"
+
+#: .\models.py:369
+msgid "Intermediate"
+msgstr "Intermedio"
+
+#: .\models.py:370
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: .\models.py:370
+msgid "Expert"
+msgstr "Experto"
+
+#: .\models.py:385
+msgid "relation"
+msgstr "Relación"
+
+#: .\models.py:386 .\models.py:445
+msgid "description"
+msgstr "Descripción"
+
+#: .\models.py:432
+msgid "hobbie"
+msgstr "pasatiempo"
+
+#: .\models.py:471
+msgid "New"
+msgstr "Nuevo"
+
+#: .\models.py:471
+msgid "Deleted"
+msgstr "Suprimido"
+
+#: .\models.py:471
+msgid "Rejected"
+msgstr "Rechazado"
+
+#: .\models.py:574
+msgid "summary"
+msgstr "resumen"
+
+#: .\models.py:631
+msgid "work_experience"
+msgstr ""
+
+#: .\models.py:631
+#, fuzzy
+#| msgid "relation"
+msgid "education"
+msgstr "Relación"
+
+#: .\models.py:631
+#, fuzzy
+#| msgid "relation"
+msgid "location"
+msgstr "Relación"
+
+#: .\permissions.py:14 .\permissions.py:34
+msgid "You do not have the permissions to create a job for entity"
+msgstr "No tiene permisos para crear trabajo para la entidad"
+
+#: .\permissions.py:49
+msgid "You do not have the permissions to publish a job for entity"
+msgstr "No tiene permisos para crear trabajo para la entidad"
+
+#: .\permissions.py:59
+msgid "You do not have the permissions to mark a job as Delete for entity"
+msgstr "No tiene permiso para marcar el trabajo como Borrar"
+
+#: .\permissions.py:76
+msgid "You do not have the permissions to delete jobs for entity"
+msgstr "No tiene permisos para eliminar trabajo para la entidad"
+
+#: .\permissions.py:91
+msgid "You do not have permissions to see the jobs marked for Delete."
+msgstr "No tiene permiso para ver los trabajos marcados para Borrar."
+
+#: .\permissions.py:106
+msgid ""
+"You do not have the permissions to reject a job delete request for entity"
+msgstr ""
+"No tiene permisos para rechazar la solicitud de eliminación de trabajos para "
+"la entidad"
+
+#: .\permissions.py:126
+msgid "You do not have the permissions to recruit applicants"
+msgstr "No tiene permisos para reclutar al solicitante"
+
+#~ msgid "Invalid duration for posting the job. Please check and try again."
+#~ msgstr ""
+#~ "Duración inválida para publicar el trabajo, verifique y vuelva a "
+#~ "intentarlo"
+
+#~ msgid "Invalid duration for sponsoring the job. Please check and try again."
+#~ msgstr ""
+#~ "Duración inválida para patrocinar el trabajo, verifique una prueba de "
+#~ "nuevo"
+
+#~ msgid "Invalid start date for sponsoring the job."
+#~ msgstr ""
+#~ "Fecha de inicio inválida para patrocinar el trabajo, verifique y vuelva a "
+#~ "intentarlo."
+
+#~ msgid "Invalid end date for sponsoring."
+#~ msgstr ""
+#~ "Fecha límite inválida para el patrocinio. Compruebe e intente de nuevo."
+
+#~ msgid ""
+#~ "The start date of your sponsored job campaign cannot be before X and the "
+#~ "end date cannot be after Y"
+#~ msgstr ""
+#~ "La fecha de inicio de su campaña de trabajo patrocinada no puede ser "
+#~ "anterior a X y la fecha de finalización no puede ser posterior a Y"
+
+#~ msgid ""
+#~ "The start date of your sponsored job campaign can only be between X and Y"
+#~ msgstr ""
+#~ "La fecha de inicio de su campaña de empleo patrocinada solo puede ser "
+#~ "entre X e Y"
+
+#~ msgid ""
+#~ "The end date of your sponsored job campaign can only be between X and Y"
+#~ msgstr ""
+#~ "La fecha de finalización de su campaña de empleo patrocinada solo puede "
+#~ "ser entre X e Y"
+
+#~ msgid ""
+#~ "The minimum duration for posting a job is X days and the maximum duration "
+#~ "of posting a job is Y days. Please check and try again."
+#~ msgstr ""
+#~ "La duración mínima para publicar un trabajo es X días y la duración "
+#~ "máxima para publicar un trabajo es Y días. Por favor, revisalo e "
+#~ "intentelo de nuevo."
+
+#~ msgid ""
+#~ "The minimum duration for sponsoring a job is X days and the maximum "
+#~ "duration of sponsoring a job is Y days. Please check and try again."
+#~ msgstr ""
+#~ "La duración mínima para patrocinar un trabajo es de X días y la duración "
+#~ "máxima de patrocinar un trabajo es de Y días. Por favor revise e "
+#~ "intentelo de nuevo."
+
+#~ msgid "Do not have permissions to create job for the entity"
+#~ msgstr "No tiene permisos para crear trabajo para la entidad"
+
+#~ msgid ""
+#~ "Duration for sponsoring job not within the job posting duration, please "
+#~ "check."
+#~ msgstr ""
+#~ "Duración para el trabajo de patrocinio no dentro de la duración de la "
+#~ "publicación de trabajo, por favor verifique."
+
+#~ msgid "Invalid start date, please check and try again."
+#~ msgstr "Fecha de inicio inválida, verifique y vuelva a intentarlo."
+
+#~ msgid "Invalid end date, please check and try again."
+#~ msgstr ""
+#~ "La fecha de finalización es inválida, compruebe y vuelva a intentarlo."
+
+#~ msgid "Do not have permission to publish job"
+#~ msgstr "No tiene permiso para publicar trabajo"
+
+#~ msgid "May_Be"
+#~ msgstr "Quizás"

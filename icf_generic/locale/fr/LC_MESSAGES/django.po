@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-14 14:25+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\api\serializers.py:129
+msgid "Invalid header found."
+msgstr "En-tête invalide trouvé."
+
+#: .\api\views.py:158
+msgid "Provide a valid limit"
+msgstr "Donnez une limite valide"
+
+#: .\models.py:71
+msgid "address"
+msgstr "adresse"
+
+#: .\models.py:72
+#, fuzzy
+#| msgid "address cont'd"
+msgid "address continued"
+msgstr "Adresse (suite)"
+
+#: .\models.py:87
+msgid "language"
+msgstr "langue"
+
+#: .\models.py:88
+msgid "code"
+msgstr "Code"
+
+#: .\models.py:98
+msgid "currency"
+msgstr "Devise"
+
+#: .\models.py:99
+#, fuzzy
+#| msgid "currency_code"
+msgid "currency code"
+msgstr "Code de devise"
+
+#: .\models.py:129 .\models.py:155 .\models.py:201
+msgid "Active"
+msgstr "Actif"
+
+#: .\models.py:130 .\models.py:156 .\models.py:202
+msgid "Inactive"
+msgstr "Inactif"
+
+#: .\models.py:138
+msgid "valid from"
+msgstr "Valide à partir de"
+
+#: .\models.py:139
+msgid "valid till"
+msgstr "Valide jusqu'au"
+
+#: .\models.py:159 .\models.py:205
+msgid "title"
+msgstr "Titre"
+
+#: .\models.py:161 .\models.py:207
+msgid "description"
+msgstr "Description"
+
+#: .\models.py:174
+msgid "Description of type of item"
+msgstr "Description du type d'élément"
+
+#: .\models.py:182
+msgid "category"
+msgstr "Catégorie"
+
+#: .\models.py:183
+msgid "Description of category"
+msgstr "Description de la catégorie"
+
+#: .\models.py:209
+msgid "location"
+msgstr "Lieu"
+
+#: .\models.py:210
+msgid "start date"
+msgstr "Date de début"
+
+#: .\models.py:211
+msgid "end date"
+msgstr "Date de fin"
+
+#: .\models.py:212
+msgid "start date timing"
+msgstr "Calendrier pour la date de début"
+
+#: .\models.py:213
+msgid "end date timing"
+msgstr "Calendrier pour la date de fin"
+
+#: .\models.py:225
+msgid "question"
+msgstr "Question"
+
+#: .\models.py:226
+msgid "answer"
+msgstr "Réponse"
+
+#: .\models.py:233
+msgid "first name"
+msgstr "Nom"
+
+#: .\models.py:234
+msgid "second name"
+msgstr "Prénom"
+
+#: .\models.py:236
+msgid "subject"
+msgstr "Sujet"
+
+#: .\models.py:237
+msgid "message"
+msgstr "Message"
